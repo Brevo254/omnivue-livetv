@@ -1,0 +1,14 @@
+[
+  {
+    "id": "test-channel",
+    "name": "Test Channel",
+    "logo": "https://example.com/logo.png",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://example.com/stream.m3u8", "priority": 1 }
+    ]
+  }
+]
