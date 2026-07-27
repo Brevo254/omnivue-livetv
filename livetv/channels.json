@@ -48,6 +48,18 @@
     ]
   },
   {
+    "id": "bbc-earth",
+    "name": "BBC Earth (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "discovering-china",
     "name": "Discovering China (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-atnDeSw68891q60PzlV8NnslPQDJtZ8b33C3Bdm2yA&s",
@@ -72,6 +84,18 @@
     ]
   },
   {
+    "id": "filmrise-anime",
+    "name": "FilmRise Anime (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uuKIdWRXwTOUOVB0GCw-vqQm8lYysN32jevwt5HvZg&s=10",
+    "category": "animation",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "mix-hollywood",
     "name": "Mix Hollywood (1080p)",
     "logo": "https://assets.myco.io/public/20251223/mycolive-MIX-TV-1766494046381.jpg",
@@ -81,6 +105,30 @@
     "status": "active",
     "streams": [
       { "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "nickelodeon-tv",
+    "name": "Nickelodeon",
+    "logo": "https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-premierleague",
+    "name": "Sky Sport Premier League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 1 }
     ]
   },
   {
@@ -158,7 +206,7 @@
   {
     "id": "xite-uk",
     "name": "XITE Hits UK (1080p)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnw26Db0y2m32BHnKALy8Gdz-FXUaZ1AXsoNLYiVIbB2YeDQMFxseauYD&s=10",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gM9Sr1_2l_10-umy9tO3XakLKsDT2otox8lVpGGytA&s=10",
     "category": "music",
     "country": "UK",
     "language": "en",
