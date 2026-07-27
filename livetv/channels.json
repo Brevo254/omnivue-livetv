@@ -8,7 +8,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://stream.ecable.tv/afrobeats/index.m3u8", "priority": 1 }
+      { "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8", "priority": 1 }
     ]
   },
   {
@@ -57,6 +57,114 @@
     "status": "active",
     "streams": [
       { "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "dw-english",
+    "name": "DW English (1080p)",
+    "logo": "https://play-lh.googleusercontent.com/f0ik_xfWWkMGzpql272IeF5LGc2lr5TCR_x1vJK_5dg_3UD6qGrNJDndRqaLVkmCWaXj-qlkrNYT8-l1GgHYlQ",
+    "category": "news",
+    "country": "DE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "mix-hollywood",
+    "name": "Mix Hollywood (1080p)",
+    "logo": "https://assets.myco.io/public/20251223/mycolive-MIX-TV-1766494046381.jpg",
+    "category": "movies",
+    "country": "EG",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-gospel",
+    "name": "Trace Gospel Nigeria and East Africa (1080p)",
+    "logo": "https://talkmediaafrica.com/wp-content/uploads/2019/12/trace-gospel-960x600.png",
+    "category": "music",
+    "country": "FR",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-ngoma",
+    "name": "Trace Ngoma (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28JhoBKjRB3-k4EHJWgMZEfTpTlkehB1tFGzSTaisDQ&s=10",
+    "category": "music",
+    "country": "FR",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-uk",
+    "name": "Trace UK (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd18QVAlq7biADyHCM_dLqN_dvmNVx0PYBxAAA7-cLzA&s",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "total-music",
+    "name": "Totalmusic (1080p)",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mErUxqizmbnrZjlsQBIoDa7pU9CeiPNn3hAfHYuaBq0xs=s900-c-k-c0x00ffffff-no-rj",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "wild-earth",
+    "name": "WildEarth (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQ31NKeSwXYDLo9OfKZAqTdo0Q9xpXVejHMbuU0egN7u5ZqvwQ2EHjZ0&s=10",
+    "category": "documentary",
+    "country": "ZA",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "wonder-tv",
+    "name": "Wonder (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnw26Db0y2m32BHnKALy8Gdz-FXUaZ1AXsoNLYiVIbB2YeDQMFxseauYD&s=10",
+    "category": "science",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "xite-uk",
+    "name": "XITE Hits UK (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMnw26Db0y2m32BHnKALy8Gdz-FXUaZ1AXsoNLYiVIbB2YeDQMFxseauYD&s=10",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8", "priority": 1 }
     ]
   }
 
