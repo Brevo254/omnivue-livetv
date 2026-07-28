@@ -229,6 +229,18 @@
     ]
   },
   {
+    "id": "smithsonian-channel",
+    "name": "Smithsonian Channel",
+    "logo": "https://www.si.edu/sites/default/files/styles/grid/public/newsdesk/press_releases/smithsonian-channel-logo-thumbnail.jpg.webp?itok=lFH6Hai3",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 1 }
+    ]
+  },
+  {
     "id": "trace-gospel",
     "name": "Trace Gospel Nigeria and East Africa (1080p)",
     "logo": "https://talkmediaafrica.com/wp-content/uploads/2019/12/trace-gospel-960x600.png",
