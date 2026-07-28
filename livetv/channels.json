@@ -60,6 +60,31 @@
     ]
   },
   {
+    "id": "bbc-food",
+    "name": "BBC Food (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuA28dqhphjY6frTD3ba4bpUnHi8iWXAKH7cVRBRc92Q&s=10",
+    "category": "food",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "bbc-news",
+    "name": "BBC News (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpe_ZjoFDZt_7smvNp7qKar4L2Yh3EwIsa0By1Lw6nw&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://xemzi.short.gy/1000015", "priority": 1 },
+      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 2 }
+    ]
+  },
+  {
     "id": "discovering-china",
     "name": "Discovering China (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-atnDeSw68891q60PzlV8NnslPQDJtZ8b33C3Bdm2yA&s",
@@ -96,6 +121,18 @@
     ]
   },
   {
+    "id": "just-gags",
+    "name": "Just for Laughs Gags (1080p)",
+    "logo": "https://cdn.mos.cms.futurecdn.net/pW2YQbyQ5YbTohDZRAZDAC.jpg",
+    "category": "comedy",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "mix-hollywood",
     "name": "Mix Hollywood (1080p)",
     "logo": "https://assets.myco.io/public/20251223/mycolive-MIX-TV-1766494046381.jpg",
@@ -117,6 +154,66 @@
     "status": "active",
     "streams": [
       { "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "rakuten-ukmovies",
+    "name": "Rakuten Top Movies UK",
+    "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "rakuten-ukactionmovies",
+    "name": "Rakuten TV Action Movies UK (1080p)",
+    "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "rakuten-ukcomedymovies",
+    "name": "Rakuten TV Comedy Movies UK (1080p)",
+    "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "rakuten-ukdramamovies",
+    "name": "Rakuten TV Drama Movies UK (1080p)",
+    "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "rakuten-ukfamilymovies",
+    "name": "Rakuten TV Family Movies UK (1080p)",
+    "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8", "priority": 1 }
     ]
   },
   {
@@ -201,6 +298,18 @@
     "status": "active",
     "streams": [
       { "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "wild-out",
+    "name": "Wild 'N Out",
+    "logo": "https://static.wikia.nocookie.net/wild-n-out/images/a/a2/Mtvwildnout2019logo.png/revision/latest/thumbnail/width/360/height/450?cb=20191220075228",
+    "category": "series",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8", "priority": 1 }
     ]
   },
   {
