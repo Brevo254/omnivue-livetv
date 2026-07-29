@@ -81,9 +81,47 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://xemzi.short.gy/1000015", "priority": 1 },
+      { "url": "https://xemzi.short.gy/1000015", "priority": 2 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39712", "priority": 1 },
       { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 2 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101684", "priority": 3 }
+    ]
+  },
+  {
+    "id": "boomerang",
+    "name": "Boomerang",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQgmx_MZtLindPh6pyJXK3nSprhnt5ytLmxmkWHOI_RIuazUNCXObUAiv&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20868", "priority": 1 }
+    ]
+  },
+  {
+    "id": "cartoon-network",
+    "name": "Cartoon Network",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY6fOL4jpaUVynQCNcIp-wjr451mykteMyA_3U1BWe6naRlXdOw7AT9k&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31392", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20869", "priority": 2 }
+    ]
+  },
+  {
+    "id": "ctv-nature",
+    "name": "CTV Nature Channel",
+    "logo": "https://brucetelecom.com/wp-content/uploads/2020/01/Untitled-design-2024-12-05T152141.537.png",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45232", "priority": 1 }
     ]
   },
   {
@@ -114,13 +152,13 @@
   {
     "id": "discovery-science",
     "name": "Discovery Science",
-    "logo": "https://images.seeklogo.com/logo-png/26/1/discovery-science-logo-png_seeklogo-267148.png",
+    "logo": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
     "category": "documentary",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45232", "priority": 1 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31403", "priority": 1 }
     ]
   },
   {
@@ -136,6 +174,31 @@
     ]
   },
   {
+    "id": "disney-channel",
+    "name": "Disney Channel",
+    "logo": "https://images.seeklogo.com/logo-png/25/1/new-disney-channel-logo-png_seeklogo-255285.png",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25179", "priority": 1 }
+    ]
+  },
+  {
+    "id": "disney-jr",
+    "name": "Disney Junior",
+    "logo": "https://images.seeklogo.com/logo-png/61/1/disney-jr-logo-png_seeklogo-617658.png",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25181", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25182", "priority": 2 }
+    ]
+  },
+  {
     "id": "disney-xd",
     "name": "DISNEY XD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHVCDEiutXnUyfaRYnmAkPW6uxqg6q9LmpZ6zjzCozw&s=10",
@@ -144,7 +207,9 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85550", "priority": 1 }
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85550", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25183", "priority": 2},
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25184", "priority": 3 }
     ]
   },
   {
@@ -204,7 +269,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38522", "priority": 1 }
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38522", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31443", "priority": 2 }
     ]
   },
   {
@@ -228,20 +294,23 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/38192", "priority": 1 }
+      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/38192", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 2 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 3 }
     ]
   },
   {
     "id": "natgeo-wild",
     "name": "NAT GEO WILD",
-    "logo": "https://deadline.com/2018/01/nat-geo-wild-new-series-premiere-dates-incredible-dr-pol-tca-1202242405/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Bg-_ZwI3aDa0pH6Exa__D90RQRq88esA8sTcxZbOdw&s=10",
     "category": "documentary",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/112181", "priority": 1 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101658", "priority": 2 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127926", "priority": 1 },
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101658", "priority": 2 },
+      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/112181", "priority": 3 }
     ]
   },
   {
@@ -254,7 +323,33 @@
     "status": "active",
     "streams": [
       { "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8", "priority": 1 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38513", "priority": 2 }
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38513", "priority": 2 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20876", "priority": 3 }
+    ]
+  },
+  {
+    "id": "nickelodeon-jr",
+    "name": "Nick Jr",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWzj1n3kJ1kT28xcRHrOAmwaHWCb8QxEg77OsTkszBw&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20874", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20875", "priority": 2 }
+    ]
+  },
+  {
+    "id": "paramount-network",
+    "name": "Paramount Network",
+    "logo": "https://assets.goal.com/images/v3/blt86a6c9eda4830f5b/Paramount_Network_logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "category": "lifestyle",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31452", "priority": 1 }
     ]
   },
   {
@@ -350,9 +445,11 @@
     "language": "en",
     "status": "active",
     "streams": [
-       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101764", "priority": 1 },
-      { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 2 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60514", "priority": 3 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39834", "priority": 1 },
+       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101764", "priority": 2 },
+      { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 3 },
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60514", "priority": 4 }
+      
     ]
   },
   {
