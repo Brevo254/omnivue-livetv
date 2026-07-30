@@ -135,6 +135,30 @@
     "youtubeId": "gyhQilvSkDg"
   },
   {
+    "id": "cinemax-tv",
+    "name": "Cinemax",
+    "logo": "https://deadline.com/wp-content/uploads/2019/07/cinemax-logo.jpg?w=681&h=383&crop=1",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/52157", "priority": 1 }
+    ]
+  },
+  {
+    "id": "cinemax-action",
+    "name": "Cinemax Action",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/52161", "priority": 1 }
+    ]
+  },
+  {
     "id": "e-entertainment",
     "name": "E! Entertainment HD",
     "logo": "https://assets.goal.com/images/v3/blt17998be5eea67bdb/e-logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
@@ -186,7 +210,7 @@
   {
     "id": "disney-channel",
     "name": "Disney Channel",
-    "logo": "https://images.seeklogo.com/logo-png/25/1/new-disney-channel-logo-png_seeklogo-255285.png",
+    "logo": "https://static.wikia.nocookie.net/disney-wik/images/8/8a/Disney_Channel.jpg/revision/latest/scale-to-width-down/350?cb=20161113190040",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -198,7 +222,7 @@
   {
     "id": "disney-jr",
     "name": "Disney Junior",
-    "logo": "https://images.seeklogo.com/logo-png/61/1/disney-jr-logo-png_seeklogo-617658.png",
+    "logo": "https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -447,6 +471,18 @@
     ]
   },
   {
+    "id": "supersport-blitz",
+    "name": "Supersport Blitz",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpD2YOexsBGNl-VpS66KmoDyGmW9KjV_C9OoirxYdMFA&s",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 1 }
+    ]
+  },
+  {
     "id": "smithsonian-channel",
     "name": "Smithsonian Channel",
     "logo": "https://www.si.edu/sites/default/files/styles/grid/public/newsdesk/press_releases/smithsonian-channel-logo-thumbnail.jpg.webp?itok=lFH6Hai3",
@@ -460,6 +496,18 @@
       { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 3 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60514", "priority": 4 }
       
+    ]
+  },
+  {
+    "id": "tnt-tv",
+    "name": "TNT",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFfBDmtkk79xbvUJLEiFjB94EoxiaJg2wmVHpmtyJDQ&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44192", "priority": 1 }
     ]
   },
   {
