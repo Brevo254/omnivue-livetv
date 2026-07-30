@@ -1,15 +1,14 @@
 [
   {
-    "id": "iptv-channel",
-    "name": "Welcome to FREE IPTV WORLD",
-    "logo": "https://archive.org/download/iptv-smarters-logo/Iptv%20Smarters%20Logo.jpg",
-    "category": "news",
-    "country": "KE",
+    "id": "anime-hidive",
+    "name": "ANIME X HIDIVE",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVQcHXnsRiAL3op5VYCWlXQZgvkEsXHi4MLstQz9Sb2g&s=10",
+    "category": "animation",
+    "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://files.catbox.moe/npglfu.mp4", "priority": 1 },
-      { "url": "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8", "priority": 2 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154654", "priority": 1 }
     ]
   },
   {
@@ -113,6 +112,42 @@
     ]
   },
   {
+    "id": "crunchyroll-tv",
+    "name": " CRUNCHYROLL",
+    "logo": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000042000/e965921d2670a197008fe9403e50aaa0b150eabcaab4ce8b0c860d75ba4d1ee6",
+    "category": "animation",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154968", "priority": 1 }
+    ]
+  },
+  {
+    "id": "canal-league",
+    "name": "CANAL+ Premier League ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNo96iDHZNrhl6ZZgAeNRVXvKcB4N8pvj3NE_GhLvAFabBREPiSLiXH6H&s=10",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://atletico.stream:8080/19494786/bd92acbb/297425", "priority": 1 }
+    ]
+  },
+  {
+    "id": "curiosity-now",
+    "name": "CURIOSITY NOW",
+    "logo": "https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/curiosity-now.jpg.jpeg",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154974", "priority": 1 }
+    ]
+  },
+  {
     "id": "ctv-nature",
     "name": "CTV Nature Channel",
     "logo": "https://brucetelecom.com/wp-content/uploads/2020/01/Untitled-design-2024-12-05T152141.537.png",
@@ -122,6 +157,18 @@
     "status": "active",
     "streams": [
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45232", "priority": 1 }
+    ]
+  },
+  {
+    "id": "cooking-channel",
+    "name": "COOKING CHANNEL",
+    "logo": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.462.85.suffix/1475775673528.webp",
+    "category": "food",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154957", "priority": 1 }
     ]
   },
   {
@@ -156,6 +203,18 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/52161", "priority": 1 }
+    ]
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157936", "priority": 1 }
     ]
   },
   {
@@ -303,7 +362,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38535", "priority": 1 }
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38535", "priority": 1 },
+      { "url": "http://atletico.stream:8080/19494786/bd92acbb/197788", "priority": 2 }
     ]
   },
   {
@@ -340,9 +400,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/38192", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 2 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 3 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 2 }
     ]
   },
   {
@@ -459,6 +518,18 @@
     ]
   },
   {
+    "id": "sony-max",
+    "name": "SONY MAX",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10",
+    "category": "reality",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157922", "priority": 1 }
+    ]
+  },
+  {
     "id": "sky-news",
     "name": "Sky News FHD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFhhMPutJ5BbukweOmmQ5Vr1lQRzAWz8j-lRj4bt48A&s=10",
@@ -479,7 +550,34 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 1 }
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1677", "priority": 2 }
+
+    ]
+  },
+  {
+    "id": "skysports-mix",
+    "name": "Sky Sports Mix ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg?_=20200324180942",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1670", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146477", "priority": 2 }
+    ]
+  },
+  {
+    "id": "skysports-football",
+    "name": "Sky Sports Football",
+    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1671", "priority": 1 }
     ]
   },
   {
@@ -491,7 +589,20 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 1 }
+      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1672", "priority": 2 }
+    ]
+  },
+  {
+    "id": "supersport-action",
+    "name": "SuperSport Action",
+    "logo": "https://i0.wp.com/alternativeadverts.co.ke/wp-content/uploads/2024/07/DSTV-SuperSport-Action-Advert-Rate.jpg?fit=132%2C99&ssl=1",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://atletico.stream:8080/19494786/bd92acbb/194354", "priority": 1 }
     ]
   },
   {
@@ -503,7 +614,23 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 1 }
+      { "url": "http://atletico.stream:8080/19494786/bd92acbb/281536", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157803", "priority": 2 },
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 3 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147070", "priority": 4 }
+    ]
+  },
+  {
+    "id": "supersport-premier",
+    "name": "SuperSport Premier League",
+    "logo": "https://ke.moreplextv.com/wp-content/uploads/2025/01/S-Premier-League.png",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147074", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157810", "priority": 1 }
     ]
   },
   {
@@ -627,7 +754,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101680", "priority": 1 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147079", "priority": 1 },
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101680", "priority": 2 }
     ]
   },
   {
