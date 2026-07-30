@@ -125,6 +125,16 @@
     ]
   },
   {
+    "id": "citizen-tv",
+    "name": "Citizen TV Live",
+    "logo": "https://kenyalivetv.co.ke/uploads/tv/1_icon_citizentv.webp",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "youtubeId": "gyhQilvSkDg"
+  },
+  {
     "id": "e-entertainment",
     "name": "E! Entertainment HD",
     "logo": "https://assets.goal.com/images/v3/blt17998be5eea67bdb/e-logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
