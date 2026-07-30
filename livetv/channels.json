@@ -61,15 +61,15 @@
     ]
   },
   {
-    "id": "bbc-food",
-    "name": "BBC Food (1080p)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuA28dqhphjY6frTD3ba4bpUnHi8iWXAKH7cVRBRc92Q&s=10",
-    "category": "food",
+    "id": "bbc-lifestyle",
+    "name": "BBC Lifestyle",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsztcq1fUEQargG3tw3-Z7asq_YJk9q8Zn2xwa07TJT8pWzLaKvVCx84&s=10",
+    "category": "lifestyle",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8", "priority": 1 }
+      { "url": "http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/46668", "priority": 1 }
     ]
   },
   {
@@ -283,6 +283,18 @@
     ]
   },
   {
+    "id": "k24-tv",
+    "name": "K24",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/K24_TV_Logo_Variant.jpg",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157838", "priority": 1 }
+    ]
+  },
+  {
     "id": "m-net",
     "name": "M-Net",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa27iHjz0kCQr4tpDfpesq0ypQKHf76uB6GXrn9Uk6GTZg1AotmAakIv0&s=10",
@@ -459,6 +471,18 @@
     ]
   },
   {
+    "id": "skysports-main",
+    "name": "Sky Sports Main Event",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 1 }
+    ]
+  },
+  {
     "id": "sky-premierleague",
     "name": "Sky Sport Premier League",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
@@ -616,6 +640,18 @@
     "status": "active",
     "streams": [
       { "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "zee-one",
+    "name": "Zee-One HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TLi4l5WD3KLd7ccvom6jfTkhG8qJAUum-vnCEkOzZg&s=10",
+    "category": "drama",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/48210", "priority": 1 }
     ]
   }
 
