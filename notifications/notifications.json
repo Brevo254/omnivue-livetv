@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Welcome to Omnivue",
+    "message": "Explore Live TV, Movies, and more.",
+    "category": null
+  },
+  {
+    "title": "New channels added",
+    "message": "3 new sports channels are now live.",
+    "category": "livetv"
+  }
+]
