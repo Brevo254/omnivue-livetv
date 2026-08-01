@@ -148,6 +148,30 @@
     ]
   },
   {
+    "id": "ctv-comedy",
+    "name": "CTV Comedy Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsx7Piu2WoDwZtBkOvaO9SvFsEeuv6wiHuwPXRafmLaw&s=10",
+    "category": "comedy",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127876", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ctv-drama",
+    "name": "CTV Drama Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IFT9QO6pGMHivZOvcc_FE72ByhVPwovCp8lQN5Ls9g&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127866", "priority": 1 }
+    ]
+  },
+  {
     "id": "ctv-nature",
     "name": "CTV Nature Channel",
     "logo": "https://brucetelecom.com/wp-content/uploads/2020/01/Untitled-design-2024-12-05T152141.537.png",
@@ -156,7 +180,20 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45232", "priority": 1 }
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/45232", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127885", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ctv-scifi",
+    "name": "CTV Sci-Fi Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe_6EuG8uD5pO127vfX1cIFX66FnI99JT-yX_M9Mz8_A&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127945", "priority": 1 }
     ]
   },
   {
@@ -391,6 +428,18 @@
       { "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8", "priority": 1 }
     ]
   },
+  {
+    "id": "movie-time",
+    "name": "Movietime",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Movietime_Cinemas_Logo1.jpg",
+    "category": "movies",
+    "country": "EG",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127921", "priority": 1 }
+    ]
+  },
    {
     "id": "national-geographic",
     "name": "NATIONAL GEOGRAPHIC",
@@ -443,6 +492,18 @@
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20874", "priority": 1 },
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20875", "priority": 2 }
+    ]
+  },
+  {
+    "id": "nickelodeon-toons",
+    "name": "Nick Toons",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44120", "priority": 1 }
     ]
   },
   {
