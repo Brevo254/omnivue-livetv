@@ -12,6 +12,30 @@
     ]
   },
   {
+    "id": "amc-channel",
+    "name": "AMC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZGtDkU7PZMy9OBQI6CuHZvuOZvmvenBXyEUQi1MVBw&s",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9227", "priority": 1 }
+    ]
+  },
+  {
+    "id": "amc-plus",
+    "name": "AMC +",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-NC-63SaUEzPtr5uY0fJo8sZFJd6vLwb-IV3BIH9Q&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/108531", "priority": 1 }
+    ]
+  },
+  {
     "id": "afro-beats",
     "name": "Afrobeats",
     "logo": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/afrobeats-channel-100~_v-HintergrundL.jpg",
@@ -45,6 +69,30 @@
     "status": "active",
     "streams": [
       { "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "bet-channel",
+    "name": "BET",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9214", "priority": 1 }
+    ]
+  },
+  {
+    "id": "bet-her",
+    "name": "BET HER",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/250px-BET_Her.svg.png",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/49221", "priority": 1 }
     ]
   },
   {
@@ -205,7 +253,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154957", "priority": 1 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154957", "priority": 1 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9205", "priority": 2 }
     ]
   },
   {
@@ -245,13 +294,14 @@
   {
     "id": "cnn",
     "name": "CNN",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
     "category": "news",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157936", "priority": 1 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67196", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157936", "priority": 2 }
     ]
   },
   {
@@ -367,6 +417,43 @@
     ]
   },
   {
+    "id": "food-network",
+    "name": "Food Network",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv6z7OnoC4P-_vdR9a3lNd_JPM6g9I2eCtY1M-GG5QQ2JHMwV0rY9nxi5&s=10",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9195", "priority": 1 },
+       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/56096", "priority": 2 }
+    ]
+  },
+  {
+    "id": "hbo-tv",
+    "name": "HBO",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvK9-h0Ytkuy1eleK2q6e3r4XsrIx9WaOyhILWQx1Sew&s",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67135", "priority": 1 }
+    ]
+  },
+  {
+    "id": "hbo-tv",
+    "name": "HBO 2",
+    "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_HBO2.png",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67134", "priority": 1 }
+    ]
+  },
+  {
     "id": "just-gags",
     "name": "Just for Laughs Gags (1080p)",
     "logo": "https://cdn.mos.cms.futurecdn.net/pW2YQbyQ5YbTohDZRAZDAC.jpg",
@@ -388,6 +475,18 @@
     "status": "active",
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157838", "priority": 1 }
+    ]
+  },
+  {
+    "id": "kbc-tv",
+    "name": "KBC TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWLQ-k8gNqisZ4lsRBCQRbvKcIWpznHuPrS3dDAbujA&s=10",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135265", "priority": 1 }
     ]
   },
   {
@@ -450,7 +549,8 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 2 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 2 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67106", "priority": 3 }
     ]
   },
   {
@@ -708,6 +808,18 @@
       { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 3 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60514", "priority": 4 }
       
+    ]
+  },
+  {
+    "id": "tlc-tv",
+    "name": "TLC",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRpFjq_2Sb9mwB9PXfGNFTcyg3WHwXIk6aIiLnEbIww&s=10",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9152", "priority": 1 }
     ]
   },
   {
