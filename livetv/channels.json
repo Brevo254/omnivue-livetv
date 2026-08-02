@@ -74,7 +74,7 @@
   {
     "id": "bet-channel",
     "name": "BET",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz29Sjgc9K8XVEDTVq2b5HFj1JiiGdTF_yilktA0Q5TL16FplJM7INvRMh&s=10",
     "category": "entertainment",
     "country": "US",
     "language": "en",
@@ -330,6 +330,30 @@
     ]
   },
   {
+    "id": "discovery-family",
+    "name": "Discovery Family",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJ7qnr1R74ds-KTKuPhOA04EEt1lVSQtf_6gXo6ruLg&s=10",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110779", "priority": 1 }
+    ]
+  },
+  {
+    "id": "discovery-life",
+    "name": "Discovery Life",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmDVczcjG3jNJt0UGKxuknIDzNz2kY--eGU3xkS6D-g&s=10",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110780", "priority": 1 }
+    ]
+  },
+  {
     "id": "discovery-science",
     "name": "Discovery Science",
     "logo": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
@@ -338,7 +362,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31403", "priority": 1 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31403", "priority": 1 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110781", "priority": 2 }
     ]
   },
   {
@@ -516,6 +541,54 @@
     ]
   },
   {
+    "id": "mgm-channel",
+    "name": "MGM+",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxNoXYWZRroie9MHdXVXLdkTUpMyYlofryPPxMIdzdA&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/18206", "priority": 1 }
+    ]
+  },
+  {
+    "id": "mgm-hits",
+    "name": "MGM+ Hits",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/3840px-MGM%2B_Hits_2023.svg.png",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98690", "priority": 1 }
+    ]
+  },
+  {
+    "id": "mgm-drive",
+    "name": "MGM+ Drive-In",
+    "logo": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/mgm-drive-in.png?q=50&fit=contain&w=500&h=500&dpr=1.5",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98691", "priority": 1 }
+    ]
+  },
+  {
+    "id": "mgm-marquee",
+    "name": "MGM+ Marquee",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAg7tz3TUOGOe5xGydrYKvjIpnvDTdMaHZ49GE1Pj6w&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/18205", "priority": 1 }
+    ]
+  },
+  {
     "id": "mix-hollywood",
     "name": "Mix Hollywood (1080p)",
     "logo": "https://assets.myco.io/public/20251223/mycolive-MIX-TV-1766494046381.jpg",
@@ -528,6 +601,18 @@
     ]
   },
   {
+    "id": "movie-plex",
+    "name": "MOVIE PLEX",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwCRyToQyGWZBeyFoIqpHhzgTMi7ADrrMoC2IrSg9jyQ&s",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98730", "priority": 1 }
+    ]
+  },
+  {
     "id": "movie-time",
     "name": "Movietime",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Movietime_Cinemas_Logo1.jpg",
@@ -537,6 +622,18 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127921", "priority": 1 }
+    ]
+  },
+  {
+    "id": "manchester-tv",
+    "name": "Manchester United TV (MUTV)",
+    "logo": "https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/20973", "priority": 1 }
     ]
   },
    {
@@ -679,15 +776,27 @@
     ]
   },
   {
-    "id": "sony-max",
-    "name": "SONY MAX",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10",
-    "category": "reality",
+    "id": "sky-cinema",
+    "name": "Sky Disney+ Cinema",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFSQ0kmjPgS-VHGnl2yLtIM8z-TO33VgbmFuqaP2CBw&s=10",
+    "category": "movies",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157922", "priority": 1 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/139150", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-cinema",
+    "name": "SKY CINEMA SCI FI AND HORROR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvqII18__ajkrhBhDTsBAOdnqq0O0d7wfFKFRE58_mw&s=10",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/20918", "priority": 1 }
     ]
   },
   {
@@ -703,6 +812,18 @@
     ]
   },
   {
+    "id": "sky-plus",
+    "name": "Sky Sports+",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky_Sports%2B_%28television_channel%29.svg/960px-Sky_Sports%2B_%28television_channel%29.svg.png?_=20250818220508",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100765", "priority": 1 }
+    ]
+  },
+  {
     "id": "skysports-main",
     "name": "Sky Sports Main Event",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
@@ -711,8 +832,9 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1677", "priority": 2 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100770", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 2 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1677", "priority": 3 }
 
     ]
   },
@@ -726,7 +848,8 @@
     "status": "active",
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1670", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146477", "priority": 2 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146477", "priority": 2 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/103987", "priority": 3 }
     ]
   },
   {
@@ -738,20 +861,22 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1671", "priority": 1 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1671", "priority": 1 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100767", "priority": 2 }
     ]
   },
   {
     "id": "sky-premierleague",
-    "name": "Sky Sport Premier League",
+    "name": "Sky Sports Premier League",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
     "category": "sport",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1672", "priority": 2 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100773", "priority": 1 },
+      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 2 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1672", "priority": 3 }
     ]
   },
   {
@@ -763,7 +888,9 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://atletico.stream:8080/19494786/bd92acbb/194354", "priority": 1 }
+      { "url": "http://atletico.stream:8080/19494786/bd92acbb/194354", "priority": 1 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100764", "priority": 2 }
+
     ]
   },
   {
@@ -832,6 +959,18 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44192", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-africa",
+    "name": "Trace Africa",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvfXt0SKQY7m70mnQQxNdIe9Rda1_AaDBec8kLgL42w&s=10",
+    "category": "music",
+    "country": "FR",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135320", "priority": 1 }
     ]
   },
   {
