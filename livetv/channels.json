@@ -61,6 +61,18 @@
     ]
   },
   {
+    "id": "afro-magic-channel",
+    "name": "Afro Magic Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfzVyy45AOvJjTFcLVCgFVXV6UonkN_4tn_oTp2Tavw&s=10",
+    "category": "entertainment",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/135199", "priority": 1 }
+    ]
+  },
+  {
     "id": "africa-news",
     "name": "Africanews English",
     "logo": "https://play-lh.googleusercontent.com/Hm4TsbrCct_zeOtfRYb1IhBVTnaPf7Yrei6wPmxQtHzewJacToXKSjzii92XcAi3FGBaKvMt5ptIcCCyKd9z",
@@ -85,27 +97,27 @@
     ]
   },
   {
-    "id": "bet-channel",
-    "name": "BET",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz29Sjgc9K8XVEDTVq2b5HFj1JiiGdTF_yilktA0Q5TL16FplJM7INvRMh&s=10",
-    "category": "entertainment",
-    "country": "US",
+    "id": "bbc-one",
+    "name": "BBC One (UK)",
+    "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0bvs64x.jpg",
+    "category": "news",
+    "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9214", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20869", "priority": 1 }
     ]
   },
   {
-    "id": "bet-her",
-    "name": "BET HER",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/250px-BET_Her.svg.png",
-    "category": "entertainment",
-    "country": "US",
+    "id": "bbc-two",
+    "name": "BBC TWO (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPwSEnwG4KXjksdgIbqesbKPtSRM8cBcZ58i1QgxfHQ&s=10",
+    "category": "news",
+    "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/49221", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20867", "priority": 1 }
     ]
   },
   {
@@ -134,6 +146,18 @@
   },
   {
     "id": "bbc-news",
+    "name": "BBC News (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpe_ZjoFDZt_7smvNp7qKar4L2Yh3EwIsa0By1Lw6nw&s=10",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/25464", "priority": 1 }
+    ]
+  },
+  {
+    "id": "bbc-news",
     "name": "BBC News (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpe_ZjoFDZt_7smvNp7qKar4L2Yh3EwIsa0By1Lw6nw&s=10",
     "category": "news",
@@ -141,10 +165,46 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://xemzi.short.gy/1000015", "priority": 2 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39712", "priority": 1 },
-      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 2 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101684", "priority": 3 }
+      { "url": "https://xemzi.short.gy/1000015", "priority": 1 },
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39712", "priority": 2 },
+      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 3 },
+      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101684", "priority": 4 }
+    ]
+  },
+  {
+    "id": "bbc-world-news",
+    "name": "BBC WORLD NEWS (US)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4U3EkGtCOViCTxTBTfE29J4QxpDt4g1biuByifgPHg&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/8805", "priority": 1}
+    ]
+  },
+  {
+    "id": "bet-channel",
+    "name": "BET",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz29Sjgc9K8XVEDTVq2b5HFj1JiiGdTF_yilktA0Q5TL16FplJM7INvRMh&s=10",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9214", "priority": 1 }
+    ]
+  },
+  {
+    "id": "bet-her",
+    "name": "BET HER",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/250px-BET_Her.svg.png",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/49221", "priority": 1 }
     ]
   },
   {
@@ -156,7 +216,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20868", "priority": 1 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20868", "priority": 1 },
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/110047", "priority": 2 }
     ]
   },
   {
@@ -234,6 +295,19 @@
     "status": "active",
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154974", "priority": 1 }
+    ]
+  },
+  {
+    "id": "christian-youth",
+    "name": "Christian Youth Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL-wMKEXti2Q3K40DPvElQD0XIbfSp-qFGItvFScG7qfiu9WILdE1amA&s=10",
+    "category": "religion",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/75568", "priority": 1 },
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/75569", "priority": 2 }
     ]
   },
   {
@@ -346,6 +420,30 @@
     ]
   },
   {
+    "id": "cnn-uk",
+    "name": "CNN (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/25467", "priority": 1 }
+    ]
+  },
+  {
+    "id": "cnn-sd",
+    "name": "CNN SD (US)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/8854", "priority": 1 }
+    ]
+  },
+  {
     "id": "comedy-central-animation",
     "name": "Comedy Central Animation",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh39zrkL1Q_XXS40Aywwq7Auh1S_K7vyQBkj88QQVPFNVEm21tEl9qfpZ2&s=10",
@@ -381,6 +479,18 @@
     "streams": [
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101657", "priority": 1 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/46779", "priority": 2 }
+    ]
+  },
+  {
+    "id": "discovery-channel-uk",
+    "name": "Discovery Channel (UK)",
+    "logo": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj",
+    "category": "documentary",
+    "country": "Uk",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20886", "priority": 1 }
     ]
   },
   {
@@ -421,6 +531,18 @@
     ]
   },
   {
+    "id": "discovery-turbo-uk",
+    "name": "Discovery Turbo (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEV9N7RTrm-DO0wyAi9Bu8xS9jCF9JMu9osybt4vs5zg&s",
+    "category": "documentary",
+    "country": "Uk",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20879", "priority": 1 }
+    ]
+  },
+  {
     "id": "discovering-china",
     "name": "Discovering China (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-atnDeSw68891q60PzlV8NnslPQDJtZ8b33C3Bdm2yA&s",
@@ -441,7 +563,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25179", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9343", "priority": 1 },
+       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25179", "priority": 2 }
     ]
   },
   {
@@ -454,7 +577,8 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25181", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25182", "priority": 2 }
+      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25182", "priority": 2 },
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/8871", "priority": 2 }
     ]
   },
   {
@@ -505,6 +629,30 @@
     "status": "active",
     "streams": [
       { "url": "https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "espn-tv",
+    "name": "ESPN",
+    "logo": "https://espnpressroom.com/wp-content/uploads/1/2023/08/ESPN_RED2-2.png",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9569", "priority": 1 }
+    ]
+  },
+  {
+    "id": "espn-2-tv",
+    "name": "ESPN 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygNbMXTjNeeBOKpSdZHf3VbCZJPlY-zzhvKJ0lod2-zwaRVRq_X9fIdGY&s=10",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9568", "priority": 1 }
     ]
   },
   {
@@ -569,6 +717,30 @@
     ]
   },
   {
+    "id": "history-tv",
+    "name": "History (US)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yzXSdcWTzc3sKuT9EMWzZ6QXogMOGz9j-DF5mo7x7w&s=10",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/110784", "priority": 1 }
+    ]
+  },
+  {
+    "id": "history2-tv",
+    "name": "History 2 (US)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGTeWZc6VLJT5pjBJjKhoJUKegdqXOJ2iqYZMq9imQQ&s=10",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/110783", "priority": 1 }
+    ]
+  },
+  {
     "id": "inooro-tv",
     "name": "Inooro TV KE",
     "logo": "https://kenyalivetv.co.ke/uploads/tv/4_icon_inoorotv.webp",
@@ -578,6 +750,18 @@
     "status": "active",
     "streams": [
       { "url": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "investigation-discovery-uk",
+    "name": "INVESTIGATION DISCOVERY ! (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4N8pcn94DDQMTg3C9X6iCF6yLnKK4hHyVl59RMtjIxN6BhC1aq7zqC0O_&s=10",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20877", "priority": 1 }
     ]
   },
   {
@@ -610,6 +794,28 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWLQ-k8gNqisZ4lsRBCQRbvKcIWpznHuPrS3dDAbujA&s=10",
     "category": "news",
     "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135265", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ktn-news-ke",
+    "name": "KTN News Kenya",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "youtubeId": "UCKVsdeoHExltrWMuK0hOWmg"
+  },
+  {
+    "id": "military-history-us",
+    "name": "MILITARY HISTORY (US)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHY54XWDMzIOC99uUQZB3c1-V0nkjHEF9GzXc9fJC4Q&s=10",
+    "category": "documentary",
+    "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
@@ -738,7 +944,41 @@
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/20973", "priority": 1 }
     ]
   },
-   {
+  {
+    "id": "ntv-news-ke",
+    "name": "NTV Kenya",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq8EGiyd5GxHSZuSw2AJ8flLcv-642XVWwPjZsSOMGfPtjRrl-HGOY4K5&s=10",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "youtubeId": "UCqBJ47FjJcl61fmSbcadAVg"
+  },
+  {
+    "id": "nolly-wood",
+    "name": "NOLLYWOOD TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQnjwsJNMl2LnIi1TRSkaurHkqbpwFpDtGB4XCWtWr0dPg604Ambgd07N&s=10",
+    "category": "entertainment",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/135280", "priority": 1 }
+    ]
+  },
+  {
+    "id": "nba-tv",
+    "name": "NBA TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpcoPDQsFoE_K40hKgeJwW1AiuRdugNXpC9kmypb1Ug&s=10",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9547", "priority": 1 }
+    ]
+  },
+  {
     "id": "national-geographic",
     "name": "NATIONAL GEOGRAPHIC",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGewv76A2kADyG-r_PiMi_CmJbluenBkqtap8sZhX5Vg&s=10",
@@ -750,6 +990,18 @@
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 1 },
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 2 },
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67106", "priority": 3 }
+    ]
+  },
+  {
+    "id": "national-geographic-uk",
+    "name": "NATIONAL GEOGRAPHIC (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGewv76A2kADyG-r_PiMi_CmJbluenBkqtap8sZhX5Vg&s=10",
+    "category": "documentary",
+    "country": "Uk",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20876", "priority": 1 }
     ]
   },
   {
@@ -767,6 +1019,18 @@
     ]
   },
   {
+    "id": "natgeo-wild",
+    "name": "NAT GEO WILD (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Bg-_ZwI3aDa0pH6Exa__D90RQRq88esA8sTcxZbOdw&s=10",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20875", "priority": 1 }
+    ]
+  },
+  {
     "id": "nickelodeon-tv",
     "name": "Nickelodeon",
     "logo": "https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e",
@@ -778,6 +1042,18 @@
       { "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8", "priority": 1 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38513", "priority": 2 },
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20876", "priority": 3 }
+    ]
+  },
+  {
+    "id": "nickelodeon-channel",
+    "name": "Nickelodeon Channel (UK)",
+    "logo": "https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/21021", "priority": 1 }
     ]
   },
   {
@@ -794,6 +1070,30 @@
     ]
   },
   {
+    "id": "nickelodeon-jr-uk",
+    "name": "Nick Jr (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWzj1n3kJ1kT28xcRHrOAmwaHWCb8QxEg77OsTkszBw&s=10",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20903", "priority": 1 }
+    ]
+  },
+  {
+    "id": "nickelodeon-jrt-uk",
+    "name": "Nick Jr too (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFIhTyocS8_viy23FaunIa6Y7ZHOeT34db8GG0zkfig&s=10",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20901", "priority": 1 }
+    ]
+  },
+  {
     "id": "nickelodeon-toons",
     "name": "Nick Toons",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
@@ -803,6 +1103,18 @@
     "status": "active",
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44120", "priority": 1 }
+    ]
+  },
+  {
+    "id": "nickelodeon-toons-uk",
+    "name": "Nick Toons (UK)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20900", "priority": 1 }
     ]
   },
   {
@@ -890,6 +1202,18 @@
     ]
   },
   {
+    "id": "star-kids",
+    "name": "STARZ KIDS & FAMILY",
+    "logo": "https://static.wikia.nocookie.net/dreamlogos/images/c/c2/STARZ_KIDS_AND_FAMILY.png/revision/latest?cb=20200228160110",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/58535", "priority": 1 }
+    ]
+  },
+  {
     "id": "sky-cinema",
     "name": "Sky Disney+ Cinema",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFSQ0kmjPgS-VHGnl2yLtIM8z-TO33VgbmFuqaP2CBw&s=10",
@@ -902,7 +1226,31 @@
     ]
   },
   {
-    "id": "sky-cinema",
+    "id": "sky-disney",
+    "name": "Sky Disney+ Cinema",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/139150", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sci",
+    "name": "Sky Sci-Fi",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqHUxD-wyZRJo0rgT7rR_ghNlYeORI_wnn4JpD1_-2w&s=10",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20764", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sci-horror",
     "name": "SKY CINEMA SCI FI AND HORROR",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvqII18__ajkrhBhDTsBAOdnqq0O0d7wfFKFRE58_mw&s=10",
     "category": "movies",
@@ -1063,6 +1411,18 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tlc-tv-uk",
+    "name": "TLC (UK)",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20762", "priority": 1 }
     ]
   },
   {
