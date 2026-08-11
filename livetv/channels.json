@@ -97,6 +97,18 @@
     ]
   },
   {
+    "id": "al-jazeera-uk",
+    "name": "UK| AL JAZEERA EN HD ",
+    "logo": "https://play-lh.googleusercontent.com/0tcuWYRRPAJw6ZX-IFssspA0eThGbmGLcRnytpj5Ik37wwb7nD4oa7HPvFz4BAoCc-HQmy63sHfGpxFq2zSVtw",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/229460", "priority": 1 }
+    ]
+  },
+  {
     "id": "bbc-one",
     "name": "BBC One (UK)",
     "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0bvs64x.jpg",
@@ -444,6 +456,18 @@
     ]
   },
   {
+    "id": "cnn-uhd-4k",
+    "name": "4K| CNN UHD 4K ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1470653", "priority": 1 }
+    ]
+  },
+  {
     "id": "comedy-central-animation",
     "name": "Comedy Central Animation",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh39zrkL1Q_XXS40Aywwq7Auh1S_K7vyQBkj88QQVPFNVEm21tEl9qfpZ2&s=10",
@@ -681,6 +705,42 @@
     ]
   },
   {
+    "id": "france-24",
+    "name": "UK| FRANCE 24",
+    "logo": "",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/149653", "priority": 1 }
+    ]
+  },
+  {
+    "id": "geo-tv",
+    "name": "UK| GEOTV",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014312", "priority": 1 }
+    ]
+  },
+  {
+    "id": "god-channel",
+    "name": "UK| GOD CHANNEL ",
+    "logo": "",
+    "category": "religion",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014311", "priority": 1 }
+    ]
+  },
+  {
     "id": "hbo-tv",
     "name": "HBO",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvK9-h0Ytkuy1eleK2q6e3r4XsrIx9WaOyhILWQx1Sew&s",
@@ -693,7 +753,7 @@
     ]
   },
   {
-    "id": "hbo-tv",
+    "id": "hbo-2-tv",
     "name": "HBO 2",
     "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_HBO2.png",
     "category": "movies",
@@ -1222,19 +1282,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/139150", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-disney",
-    "name": "Sky Disney+ Cinema",
-    "logo": "",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/139150", "priority": 1 }
+       { "url": "http://lunar.pm:8080/2052404365/41437862tow/139150", "priority": 1 },
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/139150", "priority": 2 }
     ]
   },
   {
@@ -1380,7 +1429,19 @@
     "status": "active",
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147074", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157810", "priority": 1 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157810", "priority": 2 }
+    ]
+  },
+  {
+    "id": "sportnet-360",
+    "name": "4K| SPORTSNET 360 UHD",
+    "logo": "",
+    "category": "sport",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1470603", "priority": 1 }
     ]
   },
   {
@@ -1416,7 +1477,7 @@
   {
     "id": "tlc-tv-uk",
     "name": "TLC (UK)",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRpFjq_2Sb9mwB9PXfGNFTcyg3WHwXIk6aIiLnEbIww&s=10",
     "category": "entertainment",
     "country": "UK",
     "language": "en",
@@ -1507,6 +1568,1290 @@
     "status": "active",
     "streams": [
       { "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| CINEMANIA HOLLYWOOD 4K ",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1430509", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| COMEDY CENTRAL +1 ",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014224", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DAVE JA VU",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014227", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DRAMA +1",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164045", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| GREAT MOVIES ACTION",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/887936", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| GREAT TV CHANNEL +1",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014215", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| GREAT! ACTION",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1424875", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| GREAT! ACTION +1",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1424876", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| HORROR XTRA",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014221", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| HORROR XTRA +1",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014219", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY CINEMA ACTION",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79471", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY CINEMA ACTION FHD",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/163996", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY CINEMA ACTION HD",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30517", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY CINEMA OSCARS HD",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30511", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY CINEMA SELECT HD",
+    "logo": "",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/949137", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| HORROR CHANNEL",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45272", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| HORROR CHANNEL +1",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45271", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TRUE CRIME",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45290", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TRUE CRIME HD",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45289", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| ANIMAL PLANET FHD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30582", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| ANIMAL PLNT +1",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164033", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DISCOVERY FHD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30549", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DISCOVERY HD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1074678", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DISCOVERY SD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1074679", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DISCOVERY +1",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164044", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DISCOVERY HISTORY ",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45283", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO FHD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30526", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO HD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057011", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO SD ",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057012", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO +1",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014334", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO WILD FHD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30525", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO WILD HD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057013", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| NAT GEO WILD SD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057014", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY NATURE FHD",
+    "logo": "",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164071", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 1 FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30567", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 1 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79486", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 1 HD ◉",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1261564", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 1 SD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1047260", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 2 FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30566", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 2 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79485", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 2 SD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1047261", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 3 FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30565", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 3 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79484", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 3 SD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1047262", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 4 FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1019935", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 4 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1002857", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| TNT SPORTS 4 SD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1047263", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS TENNIS FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1454232", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS TENNIS HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1454231", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS ACTION",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79482", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK|SKY SPORTS ACTION HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83456", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS ACTION FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30501", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS +",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79481", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS + FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30500", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS + HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83455", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS CRICKET",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79480", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS CRICKET FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30502", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS CRICKET HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83454", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS F1",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79479", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS F1 FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30499", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS F1 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83453", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS FOOTBALL",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79478", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS FOOTBALL FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30498", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS FOOTBALL HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83452", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS GOLF",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79477", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS GOLF FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30497", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS GOLF HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83451", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MAIN EVENT",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79476", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MAIN EVENT FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30496", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MAIN EVENTS HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83450", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MAIN EVENTS HEVC FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1458672", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MAIN EVENTS HEVC HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1458658", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MIX",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79475", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MIX FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30495", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS MIX HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83449", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS NEWS",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79474", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS NEWS FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30494", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS NEWS HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83448", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS PL FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30493", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS PL HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/83447", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS PREMIER LEAGUE FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79473", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS PREMIER LEAGUE HEVC",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1458656", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| SKY SPORTS PREMIER LEAGUE HEVC FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1458669", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| CHELSEA TV HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45327", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| DAZN 1 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1221178", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| LFC TV",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45268", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| LFC TV FHD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/910647", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| PREMIER SPORT LALIGA TV HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/163610", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK| PREMIER SPORT 2 HD",
+    "logo": "",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/163608", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| BOOMERANG FHD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905954", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| BOOMERANG HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905953", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| BOOMERANG HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905952", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| CARTOON NETWORK FHD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905951", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| CARTOON NETWORK HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905950", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| CARTOON NETWORK HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905949", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| MTV FHD",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905942", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| MTV HD",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905941", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| MTV HD",
+    "logo": "",
+    "category": "entertainment",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905940", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICK JR FHD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905939", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICK JR HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905938", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICK JR HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905937", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKELODEON FHD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905936", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKELODEON HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905935", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKELODEON HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905934", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKTOONS FHD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905933", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKTOONS HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905932", "priority": 1 }
+    ]
+  },
+  {
+    "id": "",
+    "name": "UK-NOWTV| NICKTOONS HD",
+    "logo": "",
+    "category": "kids",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905931", "priority": 1 }
     ]
   },
   {
