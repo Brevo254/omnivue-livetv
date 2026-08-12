@@ -719,7 +719,7 @@
   {
     "id": "god-channel",
     "name": "UK| GOD CHANNEL ",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP0QefV6KMCOTcYk7Qammm2x8EsCNNtzgGJik8uO9Xw&s",
     "category": "religion",
     "country": "UK",
     "language": "en",
@@ -1583,7 +1583,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "drama-1",
     "name": "UK| DRAMA +1",
     "logo": "https://icon2.cleanpng.com/20180707/yta/aaw5iheho.webp",
     "category": "movies",
@@ -1595,7 +1595,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "great-movies-action",
     "name": "UK| GREAT MOVIES ACTION",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEGkmUBgqEYxH7rPsWMZuGN1as_5j9jrEszMBwZc_dng&s=10",
     "category": "movies",
@@ -1607,7 +1607,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "great-tv-channel-1",
     "name": "UK| GREAT TV CHANNEL +1",
     "logo": "https://tv.assets.pressassociation.io/ee79dbb5-e8a0-57ac-8ab4-95ceadb2b99e.png",
     "category": "movies",
@@ -1619,7 +1619,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "great-action",
     "name": "UK| GREAT! ACTION",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqJcTy3Kuf22s72I6mCF0_y0FfIiFqKBn-jhyLx_H5KZ4RK-5ctu1oDY&s=10",
     "category": "movies",
@@ -1631,7 +1631,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "great-action-1",
     "name": "UK| GREAT! ACTION +1",
     "logo": "https://tv.assets.pressassociation.io/614b8516-1e49-57d1-a6a9-094f60820ae8.png",
     "category": "movies",
@@ -1643,33 +1643,9 @@
     ]
   },
   {
-    "id": "",
-    "name": "UK| HORROR XTRA",
-    "logo": "",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014221", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK| HORROR XTRA +1",
-    "logo": "",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014219", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
+    "id": "sky-cinema-action",
     "name": "UK| SKY CINEMA ACTION",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
     "category": "movies",
     "country": "UK",
     "language": "en",
@@ -1679,9 +1655,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "sky-cinema-action-fhd",
     "name": "UK| SKY CINEMA ACTION FHD",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
     "category": "movies",
     "country": "UK",
     "language": "en",
@@ -1691,9 +1667,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "sky-cinema-action-hd",
     "name": "UK| SKY CINEMA ACTION HD",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
     "category": "movies",
     "country": "UK",
     "language": "en",
@@ -1703,9 +1679,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "sky-cinema-oscars",
     "name": "UK| SKY CINEMA OSCARS HD",
-    "logo": "",
+    "logo": "https://archive.org/download/SkyCinemaOscarsHd/sky%20cinema%20oscars%20hd.png",
     "category": "movies",
     "country": "UK",
     "language": "en",
@@ -1715,9 +1691,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "sky-cinema-select",
     "name": "UK| SKY CINEMA SELECT HD",
-    "logo": "",
+    "logo": "https://images.seeklogo.com/logo-png/50/1/sky-cinema-select-logo-png_seeklogo-501082.png",
     "category": "movies",
     "country": "UK",
     "language": "en",
@@ -1727,33 +1703,9 @@
     ]
   },
   {
-    "id": "",
-    "name": "UK| HORROR CHANNEL",
-    "logo": "",
-    "category": "entertainment",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45272", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK| HORROR CHANNEL +1",
-    "logo": "",
-    "category": "entertainment",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45271", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
+    "id": "true-crime",
     "name": "UK| TRUE CRIME",
-    "logo": "",
+    "logo": "https://yt3.googleusercontent.com/IE6d5NBh2k-Gsn-DfkeNpXRNhMMrJUYTa3GRMJ9ThZ5vtAtEHqeElewuX1FF3UMnLP7R_BGY=s900-c-k-c0x00ffffff-no-rj",
     "category": "entertainment",
     "country": "UK",
     "language": "en",
@@ -1763,9 +1715,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "true-crime-hd",
     "name": "UK| TRUE CRIME HD",
-    "logo": "",
+    "logo": "https://yt3.googleusercontent.com/IE6d5NBh2k-Gsn-DfkeNpXRNhMMrJUYTa3GRMJ9ThZ5vtAtEHqeElewuX1FF3UMnLP7R_BGY=s900-c-k-c0x00ffffff-no-rj",
     "category": "entertainment",
     "country": "UK",
     "language": "en",
@@ -1775,9 +1727,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "animal-planet-fhd",
     "name": "UK| ANIMAL PLANET FHD",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1787,9 +1739,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "animal-planet-1",
     "name": "UK| ANIMAL PLNT +1",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1799,9 +1751,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "discovery-fhd",
     "name": "UK| DISCOVERY FHD",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1811,9 +1763,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "discovery-hd",
     "name": "UK| DISCOVERY HD",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1823,9 +1775,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "discovery-sd",
     "name": "UK| DISCOVERY SD",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1835,9 +1787,9 @@
     ]
   },
   {
-    "id": "",
+    "id": "discovery-1",
     "name": "UK| DISCOVERY +1",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYChuGRvrNa1NyXZIvA4MGDcojb6yZXERZpjtG0HMBBYrMwVBYHH2Ex0w&s=10",
     "category": "documentary",
     "country": "UK",
     "language": "en",
@@ -1847,7 +1799,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "discovery-history",
     "name": "UK| DISCOVERY HISTORY ",
     "logo": "https://banner2.cleanpng.com/20180516/ajq/kisspng-discovery-history-discovery-channel-television-cha-5afbd87a6bd681.0629317915264543944417.jpg",
     "category": "documentary",
@@ -1859,7 +1811,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-fhd",
     "name": "UK| NAT GEO FHD",
     "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
     "category": "documentary",
@@ -1871,7 +1823,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-hd",
     "name": "UK| NAT GEO HD",
     "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
     "category": "documentary",
@@ -1883,7 +1835,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-sd",
     "name": "UK| NAT GEO SD ",
     "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
     "category": "documentary",
@@ -1895,7 +1847,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-1",
     "name": "UK| NAT GEO +1",
     "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
     "category": "documentary",
@@ -1907,7 +1859,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-wild-fhd",
     "name": "UK| NAT GEO WILD FHD",
     "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
     "category": "documentary",
@@ -1919,7 +1871,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-wild-hd",
     "name": "UK| NAT GEO WILD HD",
     "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
     "category": "documentary",
@@ -1931,7 +1883,7 @@
     ]
   },
   {
-    "id": "",
+    "id": "natgeo-wild-sd",
     "name": "UK| NAT GEO WILD SD",
     "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
     "category": "documentary",
