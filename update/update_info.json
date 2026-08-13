@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "changelog": [
-    "Added Live TV overlay with channel guide",
-    "Fixed playback freezing on some YouTube channels",
-    "General stability improvements"
+    "Added categorized layout and expanded sports channel options for better redundancy",
+    "Enhanced stream stability and fixed playback freezing",
+    "General performance improvements"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false
