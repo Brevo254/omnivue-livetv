@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "last_updated": "2026-08-19",
+
+  "hero_featured_ids": ["the-tom-and-jerry-show", "ben-10-alien-swarm"],
+
+  "shows": [
+    {
+      "id": "the-tom-and-jerry-show",
+      "title": "The Tom and Jerry Show",
+      "type": "series",
+      "description": "The Tom and Jerry Show is a modern reboot of the iconic animated series featuring the classic antics of the mischievous cat, Tom, and the clever mouse, Jerry. The show brings the beloved duo into new adventures, filled with slapstick comedy, high-energy chases, and hilarious situations. Whether they’re outsmarting each other or getting into absurd scenarios, Tom and Jerry continue to deliver timeless entertainment for audiences of all ages with their never-ending rivalry and heartwarming moments.",
+      "genres": ["animation", "comedy"],
+      "poster_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-450x370.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/original/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "title": "Spike Gets Skooled",
+              "description": "Tom gets Spike sent to obedience school for being naughty, and Jerry is left without a protector. When Spike returns, Tom tries hard to get Spike to revert to his old ways. Jerry fights back to make sure that Spike keeps his cool.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Spike-Gets-Skooled.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/spike-gets-skooled.mp4" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+
+  "movies": [
+    {
+      "id": "ben-10-alien-swarm",
+      "title": "Ben 10: Alien Swarm",
+      "type": "movie",
+      "description": "Ben and a mysterious girl from his past must prevent an alien threat from destroying the world.",
+      "genres": ["Action", "Science Fiction"],
+      "poster_url": "https://image.tmdb.org/t/p/original/oK190JudMVb0C5773Vab0TKcBbv.jpg",
+      "backdrop_url": "https://your-cdn.com/art/mario_hero.jpg",
+      "duration_mins": 69,
+      "streams": [
+        { "url": "https://animetoon-toon-api.hf.space/stream/Mjc5NDk1OTUzNzoxNDQ0MjpBZ0FEWHo/Ben%2010%20Alien%20Swarm%20(2009)%20480p%20BluRay%20mkv.mkv" }
+      ]
+    }
+  ]
+}
