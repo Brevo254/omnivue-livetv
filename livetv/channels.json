@@ -249,6 +249,18 @@
     ]
   },
   {
+    "id": "capuchin-tv",
+    "name": "Capuchin TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqe94wttqCRNm3FuosnQ9oEcSi1X10N_w5Yo6_E6A4bQ&s=10",
+    "category": "religion",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "cartoon-network",
     "name": "Cartoon Network",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY6fOL4jpaUVynQCNcIp-wjr451mykteMyA_3U1BWe6naRlXdOw7AT9k&s=10",
@@ -726,6 +738,18 @@
     "status": "active",
     "streams": [
       { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014311", "priority": 1 }
+    ]
+  },
+  {
+    "id": "great-commission-tv-ke",
+    "name": "Great Commission TV",
+    "logo": "https://yt3.googleusercontent.com/cRQoVYmsrb77W-JzGynnMhNjrJVIWMQVZV2-SXAzVpz0PzsoQC4MxgQ9LkEENU04jOmkawsH=s900-c-k-c0x00ffffff-no-rj",
+    "category": "religion",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8", "priority": 1 }
     ]
   },
   {
