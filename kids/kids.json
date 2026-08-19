@@ -2,7 +2,7 @@
   "version": 1,
   "last_updated": "2026-08-19",
 
-  "hero_featured_ids": ["the-tom-and-jerry-show", "ben-10-alien-swarm"],
+  "hero_featured_ids": ["the-tom-and-jerry-show", "ben-10-alien-swarm","the-pink-panther-show","tom-and-jerry"],
 
   "shows": [
     {
@@ -29,7 +29,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "the-pink-panther-show",
+      "title": "The Pink Panther Show",
+      "type": "series",
+      "description": "The Pink Panther shorts are a series of iconic animated films that first appeared in the 1960s. Centered around the mischievous and silent Pink Panther character, these shorts are known for their clever humor, minimalist yet expressive animation style, and the unforgettable, smooth jazz score by Henry Mancini. The Pink Panther silently navigates through various predicaments, outsmarting his adversaries with wit and style, making these shorts timeless classics beloved by audiences of all ages.",
+      "genres": ["animation", "comedy"],
+      "poster_url": "https://image.tmdb.org/t/p/original/65uTaYHK0fzM34hlt4P5WY7Mo0A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/original/5jvKWI6UL4Kvj2chVz60xLU0vRj.jpg",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "title": "Pink Panic",
+              "description": "The Pink Panther, seeking nightly shelter from a storm, comes upon a Western frontier ghost town called Dead Dog, and the one hotel in the town is haunted. While trying to stay the night at the Dead Dog Hotel, the panther is accosted by a two-eyed, chair-covering sheet, which is an unfriendly ghost. A moving skeleton crawls into the Pink Panther’s bed and scares the panther, who does battle against ghost and skeleton by hitting both with a stick. The ghost dons a six-gun belt and pursues the panther into a wine cellar, where the panther pickles the ghost in a wine keg. The drunken ghost is then inflated like a balloon by the Pink Panther and burst, becoming a group of little specters that join the skeleton in pursuing the Pink Panther. The resulting noise prompts the town sheriff to arrest the Pink Panther and his supernatural foes- until sunrise causes ghosts, skeleton, sheriff, and whole town to vanish.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Pink-Panther-Pink-Panic-450x370.jpg",
+              "duration_mins": 6,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-pink-panther/pink-panic.mp4" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tom-and-jerry",
+      "title": "Tom and Jerry",
+      "type": "series",
+      "description": "Tom and Jerry, the iconic cat-and-mouse duo created by William Hanna and Joseph Barbera in 1940, star in a comedic cartoon series that revolves around Tom’s never-ending quest to catch Jerry, with Jerry always outsmarting him. Set in various locations, their rivalry is marked by slapstick humor and clever tactics. Despite the chaos, the show occasionally reveals a deeper bond between them, showcasing moments of genuine care and teamwork amidst their endless chase.",
+      "genres": ["animation", "comedy"],
+      "poster_url": "https://www.supercartoons.net/wp-content/uploads/Tom-and-Jerry-450x370.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/original/zV610LAakBCy8nd0AjnFpjvEqjI.jpg",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "title": "Mouse in Manhattan",
+              "description": "Jerry decides he needs a vacation from the county and Tom so he leaves Tom a note and heads for New York City for some peace and quiet. However, Jerry has a number of unpleasant experiences in New York (being chased by cars and cats among other things) and it isn’t long before he changes his mind and heads back home to the country.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/Tom-And-Jerry-Mouse-In-Manhattan-450x370.jpg",
+              "duration_mins": 8,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/tom-and-jerry/mouse-in-manhattan.mp4" }
+              ]
+            }
+          ]
+        }
+      ]
     }
+
   ],
 
 
@@ -41,7 +92,7 @@
       "description": "Ben and a mysterious girl from his past must prevent an alien threat from destroying the world.",
       "genres": ["Action", "Science Fiction"],
       "poster_url": "https://image.tmdb.org/t/p/original/oK190JudMVb0C5773Vab0TKcBbv.jpg",
-      "backdrop_url": "https://your-cdn.com/art/mario_hero.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/original/pTWaU7pnpV887KUL44Jr7CFcTuW.jpg",
       "duration_mins": 69,
       "streams": [
         { "url": "https://animetoon-toon-api.hf.space/stream/Mjc5NDk1OTUzNzoxNDQ0MjpBZ0FEWHo/Ben%2010%20Alien%20Swarm%20(2009)%20480p%20BluRay%20mkv.mkv" }
