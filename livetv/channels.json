@@ -97,30 +97,6 @@
     ]
   },
   {
-    "id": "bbc-one",
-    "name": "BBC One (UK)",
-    "logo": "https://ichef.bbci.co.uk/images/ic/1200x675/p0bvs64x.jpg",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20869", "priority": 1 }
-    ]
-  },
-  {
-    "id": "bbc-two",
-    "name": "BBC TWO (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPwSEnwG4KXjksdgIbqesbKPtSRM8cBcZ58i1QgxfHQ&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20867", "priority": 1 }
-    ]
-  },
-  {
     "id": "bbc-earth",
     "name": "BBC Earth (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10",
@@ -142,18 +118,6 @@
     "status": "active",
     "streams": [
       { "url": "http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/46668", "priority": 1 }
-    ]
-  },
-  {
-    "id": "bbc-news",
-    "name": "BBC News (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpe_ZjoFDZt_7smvNp7qKar4L2Yh3EwIsa0By1Lw6nw&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/25464", "priority": 1 }
     ]
   },
   {
@@ -506,18 +470,6 @@
     ]
   },
   {
-    "id": "discovery-channel-uk",
-    "name": "Discovery Channel (UK)",
-    "logo": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj",
-    "category": "documentary",
-    "country": "Uk",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20886", "priority": 1 }
-    ]
-  },
-  {
     "id": "discovery-family",
     "name": "Discovery Family",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJ7qnr1R74ds-KTKuPhOA04EEt1lVSQtf_6gXo6ruLg&s=10",
@@ -695,7 +647,7 @@
     "id": "food-network",
     "name": "Food Network",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv6z7OnoC4P-_vdR9a3lNd_JPM6g9I2eCtY1M-GG5QQ2JHMwV0rY9nxi5&s=10",
-    "category": "entertainment",
+    "category": "food",
     "country": "US",
     "language": "en",
     "status": "active",
@@ -777,30 +729,6 @@
     ]
   },
   {
-    "id": "history-tv",
-    "name": "History",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yzXSdcWTzc3sKuT9EMWzZ6QXogMOGz9j-DF5mo7x7w&s=10",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://40.160.24.53/HISTORY_CHANNEL/index.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "history-tv-us",
-    "name": "History (US)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yzXSdcWTzc3sKuT9EMWzZ6QXogMOGz9j-DF5mo7x7w&s=10",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/110784", "priority": 1 }
-    ]
-  },
-  {
     "id": "inooro-tv",
     "name": "Inooro TV KE",
     "logo": "https://kenyalivetv.co.ke/uploads/tv/4_icon_inoorotv.webp",
@@ -810,18 +738,6 @@
     "status": "active",
     "streams": [
       { "url": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "investigation-discovery-uk",
-    "name": "INVESTIGATION DISCOVERY ! (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4N8pcn94DDQMTg3C9X6iCF6yLnKK4hHyVl59RMtjIxN6BhC1aq7zqC0O_&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20877", "priority": 1 }
     ]
   },
   {
@@ -870,18 +786,7 @@
     "status": "active",
     "youtubeId": "UCKVsdeoHExltrWMuK0hOWmg"
   },
-  {
-    "id": "military-history-us",
-    "name": "MILITARY HISTORY (US)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHY54XWDMzIOC99uUQZB3c1-V0nkjHEF9GzXc9fJC4Q&s=10",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135265", "priority": 1 }
-    ]
-  },
+
   {
     "id": "m-net",
     "name": "M-Net",
@@ -1015,18 +920,6 @@
     "youtubeId": "UCqBJ47FjJcl61fmSbcadAVg"
   },
   {
-    "id": "nolly-wood",
-    "name": "NOLLYWOOD TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQnjwsJNMl2LnIi1TRSkaurHkqbpwFpDtGB4XCWtWr0dPg604Ambgd07N&s=10",
-    "category": "entertainment",
-    "country": "AF",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/135280", "priority": 1 }
-    ]
-  },
-  {
     "id": "nba-tv",
     "name": "NBA TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpcoPDQsFoE_K40hKgeJwW1AiuRdugNXpC9kmypb1Ug&s=10",
@@ -1053,18 +946,6 @@
     ]
   },
   {
-    "id": "national-geographic-uk",
-    "name": "NATIONAL GEOGRAPHIC (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGewv76A2kADyG-r_PiMi_CmJbluenBkqtap8sZhX5Vg&s=10",
-    "category": "documentary",
-    "country": "Uk",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20876", "priority": 1 }
-    ]
-  },
-  {
     "id": "natgeo-wild",
     "name": "NAT GEO WILD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Bg-_ZwI3aDa0pH6Exa__D90RQRq88esA8sTcxZbOdw&s=10",
@@ -1076,18 +957,6 @@
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127926", "priority": 1 },
       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101658", "priority": 2 },
       { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/112181", "priority": 3 }
-    ]
-  },
-  {
-    "id": "natgeo-wild",
-    "name": "NAT GEO WILD (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Bg-_ZwI3aDa0pH6Exa__D90RQRq88esA8sTcxZbOdw&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20875", "priority": 1 }
     ]
   },
   {
