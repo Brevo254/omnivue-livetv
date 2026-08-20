@@ -213,6 +213,30 @@
     ]
   },
   {
+    "id": "b4u-movies",
+    "name": "UK: VIP B4U MOVIES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5O3rTr6ibfnGfs-zBVYk4n6c_ImR11GCZVexFRrz&s=10",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://neosfpoo.top:8080/8581774358850/f2341ff713d5/29863", "priority": 1 }
+    ]
+  },
+  {
+    "id": "b4u-movies-plus",
+    "name": "UK: VIP B4U PLUS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTakcSpcupLEOJZbdtmjfEDpfWW5xROg8rzKoeqWmCNtcU_BINDpO5KwrQ&s=10",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://neosfpoo.top:8080/8581774358850/f2341ff713d5/29864", "priority": 1 }
+    ]
+  },
+  {
     "id": "capuchin-tv",
     "name": "Capuchin TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqe94wttqCRNm3FuosnQ9oEcSi1X10N_w5Yo6_E6A4bQ&s=10",
@@ -457,6 +481,18 @@
     ]
   },
   {
+    "id": "dazn-1",
+    "name": "DAZN 1",
+    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1730196750000&quality=70",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/111261", "priority": 1 }
+    ]
+  },
+  {
     "id": "discovery-channel",
     "name": "Discovery Channel HD",
     "logo": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj",
@@ -504,18 +540,6 @@
     "streams": [
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31403", "priority": 1 },
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110781", "priority": 2 }
-    ]
-  },
-  {
-    "id": "discovery-turbo-uk",
-    "name": "Discovery Turbo (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEV9N7RTrm-DO0wyAi9Bu8xS9jCF9JMu9osybt4vs5zg&s",
-    "category": "documentary",
-    "country": "Uk",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20879", "priority": 1 }
     ]
   },
   {
@@ -616,7 +640,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9569", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9569", "priority": 1 },
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/9569", "priority": 2 }
     ]
   },
   {
@@ -628,7 +653,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9568", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9568", "priority": 1 },
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/9568", "priority": 2 }
     ]
   },
   {
@@ -786,7 +812,18 @@
     "status": "active",
     "youtubeId": "UCKVsdeoHExltrWMuK0hOWmg"
   },
-
+  {
+    "id": "lfc-tv-hd",
+    "name": "LFC TV HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ri9PP5T9esXWRLlpmYMDTYdJtmI8cTbTG_Db45Hp4g&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20971", "priority": 1 }
+    ]
+  },
   {
     "id": "m-net",
     "name": "M-Net",
@@ -910,6 +947,30 @@
     ]
   },
   {
+    "id": "manchester-tv-1",
+    "name": "MUTV HD",
+    "logo": "https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20973", "priority": 1 }
+    ]
+  },
+  {
+    "id": "manchester-tv-2",
+    "name": "UK: VIP MUTV ",
+    "logo": "https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://neosfpoo.top:8080/8581774358850/f2341ff713d5/29922", "priority": 1 }
+    ]
+  },
+  {
     "id": "ntv-news-ke",
     "name": "NTV Kenya",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq8EGiyd5GxHSZuSw2AJ8flLcv-642XVWwPjZsSOMGfPtjRrl-HGOY4K5&s=10",
@@ -928,7 +989,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9547", "priority": 1 }
+      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9547", "priority": 1 },
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/9547", "priority": 2 }
     ]
   },
   {
@@ -1059,6 +1121,42 @@
     ]
   },
   {
+    "id": "premier-sports-1",
+    "name": "Premier Sports 1 (UK)",
+    "logo": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/9/2/8/1457928_premiersports_821472.jpg",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20975", "priority": 1 }
+    ]
+  },
+  {
+    "id": "premier-sports-2",
+    "name": "Premier Sports 2 (UK)",
+    "logo": "https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/26631", "priority": 1 }
+    ]
+  },
+  {
+    "id": "premier-rugby",
+    "name": "Premier Rugby",
+    "logo": "https://i.logos-download.com/114158/30505-s5120-593bf901d89d1270c45b9416a400f5af.png/Premier_Sports_Rugby_Logo_2025-s5120.png?dl",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/138609", "priority": 1 }
+    ]
+  },
+  {
     "id": "pluto-science",
     "name": "Pluto TV Science",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHJvpmY0z9OogMYiUZCATNAUPJcfoJcc9jg-Uyd0_KmiQPzKR8co2YdM&s=10",
@@ -1068,6 +1166,18 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "racing-tv",
+    "name": "Racing TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_DZT2x7U-sCNrOBIr-82YpJp3hMUo0ljrDl1bWKv8U2J_1iztSHFj4VM&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20976", "priority": 1 }
     ]
   },
   {
@@ -1192,6 +1302,18 @@
     ]
   },
   {
+    "id": "sky-sports-news-2",
+    "name": "Sky Sports News",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFhhMPutJ5BbukweOmmQ5Vr1lQRzAWz8j-lRj4bt48A&s=10",
+    "category": "news",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100772", "priority": 1 }
+    ]
+  },
+  {
     "id": "sky-plus",
     "name": "Sky Sports+",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky_Sports%2B_%28television_channel%29.svg/960px-Sky_Sports%2B_%28television_channel%29.svg.png?_=20250818220508",
@@ -1204,10 +1326,46 @@
     ]
   },
   {
+    "id": "sky-plus-2",
+    "name": "Sky Sports+ 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky_Sports%2B_%28television_channel%29.svg/960px-Sky_Sports%2B_%28television_channel%29.svg.png?_=20250818220508",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100765", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sports-action-NFL",
+    "name": "Sky Sports Action-NFL",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSecypbeYhXukHPO6gpiDz2oU70HbpdPyIFJFZgsq08DEzang-IBQ13-OJQ&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100764", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sports-cricket",
+    "name": "Sky Sports Cricket",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPSm4EQ7oL7KfJQ6A6qdBfXVJ01sBk0pMbgvVSiVAgA&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100766", "priority": 1 }
+    ]
+  },
+  {
     "id": "skysports-main",
     "name": "Sky Sports Main Event",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1219,10 +1377,23 @@
     ]
   },
   {
+    "id": "skysports-main",
+    "name": "Sky Sports Main Event 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100770", "priority": 1 }
+
+    ]
+  },
+  {
     "id": "skysports-mix",
     "name": "Sky Sports Mix ",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg?_=20200324180942",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1233,10 +1404,22 @@
     ]
   },
   {
+    "id": "skysports-mix",
+    "name": "Sky Sports Mix 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg?_=20200324180942",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/103987", "priority": 1 }
+    ]
+  },
+  {
     "id": "skysports-football",
     "name": "Sky Sports Football",
     "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1246,10 +1429,46 @@
     ]
   },
   {
+    "id": "skysports-football-2",
+    "name": "Sky Sports Football 2",
+    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100767", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sports-f1",
+    "name": "Sky Sports F1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kT4CwEwGdT3mIb1KTZzuMRikSTxkGoqsW3__BDqcHg&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100769", "priority": 1 }
+    ]
+  },
+  {
+    "id": "sky-sports-golf",
+    "name": "Sky Sports Golf",
+    "logo": "https://yt3.googleusercontent.com/M6IEcf2PDL9jTofwSW41WCqRkf8y1Th3rj5BdUwVHmKI2jEJWfSP0lOiC97KBvd60fgJOzfb=s900-c-k-c0x00ffffff-no-rj",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100768", "priority": 1 }
+    ]
+  },
+  {
     "id": "sky-premierleague",
     "name": "Sky Sports Premier League",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1260,10 +1479,22 @@
     ]
   },
   {
+    "id": "sky-premierleague-2",
+    "name": "Sky Sports Premier League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100773", "priority": 1 }
+    ]
+  },
+  {
     "id": "supersport-action",
     "name": "SuperSport Action",
     "logo": "https://i0.wp.com/alternativeadverts.co.ke/wp-content/uploads/2024/07/DSTV-SuperSport-Action-Advert-Rate.jpg?fit=132%2C99&ssl=1",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1292,7 +1523,7 @@
     "id": "supersport-premier",
     "name": "SuperSport Premier League",
     "logo": "https://ke.moreplextv.com/wp-content/uploads/2025/01/S-Premier-League.png",
-    "category": "sport",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1304,8 +1535,8 @@
   {
     "id": "sportnet-360",
     "name": "4K| SPORTSNET 360 UHD",
-    "logo": "",
-    "category": "sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqItsnfBlh-Y6XZ2VN8-G2ChLv16VJJEY5Ph716p9QVYTKFE4AoDI0wn8n&s=10",
+    "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
@@ -1365,6 +1596,54 @@
     "status": "active",
     "streams": [
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9152", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tnt-bt-sports-1",
+    "name": "TNT-BT Sport 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100775", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tnt-bt-sports-2",
+    "name": "TNT-BT Sport 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100776", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tnt-bt-sports-3",
+    "name": "TNT-BT Sport 3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100777", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tnt-bt-sports-4",
+    "name": "TNT-BT Sport 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100778", "priority": 1 }
     ]
   },
   {

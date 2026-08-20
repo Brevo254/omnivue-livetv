@@ -25,6 +25,60 @@
               "streams": [
                 { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/spike-gets-skooled.mp4" }
               ]
+            },
+            {
+              "title": "Cat’s Ruffled Fur-niture",
+              "description": "Tom is under strict orders to not wake the witch sisters, but Jerry is set on getting Tom in trouble. When Tom uses the magic spell wand and makes all of the furniture come alive, he must get the help of Newt to make everything go back as it was.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Cats-Ruffled-Fur-niture-450x370.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/cats-ruffled-fur-niture.mp4" }
+              ]
+            },
+            {
+              "title": "Sleep Disorder",
+              "description": "Ginger gets a high-tech mattress and Tom is forbidden to sleep on it, but when Butch sees it and tries it out, it results in him, Tom, and Jerry fighting over the bed.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Sleep-Disorder-1.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/sleep-disorder.mp4" }
+              ]
+            },
+            {
+              "title": "Tom’s In-Tents Adventure",
+              "description": "When Tom and Jerry go camping in Yosemite, Jerry appears to be having fun, but Tom is not. He tries to have as much fun as Jerry has, but ends up attracting a bear.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Toms-In-Tents-Adventure.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/toms-in-tents-adventure.mp4" }
+              ]
+            },
+            {
+              "title": "Birthday Bashed",
+              "description": "Spike forces Tom and Jerry to take over Tyke’s birthday party after they ruin it.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Birthday-Bashed.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/birthday-bashed.mp4" }
+              ]
+            },
+            {
+              "title": "Feline Fatale",
+              "description": "Toodles hires detectives Tom and Jerry to investigate and protect her against a threat to her Tuna can inheritance. They go investigate, and a mysterious and menacing figure keeps trying to hurt them.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Feline-Fatale.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/feline-fatale.mp4" }
+              ]
+            },
+            {
+              "title": "Cat Nippy",
+              "description": "Tom and Jerry are locked out in the snow.",
+              "image_url": "https://www.supercartoons.net/wp-content/uploads/The-Tom-and-Jerry-Show-Cat-Nippy.jpg",
+              "duration_mins": 11,
+              "streams": [
+                { "url": "https://ww.supercartoons.net/the-tom-and-jerry-show/cat-nippy.mp4" }
+              ]
             }
           ]
         }
@@ -95,7 +149,7 @@
       "backdrop_url": "https://image.tmdb.org/t/p/original/pTWaU7pnpV887KUL44Jr7CFcTuW.jpg",
       "duration_mins": 69,
       "streams": [
-        { "url": "https://animetoon-toon-api.hf.space/stream/Mjc5NDk1OTUzNzoxNDQ0MjpBZ0FEWHo/Ben%2010%20Alien%20Swarm%20(2009)%20480p%20BluRay%20mkv.mkv" }
+        { "url": "" }
       ]
     }
   ]
