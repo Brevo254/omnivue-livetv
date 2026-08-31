@@ -8,15 +8,16 @@
       "tagline": "Broadcast channels, linear schedules & live feeds",
       "stat_text": "142 CHANNELS • 38 LIVE NOW",
       "accent_color": "#E50914",
-      "icon_url": "https://raw.githubusercontent.com/your-username/omnivue-assets/main/icons/ic_tv.png",
+      "icon_url": "https://banner2.cleanpng.com/20180921/kvr/kisspng-logo-product-design-brand-font-iptv24x7-the-best-iptv-service-available-now-for-1713936391481.webp",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/livetv_1.jpg",
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/livetv_2.jpg"
+          "https://banner2.cleanpng.com/20180921/kvr/kisspng-logo-product-design-brand-font-iptv24x7-the-best-iptv-service-available-now-for-1713936391481.webp",
+          "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
+          "https://banner2.cleanpng.com/20180813/qlp/04580eda3f093a7b4b39d05ce7c2e465.webp"
         ]
       }
     },
@@ -26,14 +27,14 @@
       "tagline": "Family-friendly movies, cartoons & animated adventures",
       "stat_text": "450 SHOWS • RATED PG",
       "accent_color": "#FF9800",
-      "icon_url": "https://raw.githubusercontent.com/your-username/omnivue-assets/main/icons/ic_kids.png",
+      "icon_url": "",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "RIGHT_SIDE_BANNER",
         "cycle_interval_ms": 0,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/kids_banner_promo.png"
+          ""
         ]
       }
     },
@@ -43,14 +44,14 @@
       "tagline": "Live matches, upcoming fixtures & match highlights",
       "stat_text": "12 LIVE EVENTS • FIXTURES",
       "accent_color": "#2196F3",
-      "icon_url": "https://raw.githubusercontent.com/your-username/omnivue-assets/main/icons/ic_sports.png",
+      "icon_url": "",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 6000,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/sports_1.jpg"
+          ""
         ]
       }
     },
@@ -60,15 +61,15 @@
       "tagline": "Blockbusters, indie films & curated collections",
       "stat_text": "2,410 TITLES • 4K HDR",
       "accent_color": "#9C27B0",
-      "icon_url": "https://raw.githubusercontent.com/your-username/omnivue-assets/main/icons/ic_movies.png",
+      "icon_url": "",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 10000,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/movies_1.jpg",
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/movies_2.jpg"
+          "",
+          ""
         ]
       }
     },
@@ -85,7 +86,7 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/anime_1.jpg"
+          ""
         ]
       }
     },
@@ -95,14 +96,14 @@
       "tagline": "Turn up the volume with endless hits, lives & playlists",
       "stat_text": "24/7 MUSIC STATIONS • TOP CHARTS",
       "accent_color": "#E91E63",
-      "icon_url": "https://raw.githubusercontent.com/your-username/omnivue-assets/main/icons/ic_music.png",
+      "icon_url": "",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          "https://raw.githubusercontent.com/your-username/omnivue-assets/main/backdrops/music_1.jpg"
+          ""
         ]
       }
     }
