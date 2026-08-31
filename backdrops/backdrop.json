@@ -52,7 +52,8 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 6000,
         "urls": [
-          "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg"
+          "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
+          ""
         ]
       }
     },
@@ -69,8 +70,9 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 10000,
         "urls": [
-          "",
-          ""
+          "https://plus.unsplash.com/premium_photo-1710961232986-36cead00da3c?q=80&w=484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://plus.unsplash.com/premium_photo-1683133290577-f1b47c4b8c05?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://images.unsplash.com/photo-1663847709955-a2f171c7b54b?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         ]
       }
     },
@@ -87,7 +89,9 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          ""
+          "https://backiee.com/static/wallpapers/1000x563/464744.webp",
+          "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://i.pinimg.com/736x/57/3c/e2/573ce2b3fd2dafe6f5207ab71e1f05c6.jpg"
         ]
       }
     },
