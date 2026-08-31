@@ -803,8 +803,32 @@
     ]
   },
   {
+    "id": "ktn-ke",
+    "name": "KTN Home",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/26ad816e-bb72-9988-625c-5e6243e4ded1/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "ktn-news-ke",
     "name": "KTN News Kenya",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "news",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/26ad816e-bb72-9988-625c-5e6243e4ded1/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ktn-news-ke1",
+    "name": "KTN News Kenya (YOUTUBE)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "category": "news",
     "country": "KE",
@@ -1513,10 +1537,9 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://atletico.stream:8080/19494786/bd92acbb/281536", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157803", "priority": 2 },
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 3 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147070", "priority": 4 }
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157803", "priority": 1 },
+      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 2 },
+      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147070", "priority": 3 }
     ]
   },
   {
