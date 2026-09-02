@@ -15,10 +15,12 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          "https://banner2.cleanpng.com/20180921/kvr/kisspng-logo-product-design-brand-font-iptv24x7-the-best-iptv-service-available-now-for-1713936391481.webp",
           "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
           "https://banner2.cleanpng.com/20180813/qlp/04580eda3f093a7b4b39d05ce7c2e465.webp",
-          "https://banner2.cleanpng.com/20180720/yyb/6155a944070ad5e235470df1f5ea651e.webp"
+          "https://banner2.cleanpng.com/20180720/yyb/6155a944070ad5e235470df1f5ea651e.webp",
+          "https://i.pinimg.com/1200x/7e/09/9c/7e099cea60e5c36e812c43d2f1efe402.jpg",
+          "https://i.pinimg.com/736x/c8/ab/6c/c8ab6cce5ea529bb73717786316f3ec7.jpg"
+
         ]
       }
     },
@@ -33,9 +35,12 @@
       "is_beta": false,
       "backdrop": {
         "display_mode": "RIGHT_SIDE_BANNER",
-        "cycle_interval_ms": 0,
+        "cycle_interval_ms": 5000,
         "urls": [
-          "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp"
+          "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp",
+          "https://i.pinimg.com/736x/57/06/48/570648c1fada912a15a8f9b10e3c2294.jpg",
+          "https://i.pinimg.com/736x/1f/99/1d/1f991da7be09cc1f440a5d5d09bdffcf.jpg",
+          "https://i.pinimg.com/1200x/c3/12/85/c3128531369e7012585cedd1c90819c1.jpg"
         ]
       }
     },
@@ -53,7 +58,9 @@
         "cycle_interval_ms": 6000,
         "urls": [
           "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
-          ""
+          "https://banner2.cleanpng.com/20240324/coq/transparent-sports-soccer-player-white-shirt-shorts-white-sock-player-in-white-attire-holding-striped-ball-seriou6600120d9de9e4.12807839.webp",
+          "https://i.pinimg.com/736x/4d/be/b1/4dbeb1f1ae4cb3ecfca381ed916909ef.jpg",
+          "https://i.pinimg.com/736x/31/42/36/3142362881d11a41143285c38ec49c37.jpg"
         ]
       }
     },
@@ -70,8 +77,11 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 10000,
         "urls": [
+          "https://i.pinimg.com/736x/92/00/6b/92006b0d1bf43b14e7b9fb28debc726f.jpg",
           "https://plus.unsplash.com/premium_photo-1710961232986-36cead00da3c?q=80&w=484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://i.pinimg.com/1200x/ba/17/16/ba17168eb93452db47430bdb6a727802.jpg",
           "https://plus.unsplash.com/premium_photo-1683133290577-f1b47c4b8c05?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "https://i.pinimg.com/1200x/3b/88/8a/3b888ae33caddd009ea0262a6dace304.jpg",
           "https://images.unsplash.com/photo-1663847709955-a2f171c7b54b?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         ]
       }
@@ -108,7 +118,26 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
         "urls": [
-          ""
+          "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
+          "https://banner2.cleanpng.com/cb3/bqs/xlw/vz5y9ysyo.webp"
+        ]
+      }
+    },
+    {
+      "id": "help",
+      "title": "Help Center",
+      "tagline": "Need help? Get help with Omnivue, subscriptions & playback",
+      "stat_text": "SUPPORT • FAQs • CONTACT US",
+      "accent_color":"#2196F3",
+      "icon_url": "",
+      "is_active": true,
+      "is_beta": false,
+      "backdrop": {
+        "display_mode": "FULL_SCREEN",
+        "cycle_interval_ms": 8000,
+        "urls": [
+          "https://banner2.cleanpng.com/cb2/gue/jmh/vl9f48mdi.webp",
+          "https://banner2.cleanpng.com/20180330/xhw/kisspng-lytle-isd-lytle-junior-high-school-northern-illino-contact-5abf0790a39a40.9625649515224687526701.jpg"
         ]
       }
     }
