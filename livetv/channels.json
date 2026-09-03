@@ -1394,9 +1394,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100770", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/147063", "priority": 2 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1677", "priority": 3 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100770", "priority": 1 }
 
     ]
   },
@@ -1498,20 +1496,7 @@
     "status": "active",
     "streams": [
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100773", "priority": 1 },
-      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 2 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1672", "priority": 3 }
-    ]
-  },
-  {
-    "id": "sky-premierleague-2",
-    "name": "Sky Sports Premier League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100773", "priority": 1 }
+      { "url": "http://suberocape.com:80/8as7s9s9s9s9ch0opas32141241235555/TU3GWF2jcd6B5yuNBLKLH82WFhdgo2IOPmreS/25334", "priority": 2 }
     ]
   },
   {
@@ -1523,48 +1508,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://atletico.stream:8080/19494786/bd92acbb/194354", "priority": 1 },
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100764", "priority": 2 }
+      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100764", "priority": 1 }
 
-    ]
-  },
-  {
-    "id": "supersport-blitz",
-    "name": "Supersport Blitz",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpD2YOexsBGNl-VpS66KmoDyGmW9KjV_C9OoirxYdMFA&s",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157803", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/157803", "priority": 2 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147070", "priority": 3 }
-    ]
-  },
-  {
-    "id": "supersport-premier",
-    "name": "SuperSport Premier League",
-    "logo": "https://ke.moreplextv.com/wp-content/uploads/2025/01/S-Premier-League.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147074", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157810", "priority": 2 }
-    ]
-  },
-  {
-    "id": "sportnet-360",
-    "name": "4K| SPORTSNET 360 UHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqItsnfBlh-Y6XZ2VN8-G2ChLv16VJJEY5Ph716p9QVYTKFE4AoDI0wn8n&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1470603", "priority": 1 }
     ]
   },
   {
