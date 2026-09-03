@@ -180,8 +180,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20868", "priority": 1 },
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/110047", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/617", "priority": 1 }
     ]
   },
   {
@@ -257,8 +256,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31392", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20869", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/625", "priority": 1 }
     ]
   },
   {
@@ -271,18 +269,6 @@
     "status": "active",
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154968", "priority": 1 }
-    ]
-  },
-  {
-    "id": "canal-league",
-    "name": "CANAL+ Premier League ",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNo96iDHZNrhl6ZZgAeNRVXvKcB4N8pvj3NE_GhLvAFabBREPiSLiXH6H&s=10",
-    "category": "sport",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://atletico.stream:8080/19494786/bd92acbb/297425", "priority": 1 }
     ]
   },
   {
@@ -368,7 +354,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154957", "priority": 1 },
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10381", "priority": 1 },
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9205", "priority": 2 }
     ]
   },
@@ -391,7 +377,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/52157", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/13987", "priority": 1 }
     ]
   },
   {
@@ -403,7 +389,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/52161", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/13992", "priority": 1 }
     ]
   },
   {
@@ -481,28 +467,15 @@
     ]
   },
   {
-    "id": "dazn-1",
-    "name": "DAZN 1",
-    "logo": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1730196750000&quality=70",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/111261", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-channel",
-    "name": "Discovery Channel HD",
+    "id": "discovery",
+    "name": "Discovery",
     "logo": "https://yt3.googleusercontent.com/_qFi0xj0g69nlohTy4QezRrNjPjiaeTDcBUxlWt1viLNbN2eIaIwaKE9GVKF0AYmXB1jK7bhUQ=s900-c-k-c0x00ffffff-no-rj",
     "category": "documentary",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101657", "priority": 1 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/46779", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10388", "priority": 1 }
     ]
   },
   {
@@ -514,19 +487,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110779", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-life",
-    "name": "Discovery Life",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmDVczcjG3jNJt0UGKxuknIDzNz2kY--eGU3xkS6D-g&s=10",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110780", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10387", "priority": 1 }
     ]
   },
   {
@@ -538,8 +499,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31403", "priority": 1 },
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/110781", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10389", "priority": 1 }
     ]
   },
   {
@@ -563,8 +523,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9343", "priority": 1 },
-       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25179", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/622", "priority": 1 }
     ]
   },
   {
@@ -576,9 +535,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25181", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25182", "priority": 2 },
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/8871", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/623", "priority": 1 }
     ]
   },
   {
@@ -590,9 +547,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/85550", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25183", "priority": 2},
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/25184", "priority": 3 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/624", "priority": 1 }
     ]
   },
   {
@@ -640,8 +595,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9569", "priority": 1 },
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/9569", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/38226", "priority": 1 }
     ]
   },
   {
@@ -653,8 +607,19 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/9568", "priority": 1 },
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/9568", "priority": 2 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/38227", "priority": 1 }
+    ]
+  },
+  {
+    "id": "espn-news-tv",
+    "name": "ESPN news",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygNbMXTjNeeBOKpSdZHf3VbCZJPlY-zzhvKJ0lod2-zwaRVRq_X9fIdGY&s=10",
+    "category": "news",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://bgdc.live:25461/meredithward/3368878/38229", "priority": 1 }
     ]
   },
   {
@@ -739,19 +704,19 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67135", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/13434", "priority": 1 }
     ]
   },
   {
     "id": "hbo-2-tv",
-    "name": "HBO 2",
+    "name": "HBO Hits",
     "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_HBO2.png",
     "category": "movies",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67134", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/13435", "priority": 1 }
     ]
   },
   {
@@ -883,7 +848,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/18206", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/14165", "priority": 1 }
     ]
   },
   {
@@ -895,7 +860,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98690", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/14164", "priority": 1 }
     ]
   },
   {
@@ -907,7 +872,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98691", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/14166", "priority": 1 }
     ]
   },
   {
@@ -943,19 +908,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/98730", "priority": 1 }
-    ]
-  },
-  {
-    "id": "movie-time",
-    "name": "Movietime",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Movietime_Cinemas_Logo1.jpg",
-    "category": "movies",
-    "country": "EG",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127921", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/13984", "priority": 1 }
     ]
   },
   {
@@ -1026,9 +979,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127925", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31446", "priority": 2 },
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67106", "priority": 3 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10429", "priority": 1 }
     ]
   },
   {
@@ -1040,10 +991,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127926", "priority": 1 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101658", "priority": 2 },
-      { "url": "http://eurvip.xyz:2095/kkk8766/kkk2001yy00/112181", "priority": 3 }
-    ]
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10428", "priority": 1 }
+   ]
   },
   {
     "id": "nickelodeon-tv",
@@ -1068,7 +1017,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/21021", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/621", "priority": 1 }
     ]
   },
   {
@@ -1080,32 +1029,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20874", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/20875", "priority": 2 }
-    ]
-  },
-  {
-    "id": "nickelodeon-jr-uk",
-    "name": "Nick Jr (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWzj1n3kJ1kT28xcRHrOAmwaHWCb8QxEg77OsTkszBw&s=10",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20903", "priority": 1 }
-    ]
-  },
-  {
-    "id": "nickelodeon-jrt-uk",
-    "name": "Nick Jr too (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBFIhTyocS8_viy23FaunIa6Y7ZHOeT34db8GG0zkfig&s=10",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20901", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/94599", "priority": 1 }
     ]
   },
   {
@@ -1117,19 +1041,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44120", "priority": 1 }
-    ]
-  },
-  {
-    "id": "nickelodeon-toons-uk",
-    "name": "Nick Toons (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20900", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/620", "priority": 1 }
     ]
   },
   {
@@ -1273,7 +1185,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/58535", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/14919", "priority": 1 }
     ]
   },
   {
@@ -1290,18 +1202,6 @@
     ]
   },
   {
-    "id": "sky-sci",
-    "name": "Sky Sci-Fi",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqHUxD-wyZRJo0rgT7rR_ghNlYeORI_wnn4JpD1_-2w&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20764", "priority": 1 }
-    ]
-  },
-  {
     "id": "sky-sci-horror",
     "name": "SKY CINEMA SCI FI AND HORROR",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvqII18__ajkrhBhDTsBAOdnqq0O0d7wfFKFRE58_mw&s=10",
@@ -1310,7 +1210,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/20918", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/14932", "priority": 1 }
     ]
   },
   {
@@ -1338,7 +1238,7 @@
     ]
   },
   {
-    "id": "sky-plus",
+    "id": "sky-sports-plus",
     "name": "Sky Sports+",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky_Sports%2B_%28television_channel%29.svg/960px-Sky_Sports%2B_%28television_channel%29.svg.png?_=20250818220508",
     "category": "sports",
@@ -1522,7 +1422,7 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8", "priority": 1 },
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67081", "priority": 2 },
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10442", "priority": 2 },
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39834", "priority": 3 },
        { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101764", "priority": 4 },
       { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 5 },
@@ -1563,7 +1463,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9152", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10450", "priority": 1 }
     ]
   },
   {
@@ -1623,7 +1523,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/44192", "priority": 1 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10451", "priority": 1 }
     ]
   },
   {
