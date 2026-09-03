@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "last_updated": "2026-09-03",
+  "contact": {
+    "whatsapp_number": "254797753972",
+    "whatsapp_display": "+254 797 753 972",
+    "phone_number": "254706309917",
+    "phone_display": "+254 706 309 917",
+    "email": "support@omnivue.app"
+  },
+  "support_info": {
+    "hours": "Mon–Sat, 8AM–9PM EAT",
+    "response_time": "Usually within a few minutes on WhatsApp"
+  },
+  "faqs": [
+    {
+      "question": "Video isn't playing",
+      "answer": "Check your connection, restart the stream, or try another server."
+    },
+    {
+      "question": "Channels aren't loading",
+      "answer": "The channel may temporarily be unavailable. Try again later."
+    },
+    {
+      "question": "My subscription isn't active",
+      "answer": "Contact support with your Omnivue account/activation information."
+    }
+  ],
+  "report_categories": [
+    { "id": "live_tv", "label": "Live TV" },
+    { "id": "movies", "label": "Movies" },
+    { "id": "sports", "label": "Sports" },
+    { "id": "anime", "label": "Anime" },
+    { "id": "music", "label": "Music" },
+    { "id": "subscription", "label": "Subscription" },
+    { "id": "app", "label": "App problem" },
+    { "id": "connection", "label": "Connection/Buffering" },
+    { "id": "other", "label": "Other" }
+  ]
+}
