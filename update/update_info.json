@@ -1,10 +1,14 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "changelog": [
-    "Added categorized layout and expanded sports channel options for better redundancy",
-    "Enhanced stream stability and fixed playback freezing",
-    "General performance improvements"
+    "Improved Live TV stability, reducing freezing, stuttering, and excessive loading",
+    "Added a dedicated Help & Support section with guided assistance and contact information",
+    "Reduced APK size from approximately 40 MB to 22 MB",
+    "Introduced JSON-based categories for faster updates and easier maintenance",
+    "Improved TV interface loading speed, navigation, and overall usability",
+    "Fixed update-related crashes affecting some users",
+    "Continued maintenance and stabilization of Live TV channels and services"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false
