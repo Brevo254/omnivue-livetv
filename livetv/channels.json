@@ -612,6 +612,18 @@
     ]
   },
   {
+    "id": "fear-factor",
+    "name": "Fear Factor (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Feafactorlive.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "entertainment",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "filmrise-anime",
     "name": "FilmRise Anime (720p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uuKIdWRXwTOUOVB0GCw-vqQm8lYysN32jevwt5HvZg&s=10",
@@ -800,6 +812,18 @@
     "status": "active",
     "streams": [
       { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20971", "priority": 1 }
+    ]
+  },
+  {
+    "id": "made-in-hollywood",
+    "name": "Made in Hollywod",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeWnwLD45PAcQEOrcgD_0w4NNweOk-IoPTrYSNhY63Cuw43T1xGuWAAeM&s=10",
+    "category": "movies",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8", "priority": 1 }
     ]
   },
   {
@@ -1046,42 +1070,6 @@
     ]
   },
   {
-    "id": "premier-sports-1",
-    "name": "Premier Sports 1 (UK)",
-    "logo": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/9/2/8/1457928_premiersports_821472.jpg",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20975", "priority": 1 }
-    ]
-  },
-  {
-    "id": "premier-sports-2",
-    "name": "Premier Sports 2 (UK)",
-    "logo": "https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/26631", "priority": 1 }
-    ]
-  },
-  {
-    "id": "premier-rugby",
-    "name": "Premier Rugby",
-    "logo": "https://i.logos-download.com/114158/30505-s5120-593bf901d89d1270c45b9416a400f5af.png/Premier_Sports_Rugby_Logo_2025-s5120.png?dl",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/138609", "priority": 1 }
-    ]
-  },
-  {
     "id": "pluto-science",
     "name": "Pluto TV Science",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHJvpmY0z9OogMYiUZCATNAUPJcfoJcc9jg-Uyd0_KmiQPzKR8co2YdM&s=10",
@@ -1091,18 +1079,6 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "racing-tv",
-    "name": "Racing TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_DZT2x7U-sCNrOBIr-82YpJp3hMUo0ljrDl1bWKv8U2J_1iztSHFj4VM&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/20976", "priority": 1 }
     ]
   },
   {
@@ -1203,30 +1179,6 @@
     ]
   },
   {
-    "id": "sky-news",
-    "name": "Sky News FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFhhMPutJ5BbukweOmmQ5Vr1lQRzAWz8j-lRj4bt48A&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/1829", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-sports-news-2",
-    "name": "Sky Sports News",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFhhMPutJ5BbukweOmmQ5Vr1lQRzAWz8j-lRj4bt48A&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100772", "priority": 1 }
-    ]
-  },
-  {
     "id": "sky-sports-plus",
     "name": "Sky Sports+",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky_Sports%2B_%28television_channel%29.svg/960px-Sky_Sports%2B_%28television_channel%29.svg.png?_=20250818220508",
@@ -1288,45 +1240,6 @@
     ]
   },
   {
-    "id": "skysports-main",
-    "name": "Sky Sports Main Event 2",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100770", "priority": 1 }
-
-    ]
-  },
-  {
-    "id": "skysports-mix",
-    "name": "Sky Sports Mix ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg?_=20200324180942",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1670", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/146477", "priority": 2 },
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/103987", "priority": 3 }
-    ]
-  },
-  {
-    "id": "skysports-mix",
-    "name": "Sky Sports Mix 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg?_=20200324180942",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/103987", "priority": 1 }
-    ]
-  },
-  {
     "id": "skysports-football",
     "name": "Sky Sports Football",
     "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
@@ -1337,42 +1250,6 @@
     "streams": [
       { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/1671", "priority": 1 },
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100767", "priority": 2 }
-    ]
-  },
-  {
-    "id": "skysports-football-2",
-    "name": "Sky Sports Football 2",
-    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100767", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-sports-f1",
-    "name": "Sky Sports F1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kT4CwEwGdT3mIb1KTZzuMRikSTxkGoqsW3__BDqcHg&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100769", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-sports-golf",
-    "name": "Sky Sports Golf",
-    "logo": "https://yt3.googleusercontent.com/M6IEcf2PDL9jTofwSW41WCqRkf8y1Th3rj5BdUwVHmKI2jEJWfSP0lOiC97KBvd60fgJOzfb=s900-c-k-c0x00ffffff-no-rj",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100768", "priority": 1 }
     ]
   },
   {
@@ -1389,19 +1266,6 @@
     ]
   },
   {
-    "id": "supersport-action",
-    "name": "SuperSport Action",
-    "logo": "https://i0.wp.com/alternativeadverts.co.ke/wp-content/uploads/2024/07/DSTV-SuperSport-Action-Advert-Rate.jpg?fit=132%2C99&ssl=1",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/100764", "priority": 1 }
-
-    ]
-  },
-  {
     "id": "smithsonian-channel",
     "name": "Smithsonian Channel",
     "logo": "https://www.si.edu/sites/default/files/styles/grid/public/newsdesk/press_releases/smithsonian-channel-logo-thumbnail.jpg.webp?itok=lFH6Hai3",
@@ -1411,11 +1275,7 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8", "priority": 1 },
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10442", "priority": 2 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39834", "priority": 3 },
-       { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101764", "priority": 4 },
-      { "url": "http://g-med.xyz:25461/live/@Admir.Luca@2204/d4@Az-s@WTA-@jhq6@/19583.ts", "priority": 5 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/60514", "priority": 6 }
+      { "url": "http://bgdc.live:25461/meredithward/3368878/10442", "priority": 2 }
       
     ]
   },
@@ -1432,75 +1292,27 @@
     ]
   },
   {
-    "id": "tlc-tv-uk",
-    "name": "TLC (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRpFjq_2Sb9mwB9PXfGNFTcyg3WHwXIk6aIiLnEbIww&s=10",
-    "category": "entertainment",
+    "id": "tastemade-tv",
+    "name": "Tastemade (1080p)",
+    "logo": "",
+    "category": "food",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/20762", "priority": 1 }
+      { "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8", "priority": 1 }
     ]
   },
   {
-    "id": "tlc-tv",
-    "name": "TLC",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRpFjq_2Sb9mwB9PXfGNFTcyg3WHwXIk6aIiLnEbIww&s=10",
-    "category": "entertainment",
+    "id": "the-lego-channel",
+    "name": "The LEGO Channel (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQregy5mlnc35viUgFfLXNczvxQfPFl4Gdnszk20BIT7U_L5vq9Vppshxt-&s=10",
+    "category": "animation",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10450", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-bt-sports-1",
-    "name": "TNT-BT Sport 1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100775", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-bt-sports-2",
-    "name": "TNT-BT Sport 2",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100776", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-bt-sports-3",
-    "name": "TNT-BT Sport 3",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100777", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-bt-sports-4",
-    "name": "TNT-BT Sport 4",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://172.110.221.91:8080/205572520A/jarAuIls4m/100778", "priority": 1 }
+      { "url": "The LEGO Channel (1080p)", "priority": 1 }
     ]
   },
   {
@@ -1768,351 +1580,15 @@
     ]
   },
   {
-    "id": "comedy-central-1",
-    "name": "UK| COMEDY CENTRAL +1 ",
-    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/01/14112125/Comedy-Central-logo.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014224", "priority": 1 }
-    ]
-  },
-  {
-    "id": "dave-ja-vu",
-    "name": "UK| DAVE JA VU",
-    "logo": "https://images.seeklogo.com/logo-png/45/1/dave-ja-vu-2022-logo-png_seeklogo-457399.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014227", "priority": 1 }
-    ]
-  },
-  {
-    "id": "drama-1",
-    "name": "UK| DRAMA +1",
-    "logo": "https://icon2.cleanpng.com/20180707/yta/aaw5iheho.webp",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164045", "priority": 1 }
-    ]
-  },
-  {
-    "id": "great-movies-action",
-    "name": "UK| GREAT MOVIES ACTION",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEGkmUBgqEYxH7rPsWMZuGN1as_5j9jrEszMBwZc_dng&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/887936", "priority": 1 }
-    ]
-  },
-  {
-    "id": "great-tv-channel-1",
-    "name": "UK| GREAT TV CHANNEL +1",
-    "logo": "https://tv.assets.pressassociation.io/ee79dbb5-e8a0-57ac-8ab4-95ceadb2b99e.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014215", "priority": 1 }
-    ]
-  },
-  {
-    "id": "great-action",
-    "name": "UK| GREAT! ACTION",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqJcTy3Kuf22s72I6mCF0_y0FfIiFqKBn-jhyLx_H5KZ4RK-5ctu1oDY&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1424875", "priority": 1 }
-    ]
-  },
-  {
-    "id": "great-action-1",
-    "name": "UK| GREAT! ACTION +1",
-    "logo": "https://tv.assets.pressassociation.io/614b8516-1e49-57d1-a6a9-094f60820ae8.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1424876", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-cinema-action",
-    "name": "UK| SKY CINEMA ACTION",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/79471", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-cinema-action-fhd",
-    "name": "UK| SKY CINEMA ACTION FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/163996", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-cinema-action-hd",
-    "name": "UK| SKY CINEMA ACTION HD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQGgLm4jTo7PvA8KzsogKq_39Cz3P2VrlSm8zsHQg&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30517", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-cinema-oscars",
-    "name": "UK| SKY CINEMA OSCARS HD",
-    "logo": "https://archive.org/download/SkyCinemaOscarsHd/sky%20cinema%20oscars%20hd.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30511", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-cinema-select",
-    "name": "UK| SKY CINEMA SELECT HD",
-    "logo": "https://images.seeklogo.com/logo-png/50/1/sky-cinema-select-logo-png_seeklogo-501082.png",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/949137", "priority": 1 }
-    ]
-  },
-  {
-    "id": "true-crime",
-    "name": "UK| TRUE CRIME",
-    "logo": "https://yt3.googleusercontent.com/IE6d5NBh2k-Gsn-DfkeNpXRNhMMrJUYTa3GRMJ9ThZ5vtAtEHqeElewuX1FF3UMnLP7R_BGY=s900-c-k-c0x00ffffff-no-rj",
-    "category": "entertainment",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45290", "priority": 1 }
-    ]
-  },
-  {
-    "id": "true-crime-hd",
-    "name": "UK| TRUE CRIME HD",
-    "logo": "https://yt3.googleusercontent.com/IE6d5NBh2k-Gsn-DfkeNpXRNhMMrJUYTa3GRMJ9ThZ5vtAtEHqeElewuX1FF3UMnLP7R_BGY=s900-c-k-c0x00ffffff-no-rj",
-    "category": "entertainment",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45289", "priority": 1 }
-    ]
-  },
-  {
-    "id": "animal-planet-fhd",
-    "name": "UK| ANIMAL PLANET FHD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30582", "priority": 1 }
-    ]
-  },
-  {
-    "id": "animal-planet-1",
-    "name": "UK| ANIMAL PLNT +1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164033", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-fhd",
-    "name": "UK| DISCOVERY FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30549", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-hd",
-    "name": "UK| DISCOVERY HD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1074678", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-sd",
-    "name": "UK| DISCOVERY SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBv4DjsWo8YRlJxE2wE0xbue9dvWvATEY7fOKhm6P0Q&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1074679", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-1",
-    "name": "UK| DISCOVERY +1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYChuGRvrNa1NyXZIvA4MGDcojb6yZXERZpjtG0HMBBYrMwVBYHH2Ex0w&s=10",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164044", "priority": 1 }
-    ]
-  },
-  {
-    "id": "discovery-history",
-    "name": "UK| DISCOVERY HISTORY ",
-    "logo": "https://banner2.cleanpng.com/20180516/ajq/kisspng-discovery-history-discovery-channel-television-cha-5afbd87a6bd681.0629317915264543944417.jpg",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/45283", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-fhd",
-    "name": "UK| NAT GEO FHD",
-    "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30526", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-hd",
-    "name": "UK| NAT GEO HD",
-    "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057011", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-sd",
-    "name": "UK| NAT GEO SD ",
-    "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057012", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-1",
-    "name": "UK| NAT GEO +1",
-    "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014334", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-wild-fhd",
-    "name": "UK| NAT GEO WILD FHD",
-    "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/30525", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-wild-hd",
-    "name": "UK| NAT GEO WILD HD",
-    "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057013", "priority": 1 }
-    ]
-  },
-  {
-    "id": "natgeo-wild-sd",
-    "name": "UK| NAT GEO WILD SD",
-    "logo": "https://banner2.cleanpng.com/20180724/grp/f39fdceb9a69aa3df429a6f2ba9cd9ac.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1057014", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-nature-fhd",
-    "name": "UK| SKY NATURE FHD",
+    "id": "sky-nature",
+    "name": "Sky Nature (576p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmT4oqmVzgMaTNf4F_lmx47zyO_EeqsRZULJsR8I93DQ&s=10",
     "category": "documentary",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/164071", "priority": 1 }
+      { "url": "https://tvsen6.aynaott.com/skynature/index.m3u8", "priority": 1 }
     ]
   },
   {
