@@ -97,6 +97,18 @@
     ]
   },
   {
+    "id": "baby-shark-tv",
+    "name": "Baby Shark TV (720p)",
+    "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_icon/CI0c/3597-baby-shark-tv-hd.png",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "bbc-earth",
     "name": "BBC Earth (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzH8WRqxrLdvIRCwp79thqHDARnBze84dvTmoPpnIkw0lLzaDw_ecHu-Kd&s=10",
@@ -273,14 +285,14 @@
   },
   {
     "id": "curiosity-now",
-    "name": "CURIOSITY NOW",
+    "name": "Curiosity Now (1080p)",
     "logo": "https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/curiosity-now.jpg.jpeg",
     "category": "documentary",
     "country": "US",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154974", "priority": 1 }
+      { "url": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8", "priority": 1 }
     ]
   },
   {
@@ -294,18 +306,6 @@
     "streams": [
       { "url": "http://lunar.pm:8080/2052404365/41437862tow/75568", "priority": 1 },
       { "url": "http://lunar.pm:8080/2052404365/41437862tow/75569", "priority": 2 }
-    ]
-  },
-  {
-    "id": "ctv-comedy",
-    "name": "CTV Comedy Channel",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsx7Piu2WoDwZtBkOvaO9SvFsEeuv6wiHuwPXRafmLaw&s=10",
-    "category": "comedy",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127876", "priority": 1 }
     ]
   },
   {
@@ -333,18 +333,7 @@
       { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127885", "priority": 1 }
     ]
   },
-  {
-    "id": "ctv-scifi",
-    "name": "CTV Sci-Fi Channel",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe_6EuG8uD5pO127vfX1cIFX66FnI99JT-yX_M9Mz8_A&s=10",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/127945", "priority": 1 }
-    ]
-  },
+
   {
     "id": "cooking-channel",
     "name": "COOKING CHANNEL",
@@ -1528,14 +1517,50 @@
   },
   {
     "id": "trace-africa",
-    "name": "Trace Africa",
+    "name": "Trace Africa (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGvfXt0SKQY7m70mnQQxNdIe9Rda1_AaDBec8kLgL42w&s=10",
     "category": "music",
-    "country": "FR",
+    "country": "AF",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135320", "priority": 1 }
+      { "url": "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-ayiti",
+    "name": "Trace Ayiti (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsIHTMLUwr5Gq8LB5C3wtZJgH-r6V3GaDse6fLzVI2mTvxO3F7Mfp05B6&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-brasil",
+    "name": "Trace Brasil (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7Rc8Ij_fQrZeGfRH0mnHLaSIk2nEg1_h0pTpy5Ztjw&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-caribbean",
+    "name": "Trace Caribbean (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/5/5f/Tracecaribbean2022.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8", "priority": 1 }
     ]
   },
   {
@@ -1551,6 +1576,114 @@
     ]
   },
   {
+    "id": "trace-gospel-southern-africa",
+    "name": "Trace Gospel Southern Africa (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUa27t4buD3O1lBw7OEeo79Yb2QDPLQJ_DNInLsmDKt5-g6SHs0eO198&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-ivoire",
+    "name": "Trace Ivoire (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuxsx20nv2yq4nRpTaup_sfQMGNPhF2umBt8XNb0Ga8xZlFxJXiNJ9F98&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-jama",
+    "name": "Trace Jama (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUi4Ixnc2ymhdyVoMsrJu2hDNGj4xlgIXfyDdz3eTYbw&s",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-kitoko",
+    "name": "Trace Kitoko (1080p)",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/5/59/Trace_Kitoko_%282017-.n.v.%29.png/revision/latest?cb=20180118194252",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-latina",
+    "name": "Trace Latina (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxd1jaG1JI3vbVoEv5OkL7_MShCw4_S0eVpvpiV6v5S_Y1r1NDoqou4Tg&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-mboa",
+    "name": "Trace Mboa (1080p)",
+    "logo": "https://i.scdn.co/image/ab6775700000ee855324b1cf4a66fa5199a72528",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-muzika",
+    "name": "Trace Muzika (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Tracemuzika2022.png/revision/latest/scale-to-width-down/250?cb=20260207164823",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-mziki",
+    "name": "Trace Mziki (1080p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Trace_Mziki_2022.svg/revision/latest/scale-to-width-down/250?cb=20250929205320",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-naija",
+    "name": "Trace Naija (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwmbD3vOgmy0HFNPp13s4_B9zf5H0uszGS9Fa0ASJfNAZ_V8yurhNbaeK&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "trace-ngoma",
     "name": "Trace Ngoma (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28JhoBKjRB3-k4EHJWgMZEfTpTlkehB1tFGzSTaisDQ&s=10",
@@ -1560,6 +1693,30 @@
     "status": "active",
     "streams": [
       { "url": "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-teranga",
+    "name": "Trace Teranga (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpuiUwZq-naXJB7AW5oHWSDjnTt06gxOICJVFY61F1eukPPHIUyQK952A&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-toca",
+    "name": "Trace Toca (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtnL2kjTIMcvJ67htKfyGeP17ceEQXxjhks1M-YM-14Q&s=10",
+    "category": "music",
+    "country": "AF",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8", "priority": 1 }
     ]
   },
   {
@@ -1575,6 +1732,30 @@
     ]
   },
   {
+    "id": "trace-urban-international",
+    "name": "Trace Urban International (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "trace-urban-southern-africa",
+    "name": "Trace Urban Southern Africa (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "total-music",
     "name": "Totalmusic (1080p)",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mErUxqizmbnrZjlsQBIoDa7pU9CeiPNn3hAfHYuaBq0xs=s900-c-k-c0x00ffffff-no-rj",
@@ -1584,18 +1765,6 @@
     "status": "active",
     "streams": [
       { "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "cinemania-hollywood",
-    "name": "UK| CINEMANIA HOLLYWOOD 4K ",
-    "logo": "https://pbs.twimg.com/profile_images/1333439656420118529/FW6LhaXW_400x400.jpg",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1430509", "priority": 1 }
     ]
   },
   {
@@ -2884,78 +3053,6 @@
   },
   {
     "id": "",
-    "name": "UK-NOWTV| BOOMERANG FHD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905954", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| BOOMERANG HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905953", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| BOOMERANG HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905952", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| CARTOON NETWORK FHD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905951", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| CARTOON NETWORK HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905950", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| CARTOON NETWORK HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905949", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
     "name": "UK-NOWTV| MTV FHD",
     "logo": "",
     "category": "entertainment",
@@ -2988,114 +3085,6 @@
     "status": "active",
     "streams": [
       { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905940", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICK JR FHD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905939", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICK JR HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905938", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICK JR HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905937", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKELODEON FHD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905936", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKELODEON HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905935", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKELODEON HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905934", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKTOONS FHD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905933", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKTOONS HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905932", "priority": 1 }
-    ]
-  },
-  {
-    "id": "",
-    "name": "UK-NOWTV| NICKTOONS HD",
-    "logo": "",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1905931", "priority": 1 }
     ]
   },
   {
