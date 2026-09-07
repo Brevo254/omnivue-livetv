@@ -9,8 +9,8 @@
       "stat_text": "142 CHANNELS • 38 LIVE NOW",
       "accent_color": "#E50914",
       "icon_url": "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
-      "is_active": false,
-      "is_beta": true,
+      "is_active": true,
+      "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,

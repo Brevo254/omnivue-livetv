@@ -24,6 +24,10 @@
     {
       "question": "My subscription isn't active",
       "answer": "Contact support with your Omnivue account/activation information."
+    },
+    {
+      "question": "Why is a category missing",
+      "answer": "Usually happens when development or maintenance is taking place"
     }
   ],
   "report_categories": [

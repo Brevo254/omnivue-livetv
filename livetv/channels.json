@@ -8,8 +8,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/154654", "priority": 2 }
+      { "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8", "priority": 1 }
     ]
   },
   {
@@ -61,18 +60,6 @@
     ]
   },
   {
-    "id": "al-jazeera-uk",
-    "name": "UK| AL JAZEERA EN HD ",
-    "logo": "https://play-lh.googleusercontent.com/0tcuWYRRPAJw6ZX-IFssspA0eThGbmGLcRnytpj5Ik37wwb7nD4oa7HPvFz4BAoCc-HQmy63sHfGpxFq2zSVtw",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/229460", "priority": 1 }
-    ]
-  },
-  {
     "id": "baby-shark-tv",
     "name": "Baby Shark TV (720p)",
     "logo": "https://staticeu.sweet.tv/images/cache/v2/channel_icon/CI0c/3597-baby-shark-tv-hd.png",
@@ -117,34 +104,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://xemzi.short.gy/1000015", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/39712", "priority": 2 },
-      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 3 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101684", "priority": 4 }
-    ]
-  },
-  {
-    "id": "bet-channel",
-    "name": "BET",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz29Sjgc9K8XVEDTVq2b5HFj1JiiGdTF_yilktA0Q5TL16FplJM7INvRMh&s=10",
-    "category": "entertainment",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9214", "priority": 1 }
-    ]
-  },
-  {
-    "id": "bet-her",
-    "name": "BET HER",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BET_Her.svg/250px-BET_Her.svg.png",
-    "category": "entertainment",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/49221", "priority": 1 }
+      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8", "priority": 1},
+      { "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8", "priority": 2 }
     ]
   },
   {
@@ -730,6 +691,18 @@
     ]
   },
   {
+    "id": "mayday-air-disaster",
+    "name": "Mayday Air Disaster",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqKEmUpZrbjYrClE3tSpoYYyW7lH2cqhI90iCKsPalQ&s=10",
+    "category": "documentary",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://jmp2.uk/plu-6852811933a52de120f8b89d.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "made-in-hollywood",
     "name": "Made in Hollywod",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeWnwLD45PAcQEOrcgD_0w4NNweOk-IoPTrYSNhY63Cuw43T1xGuWAAeM&s=10",
@@ -945,6 +918,18 @@
     ]
   },
   {
+    "id": "pop",
+    "name": "Pop (1080p)",
+    "logo": "",
+    "category": "animation",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "rakuten-ukmovies",
     "name": "Rakuten Top Movies UK",
     "logo": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header-with-Border.jpg?fit=1024%2C578&ssl=1",
@@ -1005,30 +990,6 @@
     ]
   },
   {
-    "id": "star-kids",
-    "name": "STARZ KIDS & FAMILY",
-    "logo": "https://static.wikia.nocookie.net/dreamlogos/images/c/c2/STARZ_KIDS_AND_FAMILY.png/revision/latest?cb=20200228160110",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/14919", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-sci-horror",
-    "name": "SKY CINEMA SCI FI AND HORROR",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvqII18__ajkrhBhDTsBAOdnqq0O0d7wfFKFRE58_mw&s=10",
-    "category": "movies",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/14932", "priority": 1 }
-    ]
-  },
-  {
     "id": "skysports-main",
     "name": "Sky Sports Main Event FHD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
@@ -1037,8 +998,8 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5146.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112981.ts", "priority": 2 }
+      { "url": "", "priority": 1 },
+      { "url": "", "priority": 2 }
 
     ]
   },
@@ -1051,7 +1012,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112983.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
 
     ]
   },
@@ -1064,49 +1025,19 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5167.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112982.ts", "priority": 2 }
+      { "url": "", "priority": 1 }
 
     ]
   },
   {
     "id": "skysports-news-fhd",
-    "name": "Sky Sports News FHD",
+    "name": "Sky Sports News (YOUTUBE)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
     "category": "news",
     "country": "UK",
     "language": "en",
     "status": "active",
-    "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112978.ts", "priority": 1 }
-
-    ]
-  },
-  {
-    "id": "skysports-news-hd",
-    "name": "Sky Sports News HD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112979.ts", "priority": 1 }
-
-    ]
-  },
-  {
-    "id": "skysports-news-sd",
-    "name": "Sky Sports News SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112980.ts", "priority": 1 }
-
-    ]
+    "youtubeId": "UCoMdktPbSTixAyNGwb-UYkQ"
   },
   {
     "id": "skysports-football",
@@ -1117,8 +1048,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5146.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112984.ts", "priority": 2 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1130,7 +1060,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112985.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1142,8 +1072,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5169.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112986.ts", "priority": 2 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1155,8 +1084,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5166.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112989.ts", "priority": 2 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1168,7 +1096,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112988.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1180,8 +1108,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/5143.ts", "priority": 1 },
-      { "url": "http://193742.solanaflix.com/live/TV-87413585/172206309065/112987.ts", "priority": 2 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1193,8 +1120,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8", "priority": 1 },
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10442", "priority": 2 }
+      { "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8", "priority": 1 }
       
     ]
   },
@@ -1664,6 +1590,18 @@
     "status": "active",
     "streams": [
       { "url": "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "vevo-hip-hop",
+    "name": "Vevo Hip-Hop & R&B (1080p)",
+    "logo": "",
+    "category": "music",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8", "priority": 1 }
     ]
   },
   {
