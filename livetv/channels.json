@@ -12,6 +12,18 @@
     ]
   },
   {
+    "id": "live-event",
+    "name": "UEFA : 05 - Napoli vs Arsenal 8:00pm [1080p]",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzBfCsXnvFa4FKqctFjEUYVbRQMd7x7x04wBdWAp1qQ&s",
+    "category": "arsenal",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/22110.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "pluto-anime",
     "name": "Anime Movies",
     "logo": "https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2025/05/19/image36-61pocqar.png",
@@ -998,7 +1010,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26234.m3u8", "priority": 1 }
 
     ]
   },
@@ -1039,6 +1051,18 @@
     "youtubeId": "UCoMdktPbSTixAyNGwb-UYkQ"
   },
   {
+    "id": "skysports-news-fhd",
+    "name": "Sky Sports News (1080)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26231.ts", "priority": 1 }
+    ]
+  },
+  {
     "id": "skysports-football",
     "name": "Sky Sports Football FHD",
     "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
@@ -1047,7 +1071,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26232.ts", "priority": 1 }
     ]
   },
   {
@@ -1095,7 +1119,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://turbotv.xyz:8080/m86QKbqP8uCF/xQJHKCrHDY4V/172723", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1107,7 +1131,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26240.ts", "priority": 1 }
     ]
   },
   {
@@ -1168,7 +1192,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26244.ts", "priority": 1 }
     ]
   },
   {
@@ -1204,7 +1228,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26245.ts", "priority": 1 }
     ]
   },
   {
@@ -1240,7 +1264,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26246.ts", "priority": 1 }
     ]
   },
   {
@@ -1276,7 +1300,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26247.ts", "priority": 1 }
     ]
   },
   {
