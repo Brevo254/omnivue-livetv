@@ -1,12 +1,16 @@
 [
   {
+    "id": "global_welcome_2026_09_09",
+    "date": "2026-09-09",
     "title": "Welcome to Omnivue",
     "message": "Explore Live TV, Movies, and more.",
     "category": null
   },
   {
-    "title": "New channels added",
-    "message": "3 new sports channels are now live.",
+    "id": "live_tv_2026_09_10",
+    "date": "2026-09-10",
+    "title": "Live TV Announcement",
+    "message": "Omnivue will be making a structured change to our channels following the issues related to stuttering and loading. This may take some time and due to this we recommend that you be patient as we solve the underlying issue. Some channels may be removed during this time for further tests while others will retain.",
     "category": "livetv"
   }
 ]
