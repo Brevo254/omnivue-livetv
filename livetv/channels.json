@@ -12,18 +12,6 @@
     ]
   },
   {
-    "id": "live-event",
-    "name": "UEFA : 05 - Napoli vs Arsenal 8:00pm [1080p]",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzBfCsXnvFa4FKqctFjEUYVbRQMd7x7x04wBdWAp1qQ&s",
-    "category": "arsenal",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/22110.m3u8", "priority": 1 }
-    ]
-  },
-  {
     "id": "pluto-anime",
     "name": "Anime Movies",
     "logo": "https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2025/05/19/image36-61pocqar.png",
@@ -209,19 +197,6 @@
     ]
   },
   {
-    "id": "christian-youth",
-    "name": "Christian Youth Channel",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxL-wMKEXti2Q3K40DPvElQD0XIbfSp-qFGItvFScG7qfiu9WILdE1amA&s=10",
-    "category": "religion",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/75568", "priority": 1 },
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/75569", "priority": 2 }
-    ]
-  },
-  {
     "id": "cooking-channel",
     "name": "COOKING CHANNEL",
     "logo": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.462.85.suffix/1475775673528.webp",
@@ -276,32 +251,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/67196", "priority": 1 },
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/157936", "priority": 2 }
-    ]
-  },
-  {
-    "id": "cnn-uk",
-    "name": "CNN (UK)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/25467", "priority": 1 }
-    ]
-  },
-  {
-    "id": "cnn-sd",
-    "name": "CNN SD (US)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
-    "category": "news",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/2052404365/41437862tow/8854", "priority": 1 }
+      { "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8", "priority": 1 }
     ]
   },
   {
@@ -549,6 +499,18 @@
     ]
   },
   {
+    "id": "fright-flix",
+    "name": "FrightFlix (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxWwnVXuz3IFQTG7SO8vD4PaTW3TumsFb5yBrGu-3XDOZzH6NOSx3eAE&s=10",
+    "category": "movies",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229", "priority": 1 }
+    ]
+  },
+  {
     "id": "geo-tv",
     "name": "UK| GEOTV",
     "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
@@ -654,6 +616,30 @@
     "status": "active",
     "streams": [
       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135265", "priority": 1 }
+    ]
+  },
+  {
+    "id": "kartoon-channel",
+    "name": "Kartoon Channel (1080p)",
+    "logo": "",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "kids-movie-club",
+    "name": "Kids Movie Club",
+    "logo": "",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8", "priority": 1 }
     ]
   },
   {
@@ -914,7 +900,43 @@
     "language": "en",
     "status": "active",
     "streams": [
+      { "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "nickelodeon-toons",
+    "name": "Nick Toons",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
       { "url": "http://bgdc.live:25461/meredithward/3368878/620", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ninja-kidz",
+    "name": "Ninja Kidz (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT88F7Gt-VUTRV1ITOs0IzQ0JWnrRfsudJeoYN0Wbk2Q&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "pluto-science",
+    "name": "PBS Kids (720p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSfI8hGnmKybvvFpcPU3ENZ0ntjPW71A9N6zsMdd8Og&s=10",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8", "priority": 1 }
     ]
   },
   {
@@ -932,7 +954,7 @@
   {
     "id": "pop",
     "name": "Pop (1080p)",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJg9fXE9Mxzj3ao6izIz4VUldnXNTnUdDs5Rf7vqJXiA&s=10",
     "category": "animation",
     "country": "UK",
     "language": "en",
@@ -1002,6 +1024,18 @@
     ]
   },
   {
+    "id": "real-madrid",
+    "name": "Real Madrid TV (English)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ez6zkPIvS_jwbYnADjh6rnLvWP5k9ABnx6xkKqHILG2yE_8EjijLuF8D&s=10",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "skysports-main",
     "name": "Sky Sports Main Event FHD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
@@ -1010,7 +1044,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26234.m3u8", "priority": 1 }
+      { "url": "", "priority": 1 }
 
     ]
   },
@@ -1042,7 +1076,7 @@
   },
   {
     "id": "skysports-news-fhd",
-    "name": "Sky Sports News (YOUTUBE)",
+    "name": "Sky News (YOUTUBE)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
     "category": "news",
     "country": "UK",
@@ -1052,14 +1086,14 @@
   },
   {
     "id": "skysports-news-fhd",
-    "name": "Sky Sports News (1080)",
+    "name": "Sky News (1080)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
     "category": "sports",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26231.ts", "priority": 1 }
+      { "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com", "priority": 1 }
     ]
   },
   {
@@ -1071,7 +1105,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26232.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1131,7 +1165,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26240.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1192,7 +1226,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26244.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1228,7 +1262,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26245.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1264,7 +1298,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26246.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1300,7 +1334,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://freeiptv.ottc.xyz:80/live/414280278824/290644330160/26247.ts", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1337,6 +1371,18 @@
     "status": "active",
     "streams": [
       { "url": "http://bgdc.live:25461/meredithward/3368878/10451", "priority": 1 }
+    ]
+  },
+  {
+    "id": "tom-jerry",
+    "name": "Tom And Jerry (720p)",
+    "logo": "https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/SeriesTitle-TomandJerry.png/revision/latest/scale-to-width-down/1200?cb=20260603032442",
+    "category": "kids",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8", "priority": 1 }
     ]
   },
   {
@@ -1618,7 +1664,7 @@
   {
     "id": "vevo-hip-hop",
     "name": "Vevo Hip-Hop & R&B (1080p)",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17rKTumA_EUI62VnaIF2XRemiY3cYd5jDJgKoxe0_Hj7l0KchfjCmH-o&s=10",
     "category": "music",
     "country": "UK",
     "language": "en",
@@ -1661,19 +1707,6 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "wwe-network",
-    "name": "WWE Network",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhheWFw9_f-rBRHU7md6eOlxEpjEa_vsa9vahsu2tSNA&s=10",
-    "category": "entertainment",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://31.43.191.125:8080/VIP01191699804893001/61699804893673/147079", "priority": 1 },
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/101680", "priority": 2 }
     ]
   },
   {
