@@ -149,6 +149,19 @@
     ]
   },
   {
+    "id": "brighton-tv",
+    "name": "Manchester United Vs Brighton",
+    "logo": "https://static.ppvservices.st/assets/thumb/5f7c45c6995eb3340cd59907aa59bb18-thumbnail.jpg",
+    "category": "Live Stream",
+    "country": "Uk",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://shiva.indianservers.st/secure/HZqkVYOhTyWKBeMzdbWHasXoPnQihIam/1789574400/1789601400/skyfootballuk/index.m3u8", "priority": 1 },
+      { "url": "https://futbolx.ryzn.pro/mun-en/index.m3u8", "priority": 2 }
+    ]
+  },
+  {
     "id": "capuchin-tv",
     "name": "Capuchin TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqe94wttqCRNm3FuosnQ9oEcSi1X10N_w5Yo6_E6A4bQ&s=10",
@@ -422,7 +435,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/38226", "priority": 1 }
+      { "url": "https://epidd.hundxvision.co.uk/main/secure/f002bc53de4a93281a8aee6e9b898ad300dfe94632f17ca033b95d97b5e56642/1789593352/espn-usa.m3u8", "priority": 1 }
     ]
   },
   {
