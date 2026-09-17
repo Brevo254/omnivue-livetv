@@ -13,7 +13,7 @@
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
-        "cycle_interval_ms": 8000,
+        "cycle_interval_ms": 5000,
         "urls": [
           "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
           "https://banner2.cleanpng.com/20180813/qlp/04580eda3f093a7b4b39d05ce7c2e465.webp",
@@ -55,15 +55,11 @@
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
-        "cycle_interval_ms": 6000,
+        "cycle_interval_ms": 5000,
         "urls": [
-          "https://i.pinimg.com/736x/0e/83/83/0e83836aa3943ada915dfb3c80ddb4e9.jpg",
-          "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
-          "https://i.pinimg.com/1200x/73/23/9e/73239ed4526ede413b5f1eaf6c4cf13b.jpg",
-          "https://i.pinimg.com/736x/4d/be/b1/4dbeb1f1ae4cb3ecfca381ed916909ef.jpg",
-          "https://i.pinimg.com/736x/31/42/36/3142362881d11a41143285c38ec49c37.jpg",
-          "https://i.pinimg.com/1200x/c1/a3/2e/c1a32e9f6a8b960473c7a31d75cb5b20.jpg",
-          "https://i.pinimg.com/736x/9c/5f/dc/9c5fdc2bfe7a79bb7cf288cc3a9a517f.jpg"
+          "https://damitv.st/img/football-hero-bg.png",
+          "https://damitv.st/img/hero-banner.jpeg?v=538",
+          "https://damitv.st/papi/img-proxy?url=https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fh979e51785919159.jpg%2Fpreview"
         ]
       }
     },

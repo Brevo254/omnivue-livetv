@@ -1,5 +1,17 @@
 [
   {
+    "id": "adventure-earth",
+    "name": "Adventure Earth (1080p)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmtD5EphTuYso-A-OhtCj7TBfYQLR9SbTGENT82c-VWDFbfxg69Vn4j_G&s=10",
+    "category": "documentary",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "anime-hidive",
     "name": "ANIME X HIDIVE",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVQcHXnsRiAL3op5VYCWlXQZgvkEsXHi4MLstQz9Sb2g&s=10",
@@ -45,6 +57,18 @@
     "status": "active",
     "streams": [
       { "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "akili-kids",
+    "name": "Akili Kids",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO0oROC6ZGdasiKdk0eSkqavv-Ebbj5Sviqc_kkUsU0Q&s=10",
+    "category": "kids",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8", "priority": 1 }
     ]
   },
   {
@@ -146,19 +170,6 @@
       { "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8", "priority": 1 },
       { "url": "https://www.bloomberg.com/media-manifest/streams/aus.m3u8", "priority": 2 },
       { "url": "https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8", "priority": 3 } 
-    ]
-  },
-  {
-    "id": "brighton-tv",
-    "name": "Manchester United Vs Brighton",
-    "logo": "https://static.ppvservices.st/assets/thumb/5f7c45c6995eb3340cd59907aa59bb18-thumbnail.jpg",
-    "category": "Live Stream",
-    "country": "Uk",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "https://shiva.indianservers.st/secure/HZqkVYOhTyWKBeMzdbWHasXoPnQihIam/1789574400/1789601400/skyfootballuk/index.m3u8", "priority": 1 },
-      { "url": "https://futbolx.ryzn.pro/mun-en/index.m3u8", "priority": 2 }
     ]
   },
   {
@@ -463,6 +474,18 @@
     ]
   },
   {
+    "id": "fail-army",
+    "name": "FailArmy (720p)",
+    "logo": "https://prod-s.cdn-cf.philo.com/storage/images/channel_logos/Fail-Army-Dark.svg?auto=webp&auto=webp&format=png&trimmed=false&ver=1&ver=1&width=200",
+    "category": "comedy",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "fear-factor",
     "name": "Fear Factor (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Feafactorlive.JPG?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
@@ -634,7 +657,7 @@
   {
     "id": "kartoon-channel",
     "name": "Kartoon Channel (1080p)",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLADfD4DH47WDacpY513kDOObawYRzS-iRQ9wIh6_3G7UimogfhmiFu6jB&s=10",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -646,7 +669,7 @@
   {
     "id": "kids-movie-club",
     "name": "Kids Movie Club",
-    "logo": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMKfUuFLg5KfjMYoXJAznaAXBinie-_F0SKLCBTt3PQ&s=10",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -688,6 +711,18 @@
     "language": "en",
     "status": "active",
     "youtubeId": "UCKVsdeoHExltrWMuK0hOWmg"
+  },
+  {
+    "id": "mu-tv",
+    "name": "MUTV (720p)",
+    "logo": "https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8", "priority": 1 }
+    ]
   },
   {
     "id": "max-anime",
@@ -1204,6 +1239,18 @@
     "status": "active",
     "streams": [
       { "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "talk-sport",
+    "name": "talkSPORT (1080p)",
+    "logo": "https://resources.premierleague.pulselive.com/photo-resources/2016/06/30/3b69d40d-4484-495c-b300-5989e4c02eae/talkSPORT.png?height=1080&width=1920",
+    "category": "sports",
+    "country": "UK",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8", "priority": 1 }
     ]
   },
   {
