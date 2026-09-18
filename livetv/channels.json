@@ -141,8 +141,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/617", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/1ujnn3b0hkqmmi08xuqo1/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "bloomberg_original",
@@ -193,8 +201,36 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/162nn8p18ljgc71v5dou4/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
+  },
+  {
+    "id": "cbs-sports",
+    "name": "CBS Sports Network",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJX-X9hVfPZWiO4zeZSjHBlxfD36ujjKgFLaW13aqeUFD0WcRiAi6hmGU&s=10",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+    {
+      "url": "https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "crunchyroll-tv",
@@ -312,8 +348,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10388", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/1ro2ows1kment903evirn/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "discovery-family",
@@ -324,8 +368,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/0kz5jxw0k0mi1w094aui9/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "discovery-science",
@@ -380,8 +432,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/12axgb204j4al111stg8p/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "disney-xd",
@@ -440,8 +500,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://epidd.hundxvision.co.uk/main/secure/f002bc53de4a93281a8aee6e9b898ad300dfe94632f17ca033b95d97b5e56642/1789593352/espn-usa.m3u8", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/0xq7oyj0dzt67w1immdya/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "espn-2-tv",
@@ -452,8 +520,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/38227", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/0fjvbl4193dbmc17croez/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "espn-news-tv",
@@ -464,8 +540,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/38229", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/1dsqkhk11imr810f285zy/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "fail-army",
@@ -882,8 +966,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10429", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/18r794415ngppi12qwiqy/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "natgeo-wild",
@@ -894,8 +986,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10428", "priority": 1 }
-   ]
+    {
+      "url": "https://cache0.wonvt.st/live/1o6ikrb0riasjs1x17l0s/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "nickelodeon-tv",
@@ -910,18 +1010,6 @@
     ]
   },
   {
-    "id": "nickelodeon-channel",
-    "name": "Nickelodeon Channel (UK)",
-    "logo": "https://i.scdn.co/image/ab6761610000e5eb48c209065ea0afd328c8d43e",
-    "category": "kids",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/621", "priority": 1 }
-    ]
-  },
-  {
     "id": "nickelodeon-jr",
     "name": "Nick Jr",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWzj1n3kJ1kT28xcRHrOAmwaHWCb8QxEg77OsTkszBw&s=10",
@@ -930,12 +1018,20 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/94599", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/1bex0aj18f1l6i1q5egjg/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
-    "id": "nickelodeon-toons",
-    "name": "Nick Toons",
+    "id": "nickelodeon-toons-pluto",
+    "name": "Nick Toons Pluto",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6oYp0RHA9AtdFVPDmT3BvjeL9XGnzqzFSLe2B4DPsQ&s=10",
     "category": "kids",
     "country": "US",
@@ -954,8 +1050,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/620", "priority": 1 }
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/06dd65k13kqj0919p35h0/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "ninja-kidz",
@@ -1714,6 +1818,26 @@
     "streams": [
       { "url": "https://d3ify425qsio2d.cloudfront.net/playlist.m3u8", "priority": 1 }
     ]
+  },
+  {
+    "id": "usa-network",
+    "name": "USA Network",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FSaAxfQgprCOvR59Xtcgv4z36R-9Kwb4YaNU03EQqA&s",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+    {
+      "url": "https://cache0.wonvt.st/live/0hzz30t0ddti3x1upnrpx/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "vevo-hip-hop",
