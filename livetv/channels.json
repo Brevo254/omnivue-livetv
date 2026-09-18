@@ -116,7 +116,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://mk-liveportal.com:5909/GoldSx/fXJem3k3UfCs/46668", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -193,7 +193,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/625", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -229,7 +229,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10381", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -251,7 +251,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/13987", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -263,7 +263,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/13992", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -324,7 +324,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10387", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -360,22 +360,16 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/622", "priority": 1 }
-    ]
-  },
-  {
-    "id": "disney-jr-1",
-    "name": "Disney Junior",
-    "logo": "https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg",
-    "category": "kids",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8", "priority": 1 },
-      { "url": "http://tvsen5.aynascope.net/disney/index.m3u8", "priority": 2 },
-      {"url": "http://tvsen7.aynascope.net/disney/index.m3u8", "priority": 3}
-    ]
+    {
+      "url": "https://cache0.wonvt.st/live/0i3hubv0wk47dd1l1o550/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+  ]
   },
   {
     "id": "disney-jr",
@@ -386,7 +380,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/623", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -410,7 +404,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/624", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
