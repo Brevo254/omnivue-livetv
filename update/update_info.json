@@ -1,15 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "changelog": [
-    "Improved Live TV stability, reducing freezing, stuttering, and excessive loading",
-    "Added a dedicated Help & Support section with guided assistance and contact information",
-    "Reduced APK size from approximately 40 MB to 22 MB",
-    "Introduced JSON-based categories for faster updates and easier maintenance",
-    "Improved TV interface loading speed, navigation, and overall usability",
-    "Fixed update-related crashes affecting some users",
-    "Continued maintenance and stabilization of Live TV channels and services"
+    "🎬 Movies — Faster & Better: A completely improved movie experience with faster sources, quicker loading, a modern interface, and more playback control",
+    "⚽ Sports — Now Online: Sports is now live with faster streaming sources, multiple sources to choose from, and more control over what you watch",
+    "📺 Live TV — Major Stability Upgrade: Significant improvements now provide more reliable streams across the majority of channels, with minimal loading and faster recovery from interruptions",
+    "✨ A New Omnivue: Redesigned the interface with a cleaner, more modern layout, improved navigation, and better responsiveness",
+    "📦 Smaller. More Powerful: Continued optimization has reduced the app size while adding more functionality",
+    "🚀 Overall Performance: Improved loading times, responsiveness, playback stability, and the overall viewing experience"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
-  "mandatory": false
+  "mandatory": true
 }
