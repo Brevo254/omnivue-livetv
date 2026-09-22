@@ -721,18 +721,6 @@
     ]
   },
   {
-    "id": "kbc-tv",
-    "name": "KBC TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHWLQ-k8gNqisZ4lsRBCQRbvKcIWpznHuPrS3dDAbujA&s=10",
-    "category": "news",
-    "country": "KE",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/135265", "priority": 1 }
-    ]
-  },
-  {
     "id": "kartoon-channel",
     "name": "Kartoon Channel (1080p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLADfD4DH47WDacpY513kDOObawYRzS-iRQ9wIh6_3G7UimogfhmiFu6jB&s=10",
@@ -839,55 +827,6 @@
     ]
   },
   {
-    "id": "mtv-base",
-    "name": "MTV Base",
-    "logo": "https://yt3.googleusercontent.com/b1GK8fkkcbXmbj1bFzEkm_v04e713t4UwZlP25eDJYugXfcYmvjX6B0Ur_7214vSoAZyfG0Qlw=s900-c-k-c0x00ffffff-no-rj",
-    "category": "lifestyle",
-    "country": "AF",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://shqiptv.online:8080/liv3cid90a49fe9a03af459/fXz6WrqDH/38522", "priority": 1 },
-      { "url": "http://smartvnow.xyz:25461/Vrindar8635/Wells8635/31443", "priority": 2 }
-    ]
-  },
-  {
-    "id": "mgm-channel",
-    "name": "MGM+",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxNoXYWZRroie9MHdXVXLdkTUpMyYlofryPPxMIdzdA&s=10",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/14165", "priority": 1 }
-    ]
-  },
-  {
-    "id": "mgm-hits",
-    "name": "MGM+ Hits",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/3840px-MGM%2B_Hits_2023.svg.png",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/14164", "priority": 1 }
-    ]
-  },
-  {
-    "id": "mgm-drive",
-    "name": "MGM+ Drive-In",
-    "logo": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/mgm-drive-in.png?q=50&fit=contain&w=500&h=500&dpr=1.5",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/14166", "priority": 1 }
-    ]
-  },
-  {
     "id": "mix-hollywood",
     "name": "Mix Hollywood (1080p)",
     "logo": "https://assets.myco.io/public/20251223/mycolive-MIX-TV-1766494046381.jpg",
@@ -897,18 +836,6 @@
     "status": "active",
     "streams": [
       { "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "movie-plex",
-    "name": "MOVIE PLEX",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwCRyToQyGWZBeyFoIqpHhzgTMi7ADrrMoC2IrSg9jyQ&s",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/13984", "priority": 1 }
     ]
   },
   {
@@ -930,7 +857,7 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "https://cdn1.ayitistream.com/NBATV/index.m3u8", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1229,26 +1156,6 @@
     ]
   },
   {
-  "id": "skysports-football",
-  "name": "Sky Sports Football HD",
-  "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-  "category": "sports",
-  "country": "UK",
-  "language": "en",
-  "status": "active",
-  "streams": [
-    {
-      "url": "https://juxrd.hundxvision.co.uk/main/secure/3e8072bbee1e89e4e52852f45c3bc4054f52ed01fe1f79cb55b9cc63641cde7c/1790114155/skysportsfootball-uk.m3u8",
-      "priority": 1,
-      "headers": {
-        "Origin": "https://exmxbxe.cfd",
-        "Referer": "https://exmxbxe.cfd/",
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-      }
-    }
-  ]
-  },
-  {
     "id": "sky-premierleague",
     "name": "Sky Sports Premier League HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
@@ -1259,6 +1166,32 @@
     "streams": [
       { "url": "", "priority": 1 }
     ]
+  },
+  {
+  "id": "sky-sports-test",
+  "name": "Sky Sports Premier League Test",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
+  "category": "sports",
+  "country": "UK",
+  "language": "en",
+  "status": "active",
+  "streams": [
+    {
+      "url": "https://ds164.bluetier.top/skysportspremierleague/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "skysportspremierleague",
+        "seed": ""
+      }
+    }
+  ]
   },
   {
     "id": "smithsonian-channel",
