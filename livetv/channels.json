@@ -1183,19 +1183,6 @@
   },
   {
     "id": "skysports-main",
-    "name": "Sky Sports Main Event FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-
-    ]
-  },
-  {
-    "id": "skysports-main",
     "name": "Sky Sports Main Event hd",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
     "category": "sports",
@@ -1208,20 +1195,7 @@
     ]
   },
   {
-    "id": "skysports-main",
-    "name": "Sky Sports Main Event SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-
-    ]
-  },
-  {
-    "id": "skysports-news-fhd",
+    "id": "skysports-news",
     "name": "Sky News (YOUTUBE)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
     "category": "news",
@@ -1231,27 +1205,15 @@
     "youtubeId": "UCoMdktPbSTixAyNGwb-UYkQ"
   },
   {
-    "id": "skysports-news-fhd",
+    "id": "sky-news",
     "name": "Sky News (1080)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
-    "category": "sports",
+    "category": "news",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
       { "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com", "priority": 1 }
-    ]
-  },
-  {
-    "id": "skysports-football",
-    "name": "Sky Sports Football FHD",
-    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -1267,44 +1229,37 @@
     ]
   },
   {
-    "id": "skysports-football",
-    "name": "Sky Sports Football SD",
-    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-premierleague",
-    "name": "Sky Sports Premier League SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
+  "id": "skysports-football",
+  "name": "Sky Sports Football HD",
+  "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
+  "category": "sports",
+  "country": "UK",
+  "language": "en",
+  "status": "active",
+  "streams": [
+    {
+      "url": "https://juxrd.hundxvision.co.uk/main/secure/3e8072bbee1e89e4e52852f45c3bc4054f52ed01fe1f79cb55b9cc63641cde7c/1790114155/skysportsfootball-uk.m3u8",
+      "priority": 1,
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Origin": "https://exmxbxe.cfd",
+        "Priority": "u=1, i",
+        "Referer": "https://exmxbxe.cfd/",
+        "Sec-Ch-Ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"Linux\"",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+        }
+    }
     ]
   },
   {
     "id": "sky-premierleague",
     "name": "Sky Sports Premier League HD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "sky-premierleague",
-    "name": "Sky Sports Premier League FHD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
     "category": "sports",
     "country": "UK",
