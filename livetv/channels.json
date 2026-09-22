@@ -1241,21 +1241,12 @@
       "url": "https://juxrd.hundxvision.co.uk/main/secure/3e8072bbee1e89e4e52852f45c3bc4054f52ed01fe1f79cb55b9cc63641cde7c/1790114155/skysportsfootball-uk.m3u8",
       "priority": 1,
       "headers": {
-        "Accept": "*/*",
-        "Accept-Language": "en-US,en;q=0.9",
         "Origin": "https://exmxbxe.cfd",
-        "Priority": "u=1, i",
         "Referer": "https://exmxbxe.cfd/",
-        "Sec-Ch-Ua": "\"Chromium\";v=\"154\", \"Google Chrome\";v=\"154\", \"Not A(Brand\";v=\"99\"",
-        "Sec-Ch-Ua-Mobile": "?0",
-        "Sec-Ch-Ua-Platform": "\"Linux\"",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "cross-site",
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-        }
+      }
     }
-    ]
+  ]
   },
   {
     "id": "sky-premierleague",
