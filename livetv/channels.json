@@ -1109,9 +1109,9 @@
     ]
   },
   {
-    "id": "skysports-main",
+    "id": "",
     "name": "Sky Sports Main Event hd",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
+    "logo": "",
     "category": "sports",
     "country": "UK",
     "language": "en",
@@ -1122,15 +1122,31 @@
     ]
   },
   {
-    "id": "skysports-news",
-    "name": "Sky News (YOUTUBE)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
-    "category": "news",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "youtubeId": "UCoMdktPbSTixAyNGwb-UYkQ"
-  },
+  "id": "skysports-main",
+  "name": "Sky Sports Main Event hd",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
+  "category": "sports",
+  "country": "UK",
+  "language": "en",
+  "status": "active",
+  "streams": [
+    {
+      "url": "https://ds164.bluetier.top/skysportsmainevent/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "skysportsmainevent",
+        "seed": "c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3OTAxOTE3MjM=.9db26d5bf0e1a8b50c710fa0d933b877c5ea274fc0bd6ba336899ee22b0e880a"
+      }
+    }
+  ]
+  },  
   {
     "id": "sky-news",
     "name": "Sky News (1080)",
@@ -1143,7 +1159,32 @@
       { "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com", "priority": 1 }
     ]
   },
-  
+  {
+  "id": "skysports-news",
+  "name": "Sky Sports News",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
+  "category": "sports",
+  "country": "UK",
+  "language": "en",
+  "status": "active",
+  "streams": [
+    {
+      "url": "https://ds164.bluetier.top/skysportsnews/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "skysportsnews",
+        "seed": "c2t5c3BvcnRzbmV3c3xub19jaGVja19pcHwxNzkwMTkxMjQ2.cbcd8ac3cf9d7b0403c8edd370a5c2cfbe9d4666465dd1f3376d84cc3c10b681"
+      }
+    }
+  ]
+  },  
   {
   "id": "skysports-football",
   "name": "Sky Sports Football",
