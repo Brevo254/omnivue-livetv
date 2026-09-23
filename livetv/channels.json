@@ -1164,8 +1164,8 @@
       "token": {
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
-        "channel": "skysportspremierleague",
-        "seed": "U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzkwMTIyNTQ5.69d78740d0ceb78e7e91e3c5a6bb6d3f9e6ca46ee8b8d3d18e21dd34e67598dd"
+        "channel": "SkySportsFootballUK",
+        "seed": "U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzkwMTkwNzcx.bd48a73517c05b5bcd26e0c9aff048bcd87085e951d4c9b4f1cec32819fb319f"
       }
     }
   ]
