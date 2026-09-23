@@ -1143,33 +1143,36 @@
       { "url": "https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com", "priority": 1 }
     ]
   },
+  
   {
-    "id": "skysports-football",
-    "name": "Sky Sports Football HD",
-    "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
+  "id": "skysports-football",
+  "name": "Sky Sports Football",
+  "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
+  "category": "sports",
+  "country": "UK",
+  "language": "en",
+  "status": "active",
+  "streams": [
+    {
+      "url": "https://ds164.bluetier.top/SkySportsFootballUK/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "skysportspremierleague",
+        "seed": "U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzkwMTIyNTQ5.69d78740d0ceb78e7e91e3c5a6bb6d3f9e6ca46ee8b8d3d18e21dd34e67598dd"
+      }
+    }
+  ]
   },
   {
-    "id": "sky-premierleague",
-    "name": "Sky Sports Premier League HD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-  "id": "sky-sports-test",
-  "name": "Sky Sports Premier League Test",
+  "id": "sky-sports-premier",
+  "name": "Sky Sports Premier League",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTBUuJNcH3xBDQl4KRGzpsf_ygQYdQAkT2SG0ztOaQg&s=10",
   "category": "sports",
   "country": "UK",
@@ -1256,44 +1259,8 @@
   },
   {
     "id": "tnt-sport",
-    "name": "TNT Sport 1 FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
     "name": "TNT Sport 1 HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 1 SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 2 FHD",
-    "logo": "https://tv-guide-listings.co.uk/logosNew/tnt-sports-2.png",
     "category": "sports",
     "country": "UK",
     "language": "en",
@@ -1316,56 +1283,8 @@
   },
   {
     "id": "tnt-sport",
-    "name": "TNT Sport 2 SD",
-    "logo": "https://tv-guide-listings.co.uk/logosNew/tnt-sports-2.png",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 3 FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pRMe2THC0yp8AA_smrrmzI-1-geeDpVoW1mftwhqCf0ZxdUPfS_yICbV&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
     "name": "TNT Sport 3 HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pRMe2THC0yp8AA_smrrmzI-1-geeDpVoW1mftwhqCf0ZxdUPfS_yICbV&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 3 SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pRMe2THC0yp8AA_smrrmzI-1-geeDpVoW1mftwhqCf0ZxdUPfS_yICbV&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 4 FHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUtNFQ749L3thQ8iHP2eZ8Z_HUuKD-ekW9N--KFwzYIGIhDKcCgIQojc&s=10",
     "category": "sports",
     "country": "UK",
     "language": "en",
@@ -1384,30 +1303,6 @@
     "status": "active",
     "streams": [
       { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-sport",
-    "name": "TNT Sport 4 SD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUtNFQ749L3thQ8iHP2eZ8Z_HUuKD-ekW9N--KFwzYIGIhDKcCgIQojc&s=10",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "tnt-tv",
-    "name": "TNT",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFfBDmtkk79xbvUJLEiFjB94EoxiaJg2wmVHpmtyJDQ&s=10",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10451", "priority": 1 }
     ]
   },
   {
