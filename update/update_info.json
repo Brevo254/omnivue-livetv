@@ -1,13 +1,12 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "changelog": [
-    "🎬 Movies — Faster & Better: A completely improved movie experience with faster sources, quicker loading, a modern interface, and more playback control",
-    "⚽ Sports — Now Online: Sports is now live with faster streaming sources, multiple sources to choose from, and more control over what you watch",
-    "📺 Live TV — Major Stability Upgrade: Significant improvements now provide more reliable streams across the majority of channels, with minimal loading and faster recovery from interruptions",
-    "✨ A New Omnivue: Redesigned the interface with a cleaner, more modern layout, improved navigation, and better responsiveness",
-    "📦 Smaller. More Powerful: Continued optimization has reduced the app size while adding more functionality",
-    "🚀 Overall Performance: Improved loading times, responsiveness, playback stability, and the overall viewing experience"
+    "🧸 Kids Hub — Now Available: A dedicated mini movie hub built specifically for kids with full search, discovery, and smooth streaming",
+    "⚽ Live Sports Upgrade: High-demand sports channels added including Sky Sports News, Main Event, Premier League, and Football with stutter-free streaming",
+    "📺 Modern Live TV Layout: Fully redesigned TV interface with structured categories (Local, Entertainment, Sports) for seamless browsing",
+    "📅 TV EPG (Program Guide): Keep track of what's currently playing and check live schedules so you never miss your favorite broadcasts",
+    "🕒 Live TV Watch History: Automatically saves your recently watched channels for fast, one-click access without scrolling"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false

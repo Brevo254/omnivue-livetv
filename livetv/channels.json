@@ -1109,19 +1109,6 @@
     ]
   },
   {
-    "id": "",
-    "name": "Sky Sports Main Event hd",
-    "logo": "",
-    "category": "sports",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-
-    ]
-  },
-  {
   "id": "skysports-main",
   "name": "Sky Sports Main Event hd",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
