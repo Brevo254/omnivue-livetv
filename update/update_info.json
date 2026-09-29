@@ -1,12 +1,17 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "changelog": [
-    "🧸 Kids Hub — Now Available: A dedicated mini movie hub built specifically for kids with full search, discovery, and smooth streaming",
-    "⚽ Live Sports Upgrade: High-demand sports channels added including Sky Sports News, Main Event, Premier League, and Football with stutter-free streaming",
-    "📺 Modern Live TV Layout: Fully redesigned TV interface with structured categories (Local, Entertainment, Sports) for seamless browsing",
-    "📅 TV EPG (Program Guide): Keep track of what's currently playing and check live schedules so you never miss your favorite broadcasts",
-    "🕒 Live TV Watch History: Automatically saves your recently watched channels for fast, one-click access without scrolling"
+    "⚠️ TEST UPDATE — PLEASE DO NOT INSTALL YET ⚠️",
+    "--------------------------------------------------",
+    "This is an internal test release for experimental feature verification.",
+    "If you are seeing this prompt, please tap 'Later' or dismiss this message.",
+    "--------------------------------------------------",
+    "🧸 Kids Hub — Dedicated mini movie hub with full search and streaming",
+    "⚽ Live Sports Upgrade: High-demand sports channels added",
+    "📺 Modern Live TV Layout: Redesigned interface with structured categories",
+    "📅 TV EPG: Live schedules and program tracking",
+    "🕒 Live TV Watch History: Quick access to recently watched channels"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false

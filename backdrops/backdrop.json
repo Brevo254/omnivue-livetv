@@ -59,7 +59,10 @@
         "urls": [
           "https://damitv.st/img/football-hero-bg.png",
           "https://damitv.st/img/hero-banner.jpeg?v=538",
-          "https://damitv.st/papi/img-proxy?url=https%3A%2F%2Fr2.thesportsdb.com%2Fimages%2Fmedia%2Fevent%2Fthumb%2Fh979e51785919159.jpg%2Fpreview"
+          "https://r2.thesportsdb.com/images/media/league/banner/xe1es51638921786.jpg",
+          "https://damitv.st/img/premier-league.jpeg",
+          "https://damitv.st/img/laliga.jpeg",
+          "https://damitv.st/img/fight-arena-bg.webp"
         ]
       }
     },
