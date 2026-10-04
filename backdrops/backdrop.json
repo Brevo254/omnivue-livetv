@@ -15,11 +15,10 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
         "urls": [
-          "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
-          "https://banner2.cleanpng.com/20180813/qlp/04580eda3f093a7b4b39d05ce7c2e465.webp",
-          "https://banner2.cleanpng.com/20180720/yyb/6155a944070ad5e235470df1f5ea651e.webp",
+          "https://www.dstv.com/media/a0ifrcki/1920x1080_new-dstv-packs_sports.png?width=300",
           "https://i.pinimg.com/1200x/7e/09/9c/7e099cea60e5c36e812c43d2f1efe402.jpg",
-          "https://i.pinimg.com/736x/c8/ab/6c/c8ab6cce5ea529bb73717786316f3ec7.jpg"
+          "https://www.dstv.com/media/g0vdyadj/dstv-kenya-march-26_1920x1080.jpg?width=1200",
+          "https://cdn.dstv.com/dstvcms/2023/01/22/IS20_STK00921_PP_med.jpg"
 
         ]
       }
@@ -57,10 +56,11 @@
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
         "urls": [
+          "https://www.dstv.com/media/41ihomtr/sporty-tv-1920-1080.png?width=1200",
           "https://damitv.st/img/football-hero-bg.png",
-          "https://damitv.st/img/hero-banner.jpeg?v=538",
+          "https://www.gotvafrica.com/media/dconmyzf/supersport-500-280.jpg",
           "https://r2.thesportsdb.com/images/media/league/banner/xe1es51638921786.jpg",
-          "https://damitv.st/img/premier-league.jpeg",
+          "https://www.gotvafrica.com/media/525haxft/laliga-article-500-280.jpg",
           "https://damitv.st/img/laliga.jpeg",
           "https://damitv.st/img/fight-arena-bg.webp"
         ]
