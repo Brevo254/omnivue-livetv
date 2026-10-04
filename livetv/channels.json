@@ -265,18 +265,28 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      {
+      "url": "https://cache0.wonvt.st/live/1grshxx08mzjsl0pefrw9/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
     ]
   },
   {
     "id": "citizen-tv",
-    "name": "Citizen TV Live (YOUTUBE)",
+    "name": "Citizen TV Live",
     "logo": "https://kenyalivetv.co.ke/uploads/tv/1_icon_citizentv.webp",
     "category": "news",
     "country": "KE",
     "language": "en",
     "status": "active",
-    "youtubeId": "UChBQgieUidXV1CmDxSdRm3g"
+    "streams": [
+      { "url": "https://live-onesignal.royalmedia.co.ke/live/jgB35emfPsiW5aFjKJjbjg.m3u8", "priority": 1 }
+    ]
   },
   {
     "id": "cinemax-tv",
@@ -287,19 +297,15 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
-    "id": "cinemax-action",
-    "name": "Cinemax Action",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
+      {
+      "url": "https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
     ]
   },
   {
@@ -378,18 +384,6 @@
       }
     }
   ]
-  },
-  {
-    "id": "discovery-science",
-    "name": "Discovery Science",
-    "logo": "https://asteroidday-uploads.s3.eu-central-1.amazonaws.com/wp-content/uploads/2018/12/06032103/sciencechannel-hor.png",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/10389", "priority": 1 }
-    ]
   },
   {
     "id": "discovering-china",
@@ -1034,6 +1028,30 @@
     "status": "active",
     "streams": [
       { "url": "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ppp",
+    "name": "PPP TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4wN7DhzvM2Rxi1HY2y4tR2EfgvD5CcfkrlYFThle-A&s=10",
+    "category": "music",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://africaxp2.b-cdn.net/PPPTV/index.m3u8", "priority": 1 }
+    ]
+  },
+  {
+    "id": "ramogi",
+    "name": "Ramogi TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nFU0mHU864gkwJrwAVmoP_rJq7QnEUvfvnJRRmHb-g&s=10",
+    "category": "entertainment",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://live-onesignal.royalmedia.co.ke/live/-gEXRHc6nSl5aFegh5MrOg.m3u8", "priority": 1 }
     ]
   },
   {
