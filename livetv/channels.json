@@ -474,6 +474,18 @@
     ]
   },
   {
+    "id": "ebrur-tv",
+    "name": "Ebru TV",
+    "logo": "https://yt3.googleusercontent.com/XOhjDFJ285RqdVZQUXziAN9g8fS7FbZ9kWFqXGqFYvrBKHwwXYAswfFEu_-yT0Oe6eQ1JMlLWg=s900-c-k-c0x00ffffff-no-rj",
+    "category": "entertainment",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://euc12.playlist.ttvnw.net/v1/playlist/CpkHrPVLChhF7mvIsGn1IEWM9JRg41ST9AoMuFka-V3Ih2wzy9VYNRoicNG3NfR7j8uUvwWLDTykl_YfGQKJx2dg4FIBKLWxgciU0B_-w1A_hpnifGuepAE6ztNE9go-nfkEuWdmdjtGr69bpx1qbuyZDhgqWsOPizVzX7WEra_keCIMK2tyE5aYRNqo_HzKayEh-ZpGfYF46XVr-HrffnfLBBssZ8W1XondOLBt1jn7BxBhLF9ZODZxLC8IKAAM3GIR7-j-8y4tcxfrBNXB2-2c4IVMAsktKNEqV3TdwjJmtbaH45sea7rqCcSgSu2RHebb4-yrX_0hHhrBdFENkVoCpc7xkra5uFR4szpWKKd3nwGNogzh7jW-POwJdlHagjdLoiLz0OKIZE14952BKvJwfAnaNJ0tGMCyF2YLnHewfleSbX33_iEjnyclzBA4Ypea79T6MtjoWrz_7IUTzhj-UIsimuTCPt9w4gtXJAm4ic4AlM7Jd3_t1J6Dw30XabSmlTOZ2v0J9tUkHxmJGBmkZeEKhKp6OXDXYKaZbqbuLX-_oaSfS8GImyoAqUMgYY5hB88rGfCDUYpnEKdIcCAIKogXO8OVu6SZk9Zt6yYMKMTHmoh9F-Zs65zI15IqOBZw6CYno64X3_VZYIyt9q3UvW8ljvJyDBZwjJONe7FRIvI_7oGNWP50KSJj1P6UqQ0Ii2Xjg1pxpQGWISqnSXA_C3UixbW5lwvORf4crBAI5aiVcuqWiH1_p4KapJ-FzpVA-ZC-kKobcXm0aOuGiDao2ceJ3p6BwUl_vYiMsR0BRpfYIHuyXItDmKMe7D_YBxXHt67WzpoZVj3Soge9qGPOnjpJhBEwe6C3H81vkcUMiys-0c3VHgcWPBkLsGShwHB33hZAAixzUitzGF5T35wVKT-7ZaqFpItCD-5ZSx0ypjukQnyKg71mfR9MLIN3x3yHelUbJiRVERN1iNH63sm2gmwDMHbh3vLOUMTKB1y5w7x3zyJX22S7F1Rif9bATkwy5F0CItSZJQ70bAoQiFoO--UTSlQNmPyNeNN6tPyToOsEz1kSKDEEa0ShZSyNP3q_Exiru4K_ttUoFXVPaKIwZQ7-HcfCiaNPXH1l8ZEGUqePt-9JSnqvAiyqBme-KUTo7t77Vel39F8ltSmGsb15Ac-s07ZeluL7lqM4Rs7AHraphkDb10l1VQ3j4HLmG05Z5CUDfKKps-lBGgxBCx3GcziYkIR8OW8gASoJZXUtd2VzdC0yMKEQ.m3u8", "priority": 1 }
+    ]
+  },
+  {
     "id": "enterpreneur-tv",
     "name": "Enterprenuer TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX8AOA1Gx5E_r-l7JkuPByaH58krMpMQCyt_jp9Rvr8C_qo3DpOkTxnrs&s=10",
@@ -1613,6 +1625,18 @@
     "status": "active",
     "streams": [
       { "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8", "priority": 1 }
+    ]
+  },
+   {
+    "id": "tv47",
+    "name": "TV47",
+    "logo": "https://yt3.googleusercontent.com/f-VHwTo8tlpmtZMJ4DOciWdcq9skkl2fDzn607b8e90tdGv4pupJh5YzXSD94n8czr6i9Mhs=s900-c-k-c0x00ffffff-no-rj",
+    "category": "entertainment",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://wowstrm.xyz/hls/sk_D4lAF8E0YpHmsB3PMQ4wo65UQ42k1P9y/index.m3u8", "priority": 1 }
     ]
   },
   {
