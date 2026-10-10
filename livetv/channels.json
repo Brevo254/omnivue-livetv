@@ -114,7 +114,7 @@
     "category": "lifestyle",
     "country": "US",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]
@@ -153,7 +153,7 @@
   ]
   },
   {
-    "id": "bloomberg_original",
+    "id": "bloomberg-original",
     "name": "Bloomberg Original",
     "logo": "https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000522X752646.jpg",
     "category": "business",
@@ -167,7 +167,7 @@
     ]
   },
   {
-    "id": "bloomberg_tv",
+    "id": "bloomberg-tv",
     "name": "Bloomberg TV",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSuYFnyupJFiJF_54HW9kPBPtpGaOuE7efJGUWUmTBkUR_LVeSKf_x8dU&s=10",
     "category": "business",
@@ -234,7 +234,7 @@
   },
   {
     "id": "crunchyroll-tv",
-    "name": " CRUNCHYROLL",
+    "name": "CRUNCHYROLL",
     "logo": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000042000/e965921d2670a197008fe9403e50aaa0b150eabcaab4ce8b0c860d75ba4d1ee6",
     "category": "animation",
     "country": "US",
@@ -450,18 +450,6 @@
     ]
   },
   {
-    "id": "disney-xd",
-    "name": "DISNEY XD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHVCDEiutXnUyfaRYnmAkPW6uxqg6q9LmpZ6zjzCozw&s=10",
-    "category": "kids",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "", "priority": 1 }
-    ]
-  },
-  {
     "id": "dw-english",
     "name": "DW English (1080p)",
     "logo": "https://play-lh.googleusercontent.com/f0ik_xfWWkMGzpql272IeF5LGc2lr5TCR_x1vJK_5dg_3UD6qGrNJDndRqaLVkmCWaXj-qlkrNYT8-l1GgHYlQ",
@@ -644,7 +632,7 @@
   },
   {
     "id": "god-channel",
-    "name": "UK| GOD CHANNEL ",
+    "name": "UK| GOD CHANNEL",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP0QefV6KMCOTcYk7Qammm2x8EsCNNtzgGJik8uO9Xw&s",
     "category": "religion",
     "country": "UK",
@@ -764,18 +752,6 @@
   },
   {
     "id": "ktn-news-ke",
-    "name": "KTN News Kenya",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "category": "news",
-    "country": "KE",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/26ad816e-bb72-9988-625c-5e6243e4ded1/master.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "ktn-news-ke1",
     "name": "KTN News Kenya (YOUTUBE)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/ec/KTN.2014-present_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "category": "news",
@@ -846,7 +822,7 @@
   },
   {
     "id": "ntv-news-ke",
-    "name": "NTV Kenya",
+    "name": "NTV Kenya (YOUTUBE)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq8EGiyd5GxHSZuSw2AJ8flLcv-642XVWwPjZsSOMGfPtjRrl-HGOY4K5&s=10",
     "category": "news",
     "country": "KE",
@@ -861,7 +837,7 @@
     "category": "sports",
     "country": "US",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]
@@ -875,23 +851,12 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://212.5.144.156:8080/natgeo/index.m3u8", "priority": 1 }
+      { "url": "http://212.5.144.156:8080/natgeo/index.m3u8", "priority": 1 },
+      { "url": "http://198.58.104.90:8989/natgeo/index.m3u8", "priority": 2 }
     ]
   },
   {
-    "id": "national-geographic",
-    "name": "National Geographic HD East (720p)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGewv76A2kADyG-r_PiMi_CmJbluenBkqtap8sZhX5Vg&s=10",
-    "category": "documentary",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://198.58.104.90:8989/natgeo/index.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "national-geographic",
+    "id": "national-geographic-hd",
     "name": "NATIONAL GEOGRAPHIC",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGewv76A2kADyG-r_PiMi_CmJbluenBkqtap8sZhX5Vg&s=10",
     "category": "documentary",
@@ -1007,7 +972,7 @@
     ]
   },
   {
-    "id": "pluto-science",
+    "id": "pbs-kids",
     "name": "PBS Kids (720p)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSfI8hGnmKybvvFpcPU3ENZ0ntjPW71A9N6zsMdd8Og&s=10",
     "category": "kids",
@@ -1316,49 +1281,49 @@
     ]
   },
   {
-    "id": "tnt-sport",
+    "id": "tnt-sport-1",
     "name": "TNT Sport 1 HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrVUz5ohrngviphI66unwSv125CTDCFvOz0teQiKYjQ&s=10",
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]
   },
   {
-    "id": "tnt-sport",
+    "id": "tnt-sport-2",
     "name": "TNT Sport 2 HD",
     "logo": "https://tv-guide-listings.co.uk/logosNew/tnt-sports-2.png",
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]
   },
   {
-    "id": "tnt-sport",
+    "id": "tnt-sport-3",
     "name": "TNT Sport 3 HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pRMe2THC0yp8AA_smrrmzI-1-geeDpVoW1mftwhqCf0ZxdUPfS_yICbV&s=10",
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]
   },
   {
-    "id": "tnt-sport",
+    "id": "tnt-sport-4",
     "name": "TNT Sport 4 HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUtNFQ749L3thQ8iHP2eZ8Z_HUuKD-ekW9N--KFwzYIGIhDKcCgIQojc&s=10",
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
       { "url": "", "priority": 1 }
     ]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "citizen-tv",
+    "name": "Citizen TV Live",
+    "programs": [
+      { "start": "2026-10-10T14:00:00+03:00", "end": "2026-10-10T15:59:00+03:00", "title": "Roga Roga" },
+      { "start": "2026-10-10T16:00:00+03:00", "end": "2026-10-10T18:59:00+03:00", "title": "Ayana" },
+      { "start": "2026-10-10T19:00:00+03:00", "end": "2026-10-10T19:29:00+03:00", "title": "Nipashe Wikendi" },
+      { "start": "2026-10-10T19:30:00+03:00", "end": "2026-10-10T19:59:00+03:00", "title": "Bi. Mswafari" },
+      { "start": "2026-10-10T20:00:00+03:00", "end": "2026-10-10T20:59:00+03:00", "title": "Regalo De Amor" }
+    ]
+  },
+  {
+    "id": "usa-network",
+    "name": "USA Network",
+    "programs":[
+      { "start": 1791631800, "end": 1791639000, "title": "Live: Premier League Soccer" },
+      { "start": 1791639000, "end": 1791640800, "title": "Live: Premier League Mornings" },
+      { "start": 1791640800, "end": 1791648000, "title": "Live: Premier League Soccer" },
+      { "start": 1791648000, "end": 1791649800, "title": "Live: Premier League Mornings" },
+      { "start": 1791649800, "end": 1791657000, "title": "Live: Bundesliga Soccer" }
+    ]
+  }
+]
