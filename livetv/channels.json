@@ -233,6 +233,18 @@
   ]
   },
   {
+    "id": "chelsea-vs-bournemouth",
+    "name": "Chelsea vs Bournemouth ",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZjq4CCNMETqofM_wwP9loJ4e308CaqTfYj-O4UF0ZIePYQhg_gKeFUnO&s=10",
+    "category": "live sports",
+    "country": "KE",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://a85.azplay49.me/hls/streama269809/index.m3u8?cst=ae2439fb6bba1a0fd1b4d9945543d101", "priority": 1 }
+    ]
+  },
+  {
     "id": "crunchyroll-tv",
     "name": "CRUNCHYROLL",
     "logo": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000042000/e965921d2670a197008fe9403e50aaa0b150eabcaab4ce8b0c860d75ba4d1ee6",
