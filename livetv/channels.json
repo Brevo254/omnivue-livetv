@@ -1104,7 +1104,7 @@
     ]
   },
   {
-  "id": "skysports-main",
+  "id": "skysports-main-event",
   "name": "Sky Sports Main Event hd",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO_j4yxdiQ62tFhfcRLn0LQPKkLoubKgmZ0IlSbOBIgz5GvEVf_Z93rE&s=10",
   "category": "sports",
@@ -1113,7 +1113,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds168.bluetier.top/skysportsmainevent/index.m3u8",
+      "url": "https://ds169.bluetier.top/skysportsmainevent/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1151,7 +1151,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds168.bluetier.top/skysportsnews/index.m3u8",
+      "url": "https://ds169.bluetier.top/skysportsnews/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1287,9 +1287,9 @@
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "inactive",
+    "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "https://sportsbite.org/247/tnt1uk", "priority": 1 }
     ]
   },
   {
