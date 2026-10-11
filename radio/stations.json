@@ -1,0 +1,13 @@
+[
+  {
+    "id": "radio-citizen",
+    "name": "Radio Citizen",
+    "logo": "https://kenyalivetv.co.ke/uploads/radio/1_icon_citizenfm.webp?w=90&q=100",
+    "frequency": "FM 106.7",
+    "status": "active",
+    "streams": [
+      { "url": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/citizen"
+  }
+]

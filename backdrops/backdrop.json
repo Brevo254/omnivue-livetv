@@ -23,6 +23,22 @@
       }
     },
     {
+      "id": "radio",
+      "title": "Radio",
+      "tagline": "Live Kenyan radio, music & talk",
+      "stat_text": "12 STATIONS • LIVE",
+      "accent_color": "#FF9800",
+      "icon_url": "https://logo.com/image-cdn/images/kts928pd/production/83e942d135a7fb19e062411337ce30217c292c60-731x731.jpg?w=1080&q=72&fm=webp",
+      "is_active": true,
+      "is_beta": false,
+      "backdrop": {
+        "display_mode": "FULL_SCREEN",
+        "cycle_interval_ms": 5000,
+        "urls": [
+        ]
+      }
+    },
+    {
       "id": "kids",
       "title": "Kids",
       "tagline": "Family-friendly movies, cartoons & animated adventures",
