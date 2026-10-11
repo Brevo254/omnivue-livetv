@@ -9,5 +9,27 @@
       { "url": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen", "priority": 1 }
     ],
     "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/citizen"
+  },
+  {
+    "id": "hot-96",
+    "name": "Hot 96",
+    "logo": "https://kenyalivetv.co.ke/uploads/radio/2_icon_hot96.webp?w=90&q=100",
+    "frequency": "FM 96.0",
+    "status": "active",
+    "streams": [
+      { "url": "https://hot96-atunwadigital.streamguys1.com/hot96", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/hot96"
+  },
+  {
+    "id": "flamingo-radio",
+    "name": "Flamingo Radio",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Q5JvSdZPFSiQ7gQbI2hERem9G9O1UhU9EUKdl3h8jPtbTLb0XkxEnps&s=10",
+    "frequency": "Stream Only",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/215bpympks8uv", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/flamingo"
   }
 ]
