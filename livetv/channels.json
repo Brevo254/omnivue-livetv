@@ -1142,7 +1142,7 @@
     ]
   },
   {
-  "id": "skysports-news",
+  "id": "sky-sports-news",
   "name": "Sky Sports News",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnO2eHOR7tNEfq-dfFSXxPzI-iFcBAqkAgXEmdvXJEGVw83ert8v2BQMhf&s=10",
   "category": "sports",
@@ -1168,7 +1168,7 @@
   ]
   },  
   {
-  "id": "skysports-football",
+  "id": "sky-sports-football",
   "name": "Sky Sports Football",
   "logo": "https://cdn.skymedia.ie/wp-content/uploads/sites/4/2020/11/Sky-Sports-Football-2020-logo-250.png",
   "category": "sports",
@@ -1287,9 +1287,9 @@
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "active",
+    "status": "inactive",
     "streams": [
-      { "url": "https://sportsbite.org/247/tnt1uk", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
