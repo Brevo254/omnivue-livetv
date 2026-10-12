@@ -1287,9 +1287,23 @@
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "inactive",
+    "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      {
+      "url": "https://ds169.bluetier.top/TNT1UK/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "TNT1UK",
+        "seed": "VE5UMVVLfG5vX2NoZWNrX2lwfDE3OTE4NDIzNzU=.f5d95aa369f3b917d4169f16e6d3867441e63b213ab23663d27a308a1c685a51"
+      }
+    }
     ]
   },
   {
