@@ -31,5 +31,82 @@
       { "url": "https://stream.zeno.fm/215bpympks8uv", "priority": 1 }
     ],
     "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/flamingo"
+  },
+  {
+    "id": "ghetto-radio",
+    "name": "Ghetto Radio (Nairobi)",
+    "logo": "https://static2.mytuner.mobi/media/tvos_radios/338/ghetto-radio-895.2c6aa672.png",
+    "frequency": "FM 89.5",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/eghcv7h647zuv.aac", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/ghetto"
+  },
+  {
+    "id": "h-b-r",
+    "name": "Home Boyz Radio (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-_mqZiT8hwn4K_p8dMgpi7dAOzOhVHCKrEV8nSCDZmx_QhgENJGw-ME&s=10",
+    "frequency": "FM 103.5",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/homeboyzradio", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/hbr"
+  },
+  {
+    "id": "classic-105",
+    "name": "Classic 105",
+    "logo": "https://podcast.eu-central-1.linodeobjects.com/logos/2026/03/station_classic.webp",
+    "frequency": "FM 105.2",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/classic105", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/classic-105"
+  },
+  {
+    "id": "kiss-100",
+    "name": "Kiss 100 FM",
+    "logo": "https://cdn.radoxo.com/images/kenya/kiss-100.webp?v=1777093201",
+    "frequency": "FM 100.3",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/kiss100fm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/kiss"
+  },
+  {
+    "id": "radio-jambo",
+    "name": "Radio Jambo",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwBI4BOpQHHpfFVifQmGFqAsOf7FItpOq6bI8NVYWDfSe3nRQejr1SF9c&s=10",
+    "frequency": "Stream",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/radiojambo", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/jambo"
+  },
+  {
+    "id": "capital-fm",
+    "name": "Capital FM (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfqzzOY_f_R1axz2A2aneu1C720wXKnY0TG-ELbN2ZNGJoTi_uVlXPFc1&s=10",
+    "frequency": "FM 98.4",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/capitalfm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/capital"
+  },
+  {
+    "id": "",
+    "name": "",
+    "logo": "",
+    "frequency": "",
+    "status": "inactive",
+    "streams": [
+      { "url": "", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
   }
 ]
