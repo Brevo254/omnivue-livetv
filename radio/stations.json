@@ -99,6 +99,193 @@
     "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/capital"
   },
   {
+    "id": "hope-fm",
+    "name": "Hope FM (Nairobi)",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_llemyubnfdQmIsUKr0-DT43kjwqtqrEn9pCW9-FU326A=s900-c-k-c0x00ffffff-no-rj",
+    "frequency": "FM 93.3",
+    "status": "active",
+    "streams": [
+      { "url": "https://a5.asurahosting.com:7530/radio.mp3", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/hope"
+  },
+  {
+    "id": "inooro",
+    "name": "Inooro FM (Nairobi)",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/inoorofm.jpg",
+    "frequency": "FM 88.9",
+    "status": "active",
+    "streams": [
+      { "url": "https://inoorofm-atunwadigital.streamguys1.com/inoorofm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/inooro"
+  },
+  {
+    "id": "radio-waumini",
+    "name": "Radio Waumini (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpS60rusbp9n3gb3hayUSXurr55iWTx0q7ktB8QXwv1Klmqs_G7anD1Iv&s=10",
+    "frequency": "FM 88.3",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/gvk894g072quv", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
+    "id": "kass-fm",
+    "name": "Kass FM (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh89qrafqed7sAjH7669gi3PfShySqSh0DpMd1eKtKSYJM1DwWp87JaL_&s=10",
+    "frequency": "FM 91.0",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/mr4w3nu1qzzuv", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/kass"
+  },
+  {
+    "id": "ramogi-fm",
+    "name": "Ramogi FM (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfh5dExvYOJBOS82hZGD_zh4CseaZPQLwxTZKCg342oQ&s=10",
+    "frequency": "FM 101.7",
+    "status": "active",
+    "streams": [
+      { "url": "https://ramogifm-atunwadigital.streamguys1.com/ramogifm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/ramogi"
+  },
+  {
+    "id": "family-radio",
+    "name": "Family Radio 316 (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIKBuLivYGsNRi61rT3h3D9QEKRlbkTpaywO0T9tdWQ&s=10",
+    "frequency": "103.9 FM",
+    "status": "inactive",
+    "streams": [
+      { "url": "https://uksoutha.streaming.broadcast.radio/familyradio", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/family-316"
+  },
+  {
+    "id": "radio-maisha",
+    "name": "Radio Maisha (Nairobi)",
+    "logo": "https://storage.googleapis.com/player-logos/logos/Radio-Maisha-Standard-Standard-Media-1750354266661.png",
+    "frequency": "102.7 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/maisha"
+  },
+  {
+    "id": "musyi-fm",
+    "name": "Musyi FM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w8O45Or60sGHLJWZWsFEKUMlFjNvv7GNwFbCKFhAr8Zfuvo53qFPoBc&s=10",
+    "frequency": "102.2 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://musyifm-atunwadigital.streamguys1.com/musyifm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/musyi"
+  },
+  {
+    "id": "b-h-b",
+    "name": "Biblia Husema Broadcasting FM (Nairobi)",
+    "logo": "https://cdn.tuko.co.ke/images/1200x675/fa205d029634d5d9.jpeg?v=1",
+    "frequency": "96.7 FM",
+    "status": "active",
+    "streams": [
+      { "url": "", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
+    "id": "bahari-fm",
+    "name": "Bahari FM",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/baharifm.jpg",
+    "frequency": "94.2 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/baharifm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/bahari"
+  },
+  {
+    "id": "baraka-fm",
+    "name": "Baraka FM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdNidbB7FYmYAD2UFvW2kW6Pw9S7wK0XniR--7CXqfABMZH0WDSjtzCg&s=10",
+    "frequency": "95.5 FM",
+    "status": "inactive",
+    "streams": [
+      { "url": "", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
+    "id": "chamgei-fm",
+    "name": "Chamgei FM (Nairobi)",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/chamgei-fm.jpg",
+    "frequency": "90.4 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://chamgeifm-atunwadigital.streamguys1.com/chamgeifm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/chamgei"
+  },
+  {
+    "id": "e-93",
+    "name": "E 93 FM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zdzQwbuc6CiERN5hDj9R9B1Y7hsi-D0bwhIPqRvzBhlbkGcSla47b50&s=10",
+    "frequency": "93.0 FM",
+    "status": "inactive",
+    "streams": [
+      { "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEASFM_SC", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
+    "id": "east-fm",
+    "name": "East FM",
+    "logo": "https://cdn-radiotime-logos.tunein.com/s283827g.png",
+    "frequency": "106.3 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://eastfm-atunwadigital.streamguys1.com/eastfm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/east-fm"
+  },
+  {
+    "id": "egesa-fm",
+    "name": "Egesa FM (Nairobi)",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/egesa-fm.jpg",
+    "frequency": "98.6 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/egesafm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/egesa"
+  },
+  {
+    "id": "imani-radio",
+    "name": "Imani Radio (Kitale)",
+    "logo": "https://cdn.radoxo.com/images/kenya/imani-radio.webp?v=1782277202",
+    "frequency": "88.8 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/hgaxpnxiqfwuv", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
+    "id": "kbc-english",
+    "name": "KBC English Service",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-ldViYi4wc1V9trLfipUSXOM4ErJmEqwyxG67IZKbKZHKJvqTFZ4pRVA&s=10",
+    "frequency": "95.6 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://stream.zeno.fm/c0myzdb71s8uv", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/kbc-english"
+  },
+  {
     "id": "",
     "name": "",
     "logo": "",
