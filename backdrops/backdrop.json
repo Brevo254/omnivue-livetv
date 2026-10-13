@@ -123,8 +123,8 @@
       "stat_text": "620 TITLES • SIMULCASTS",
       "accent_color": "#00BCD4",
       "icon_url": "https://backiee.com/static/wallpapers/1000x563/464744.webp",
-      "is_active": true,
-      "is_beta": false,
+      "is_active": false,
+      "is_beta": true,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 8000,
@@ -143,7 +143,7 @@
       "stat_text": "24/7 MUSIC STATIONS • TOP CHARTS",
       "accent_color": "#E91E63",
       "icon_url": "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
-      "is_active": true,
+      "is_active": false,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",

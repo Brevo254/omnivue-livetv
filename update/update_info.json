@@ -1,17 +1,16 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "changelog": [
-    "⚠️ TEST UPDATE — PLEASE DO NOT INSTALL YET ⚠️",
+    "🚀 OMNIVUE 1.0.8 IS HERE — YOUR ALL-IN-ONE ENTERTAINMENT HUB!",
     "--------------------------------------------------",
-    "This is an internal test release for experimental feature verification.",
-    "If you are seeing this prompt, please tap 'Later' or dismiss this message.",
+    "📻 Live Radio & Podcasts: Tune in to world news, local hits, and top podcasts.",
+    "🎬 Smooth Movie Streaming: Resolved crash bugs so you can enjoy uninterrupted movies.",
+    "⚽ Enhanced Sports Center: Fixed response lag for high-demand live matches.",
+    "📺 Family TV & EPG: More live channels with live program schedules.",
+    "🧸 Dedicated Kids Hub: A safe space for children's entertainment.",
     "--------------------------------------------------",
-    "🧸 Kids Hub — Dedicated mini movie hub with full search and streaming",
-    "⚽ Live Sports Upgrade: High-demand sports channels added",
-    "📺 Modern Live TV Layout: Redesigned interface with structured categories",
-    "📅 TV EPG: Live schedules and program tracking",
-    "🕒 Live TV Watch History: Quick access to recently watched channels"
+    "💡 Help us build something big: Share Omnivue with a friend today! Got friends needing setup help? Full installation is just KSh 500."
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false
