@@ -286,6 +286,105 @@
     "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/kbc-english"
   },
   {
+    "id": "mbaitu-fm",
+    "name": "Mbaitu FM",
+    "logo": "https://static-media.streema.com/media/cache/6f/37/6f37987d8c4d7b0dc9cd6a1d0cacfd2b.jpg",
+    "frequency": "92.5 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://201.netromedia.com/MbaituFM001/MbaituFM001/playlist.m3u8", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/mbaitu"
+  },
+  {
+    "id": "mulembe-fm",
+    "name": "Mulembe FM (Nairobi)",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/mulembe-fm.jpg",
+    "frequency": "97.9 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/mulembefm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/mulembe"
+  },
+  {
+    "id": "muuga-fm",
+    "name": "Muuga FM",
+    "logo": "https://royalmedia.co.ke/wp-content/uploads/2023/09/muugafm.jpg",
+    "frequency": "88.9 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/muugafm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/muuga"
+  },
+  {
+    "id": "nrg-radio",
+    "name": "NRG Radio",
+    "logo": "https://radio.co.ke/media/station/nrg-radio.webp",
+    "frequency": "97.1 FM",
+    "status": "inactive",
+    "streams": [
+      { "url": "https://uksouth.streaming.broadcast.radio/nrg", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/nrg"
+  },
+  {
+    "id": "sulwe-fm",
+    "name": "Sulwe FM",
+    "logo": "https://radio.co.ke/media/station/sulwe-fm.webp",
+    "frequency": "89.6 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/sulwefm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/sulwe"
+  },
+  {
+    "id": "truth-fm",
+    "name": "Truth FM (Nairobi)",
+    "logo": "https://static-media.streema.com/media/cache/7a/7a/7a7a225915c4eb59c703e1436b51685c.jpg",
+    "frequency": "90.7 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/truthfm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/truth"
+  },
+  {
+    "id": "vuuka-fm",
+    "name": "Vuuka FM",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeVIh9_1Be7so6oGaG0x-IRjjZ_1gVrFk41aHf7w0raPa5xMUAx0gNWrlb&s=10",
+    "frequency": "Stream",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/vuukafm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/vuuka"
+  },
+  {
+    "id": "wimwaro-fm",
+    "name": "Wimwaro FM",
+    "logo": "https://cdn.radoxo.com/images/kenya/wimwaro-fm.webp?v=1782277202",
+    "frequency": "93.0 FM",
+    "status": "active",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/wimwarofm", "priority": 1 }
+    ],
+    "nowPlayingUrl": "https://api.instant.audio/data/playlist/81/wimwaro"
+  },
+  {
+    "id": "x-fm",
+    "name": "XFM (Nairobi)",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdDiXFsA1x1c7nnkHOo_dclZW49cvKtfqhCaVxgm2ReAz_QCYugAej5o&s=10",
+    "frequency": "105.5 FM",
+    "status": "inactive",
+    "streams": [
+      { "url": "https://atunwadigital.streamguys1.com/xfm/playlist.m3u8", "priority": 1 }
+    ],
+    "nowPlayingUrl": ""
+  },
+  {
     "id": "",
     "name": "",
     "logo": "",
