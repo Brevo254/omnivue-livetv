@@ -1,5 +1,1706 @@
 [
   {
+    "id":"anime-hidive",
+    "name":"ANIME X HIDIVE",
+    "programs":[
+      {
+        "start": "2026-10-25T00:00:00+03:00",
+        "end": "2026-10-25T00:29:00+03:00",
+        "title": "Ushio & Tora (Season 1, Episode 33)"
+      },
+      {
+        "start": "2026-10-25T00:30:00+03:00",
+        "end": "2026-10-25T00:59:00+03:00",
+        "title": "Ushio & Tora (Season 1, Episode 34)"
+      },
+      {
+        "start": "2026-10-25T01:00:00+03:00",
+        "end": "2026-10-25T01:29:00+03:00",
+        "title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+      },
+      {
+        "start": "2026-10-25T01:30:00+03:00",
+        "end": "2026-10-25T01:59:00+03:00",
+        "title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+      },
+      {
+        "start": "2026-10-25T02:00:00+03:00",
+        "end": "2026-10-25T02:29:00+03:00",
+        "title": "Maiden of Vengeance (Season 1, Episode 6)"
+      },
+{
+"start": "2026-10-25T02:30:00+03:00",
+"end": "2026-10-25T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T03:00:00+03:00",
+"end": "2026-10-25T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T03:30:00+03:00",
+"end": "2026-10-25T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-25T04:00:00+03:00",
+"end": "2026-10-25T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-25T04:30:00+03:00",
+"end": "2026-10-25T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-25T05:00:00+03:00",
+"end": "2026-10-25T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-25T05:30:00+03:00",
+"end": "2026-10-25T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-25T06:00:00+03:00",
+"end": "2026-10-25T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-25T06:30:00+03:00",
+"end": "2026-10-25T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T07:00:00+03:00",
+"end": "2026-10-25T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T07:30:00+03:00",
+"end": "2026-10-25T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-25T08:00:00+03:00",
+"end": "2026-10-25T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-25T08:30:00+03:00",
+"end": "2026-10-25T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-25T09:00:00+03:00",
+"end": "2026-10-25T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-25T09:30:00+03:00",
+"end": "2026-10-25T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-25T10:00:00+03:00",
+"end": "2026-10-25T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-25T10:30:00+03:00",
+"end": "2026-10-25T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T11:00:00+03:00",
+"end": "2026-10-25T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T11:30:00+03:00",
+"end": "2026-10-25T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-25T12:00:00+03:00",
+"end": "2026-10-25T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-25T12:30:00+03:00",
+"end": "2026-10-25T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-25T13:00:00+03:00",
+"end": "2026-10-25T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-25T13:30:00+03:00",
+"end": "2026-10-25T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-25T14:00:00+03:00",
+"end": "2026-10-25T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-25T14:30:00+03:00",
+"end": "2026-10-25T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T15:00:00+03:00",
+"end": "2026-10-25T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T15:30:00+03:00",
+"end": "2026-10-25T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-25T16:00:00+03:00",
+"end": "2026-10-25T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-25T16:30:00+03:00",
+"end": "2026-10-25T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-25T17:00:00+03:00",
+"end": "2026-10-25T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-25T17:30:00+03:00",
+"end": "2026-10-25T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-25T18:00:00+03:00",
+"end": "2026-10-25T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-25T18:30:00+03:00",
+"end": "2026-10-25T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T19:00:00+03:00",
+"end": "2026-10-25T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T19:30:00+03:00",
+"end": "2026-10-25T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-25T20:00:00+03:00",
+"end": "2026-10-25T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-25T20:30:00+03:00",
+"end": "2026-10-25T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-25T21:00:00+03:00",
+"end": "2026-10-25T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-25T21:30:00+03:00",
+"end": "2026-10-25T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-25T22:00:00+03:00",
+"end": "2026-10-25T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-25T22:30:00+03:00",
+"end": "2026-10-25T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-25T23:00:00+03:00",
+"end": "2026-10-25T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-25T23:30:00+03:00",
+"end": "2026-10-25T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T00:00:00+03:00",
+"end": "2026-10-26T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T00:30:00+03:00",
+"end": "2026-10-26T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T01:00:00+03:00",
+"end": "2026-10-26T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T01:30:00+03:00",
+"end": "2026-10-26T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T02:00:00+03:00",
+"end": "2026-10-26T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T02:30:00+03:00",
+"end": "2026-10-26T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T03:00:00+03:00",
+"end": "2026-10-26T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T03:30:00+03:00",
+"end": "2026-10-26T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T04:00:00+03:00",
+"end": "2026-10-26T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T04:30:00+03:00",
+"end": "2026-10-26T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T05:00:00+03:00",
+"end": "2026-10-26T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T05:30:00+03:00",
+"end": "2026-10-26T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T06:00:00+03:00",
+"end": "2026-10-26T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T06:30:00+03:00",
+"end": "2026-10-26T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T07:00:00+03:00",
+"end": "2026-10-26T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T07:30:00+03:00",
+"end": "2026-10-26T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T08:00:00+03:00",
+"end": "2026-10-26T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T08:30:00+03:00",
+"end": "2026-10-26T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T09:00:00+03:00",
+"end": "2026-10-26T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T09:30:00+03:00",
+"end": "2026-10-26T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T10:00:00+03:00",
+"end": "2026-10-26T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T10:30:00+03:00",
+"end": "2026-10-26T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T11:00:00+03:00",
+"end": "2026-10-26T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T11:30:00+03:00",
+"end": "2026-10-26T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T12:00:00+03:00",
+"end": "2026-10-26T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T12:30:00+03:00",
+"end": "2026-10-26T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T13:00:00+03:00",
+"end": "2026-10-26T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T13:30:00+03:00",
+"end": "2026-10-26T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T14:00:00+03:00",
+"end": "2026-10-26T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T14:30:00+03:00",
+"end": "2026-10-26T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T15:00:00+03:00",
+"end": "2026-10-26T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T15:30:00+03:00",
+"end": "2026-10-26T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T16:00:00+03:00",
+"end": "2026-10-26T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T16:30:00+03:00",
+"end": "2026-10-26T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T17:00:00+03:00",
+"end": "2026-10-26T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T17:30:00+03:00",
+"end": "2026-10-26T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T18:00:00+03:00",
+"end": "2026-10-26T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T18:30:00+03:00",
+"end": "2026-10-26T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T19:00:00+03:00",
+"end": "2026-10-26T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T19:30:00+03:00",
+"end": "2026-10-26T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-26T20:00:00+03:00",
+"end": "2026-10-26T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-26T20:30:00+03:00",
+"end": "2026-10-26T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-26T21:00:00+03:00",
+"end": "2026-10-26T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-26T21:30:00+03:00",
+"end": "2026-10-26T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-26T22:00:00+03:00",
+"end": "2026-10-26T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-26T22:30:00+03:00",
+"end": "2026-10-26T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-26T23:00:00+03:00",
+"end": "2026-10-26T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-26T23:30:00+03:00",
+"end": "2026-10-26T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T00:00:00+03:00",
+"end": "2026-10-27T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T00:30:00+03:00",
+"end": "2026-10-27T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T01:00:00+03:00",
+"end": "2026-10-27T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T01:30:00+03:00",
+"end": "2026-10-27T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T02:00:00+03:00",
+"end": "2026-10-27T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T02:30:00+03:00",
+"end": "2026-10-27T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T03:00:00+03:00",
+"end": "2026-10-27T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T03:30:00+03:00",
+"end": "2026-10-27T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T04:00:00+03:00",
+"end": "2026-10-27T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T04:30:00+03:00",
+"end": "2026-10-27T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T05:00:00+03:00",
+"end": "2026-10-27T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T05:30:00+03:00",
+"end": "2026-10-27T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T06:00:00+03:00",
+"end": "2026-10-27T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T06:30:00+03:00",
+"end": "2026-10-27T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T07:00:00+03:00",
+"end": "2026-10-27T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T07:30:00+03:00",
+"end": "2026-10-27T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T08:00:00+03:00",
+"end": "2026-10-27T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T08:30:00+03:00",
+"end": "2026-10-27T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T09:00:00+03:00",
+"end": "2026-10-27T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T09:30:00+03:00",
+"end": "2026-10-27T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T10:00:00+03:00",
+"end": "2026-10-27T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T10:30:00+03:00",
+"end": "2026-10-27T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T11:00:00+03:00",
+"end": "2026-10-27T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T11:30:00+03:00",
+"end": "2026-10-27T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T12:00:00+03:00",
+"end": "2026-10-27T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T12:30:00+03:00",
+"end": "2026-10-27T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T13:00:00+03:00",
+"end": "2026-10-27T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T13:30:00+03:00",
+"end": "2026-10-27T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T14:00:00+03:00",
+"end": "2026-10-27T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T14:30:00+03:00",
+"end": "2026-10-27T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T15:00:00+03:00",
+"end": "2026-10-27T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T15:30:00+03:00",
+"end": "2026-10-27T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T16:00:00+03:00",
+"end": "2026-10-27T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T16:30:00+03:00",
+"end": "2026-10-27T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T17:00:00+03:00",
+"end": "2026-10-27T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T17:30:00+03:00",
+"end": "2026-10-27T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T18:00:00+03:00",
+"end": "2026-10-27T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T18:30:00+03:00",
+"end": "2026-10-27T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T19:00:00+03:00",
+"end": "2026-10-27T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T19:30:00+03:00",
+"end": "2026-10-27T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-27T20:00:00+03:00",
+"end": "2026-10-27T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-27T20:30:00+03:00",
+"end": "2026-10-27T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-27T21:00:00+03:00",
+"end": "2026-10-27T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-27T21:30:00+03:00",
+"end": "2026-10-27T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-27T22:00:00+03:00",
+"end": "2026-10-27T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-27T22:30:00+03:00",
+"end": "2026-10-27T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-27T23:00:00+03:00",
+"end": "2026-10-27T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-27T23:30:00+03:00",
+"end": "2026-10-27T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T00:00:00+03:00",
+"end": "2026-10-28T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T00:30:00+03:00",
+"end": "2026-10-28T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T01:00:00+03:00",
+"end": "2026-10-28T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T01:30:00+03:00",
+"end": "2026-10-28T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T02:00:00+03:00",
+"end": "2026-10-28T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T02:30:00+03:00",
+"end": "2026-10-28T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T03:00:00+03:00",
+"end": "2026-10-28T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T03:30:00+03:00",
+"end": "2026-10-28T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T04:00:00+03:00",
+"end": "2026-10-28T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T04:30:00+03:00",
+"end": "2026-10-28T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T05:00:00+03:00",
+"end": "2026-10-28T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T05:30:00+03:00",
+"end": "2026-10-28T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T06:00:00+03:00",
+"end": "2026-10-28T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T06:30:00+03:00",
+"end": "2026-10-28T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T07:00:00+03:00",
+"end": "2026-10-28T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T07:30:00+03:00",
+"end": "2026-10-28T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T08:00:00+03:00",
+"end": "2026-10-28T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T08:30:00+03:00",
+"end": "2026-10-28T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T09:00:00+03:00",
+"end": "2026-10-28T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T09:30:00+03:00",
+"end": "2026-10-28T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T10:00:00+03:00",
+"end": "2026-10-28T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T10:30:00+03:00",
+"end": "2026-10-28T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T11:00:00+03:00",
+"end": "2026-10-28T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T11:30:00+03:00",
+"end": "2026-10-28T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T12:00:00+03:00",
+"end": "2026-10-28T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T12:30:00+03:00",
+"end": "2026-10-28T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T13:00:00+03:00",
+"end": "2026-10-28T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T13:30:00+03:00",
+"end": "2026-10-28T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T14:00:00+03:00",
+"end": "2026-10-28T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T14:30:00+03:00",
+"end": "2026-10-28T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T15:00:00+03:00",
+"end": "2026-10-28T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T15:30:00+03:00",
+"end": "2026-10-28T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T16:00:00+03:00",
+"end": "2026-10-28T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T16:30:00+03:00",
+"end": "2026-10-28T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T17:00:00+03:00",
+"end": "2026-10-28T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T17:30:00+03:00",
+"end": "2026-10-28T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T18:00:00+03:00",
+"end": "2026-10-28T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T18:30:00+03:00",
+"end": "2026-10-28T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T19:00:00+03:00",
+"end": "2026-10-28T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T19:30:00+03:00",
+"end": "2026-10-28T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-28T20:00:00+03:00",
+"end": "2026-10-28T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-28T20:30:00+03:00",
+"end": "2026-10-28T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-28T21:00:00+03:00",
+"end": "2026-10-28T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-28T21:30:00+03:00",
+"end": "2026-10-28T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-28T22:00:00+03:00",
+"end": "2026-10-28T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-28T22:30:00+03:00",
+"end": "2026-10-28T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-28T23:00:00+03:00",
+"end": "2026-10-28T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-28T23:30:00+03:00",
+"end": "2026-10-28T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T00:00:00+03:00",
+"end": "2026-10-29T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T00:30:00+03:00",
+"end": "2026-10-29T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T01:00:00+03:00",
+"end": "2026-10-29T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T01:30:00+03:00",
+"end": "2026-10-29T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T02:00:00+03:00",
+"end": "2026-10-29T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T02:30:00+03:00",
+"end": "2026-10-29T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T03:00:00+03:00",
+"end": "2026-10-29T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T03:30:00+03:00",
+"end": "2026-10-29T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T04:00:00+03:00",
+"end": "2026-10-29T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T04:30:00+03:00",
+"end": "2026-10-29T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T05:00:00+03:00",
+"end": "2026-10-29T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T05:30:00+03:00",
+"end": "2026-10-29T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T06:00:00+03:00",
+"end": "2026-10-29T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T06:30:00+03:00",
+"end": "2026-10-29T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T07:00:00+03:00",
+"end": "2026-10-29T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T07:30:00+03:00",
+"end": "2026-10-29T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T08:00:00+03:00",
+"end": "2026-10-29T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T08:30:00+03:00",
+"end": "2026-10-29T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T09:00:00+03:00",
+"end": "2026-10-29T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T09:30:00+03:00",
+"end": "2026-10-29T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T10:00:00+03:00",
+"end": "2026-10-29T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T10:30:00+03:00",
+"end": "2026-10-29T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T11:00:00+03:00",
+"end": "2026-10-29T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T11:30:00+03:00",
+"end": "2026-10-29T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T12:00:00+03:00",
+"end": "2026-10-29T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T12:30:00+03:00",
+"end": "2026-10-29T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T13:00:00+03:00",
+"end": "2026-10-29T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T13:30:00+03:00",
+"end": "2026-10-29T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T14:00:00+03:00",
+"end": "2026-10-29T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T14:30:00+03:00",
+"end": "2026-10-29T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T15:00:00+03:00",
+"end": "2026-10-29T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T15:30:00+03:00",
+"end": "2026-10-29T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T16:00:00+03:00",
+"end": "2026-10-29T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T16:30:00+03:00",
+"end": "2026-10-29T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T17:00:00+03:00",
+"end": "2026-10-29T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T17:30:00+03:00",
+"end": "2026-10-29T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T18:00:00+03:00",
+"end": "2026-10-29T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T18:30:00+03:00",
+"end": "2026-10-29T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T19:00:00+03:00",
+"end": "2026-10-29T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T19:30:00+03:00",
+"end": "2026-10-29T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-29T20:00:00+03:00",
+"end": "2026-10-29T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-29T20:30:00+03:00",
+"end": "2026-10-29T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-29T21:00:00+03:00",
+"end": "2026-10-29T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-29T21:30:00+03:00",
+"end": "2026-10-29T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-29T22:00:00+03:00",
+"end": "2026-10-29T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-29T22:30:00+03:00",
+"end": "2026-10-29T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-29T23:00:00+03:00",
+"end": "2026-10-29T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-29T23:30:00+03:00",
+"end": "2026-10-29T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T00:00:00+03:00",
+"end": "2026-10-30T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T00:30:00+03:00",
+"end": "2026-10-30T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T01:00:00+03:00",
+"end": "2026-10-30T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T01:30:00+03:00",
+"end": "2026-10-30T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-30T02:00:00+03:00",
+"end": "2026-10-30T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T02:30:00+03:00",
+"end": "2026-10-30T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T03:00:00+03:00",
+"end": "2026-10-30T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T03:30:00+03:00",
+"end": "2026-10-30T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T04:00:00+03:00",
+"end": "2026-10-30T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T04:30:00+03:00",
+"end": "2026-10-30T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T05:00:00+03:00",
+"end": "2026-10-30T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T05:30:00+03:00",
+"end": "2026-10-30T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-30T06:00:00+03:00",
+"end": "2026-10-30T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T06:30:00+03:00",
+"end": "2026-10-30T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T07:00:00+03:00",
+"end": "2026-10-30T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T07:30:00+03:00",
+"end": "2026-10-30T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T08:00:00+03:00",
+"end": "2026-10-30T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T08:30:00+03:00",
+"end": "2026-10-30T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T09:00:00+03:00",
+"end": "2026-10-30T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T09:30:00+03:00",
+"end": "2026-10-30T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-30T10:00:00+03:00",
+"end": "2026-10-30T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T10:30:00+03:00",
+"end": "2026-10-30T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T11:00:00+03:00",
+"end": "2026-10-30T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T11:30:00+03:00",
+"end": "2026-10-30T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T12:00:00+03:00",
+"end": "2026-10-30T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T12:30:00+03:00",
+"end": "2026-10-30T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T13:00:00+03:00",
+"end": "2026-10-30T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T13:30:00+03:00",
+"end": "2026-10-30T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-30T14:00:00+03:00",
+"end": "2026-10-30T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T14:30:00+03:00",
+"end": "2026-10-30T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T15:00:00+03:00",
+"end": "2026-10-30T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T15:30:00+03:00",
+"end": "2026-10-30T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T16:00:00+03:00",
+"end": "2026-10-30T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T16:30:00+03:00",
+"end": "2026-10-30T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T17:00:00+03:00",
+"end": "2026-10-30T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T17:30:00+03:00",
+"end": "2026-10-30T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-30T18:00:00+03:00",
+"end": "2026-10-30T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T18:30:00+03:00",
+"end": "2026-10-30T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T19:00:00+03:00",
+"end": "2026-10-30T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T19:30:00+03:00",
+"end": "2026-10-30T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-30T20:00:00+03:00",
+"end": "2026-10-30T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-30T20:30:00+03:00",
+"end": "2026-10-30T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-30T21:00:00+03:00",
+"end": "2026-10-30T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-30T21:30:00+03:00",
+"end": "2026-10-30T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start":"2026-10-30T22:00:00+03:00",
+"end": "2026-10-30T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-30T22:30:00+03:00",
+"end": "2026-10-30T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-30T23:00:00+03:00",
+"end": "2026-10-30T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-30T23:30:00+03:00",
+"end": "2026-10-30T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T00:00:00+03:00",
+"end": "2026-10-31T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T00:30:00+03:00",
+"end": "2026-10-31T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T01:00:00+03:00",
+"end": "2026-10-31T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T01:30:00+03:00",
+"end": "2026-10-31T01:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T02:00:00+03:00",
+"end": "2026-10-31T02:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T02:30:00+03:00",
+"end": "2026-10-31T02:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T03:00:00+03:00",
+"end": "2026-10-31T03:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T03:30:00+03:00",
+"end": "2026-10-31T03:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T04:00:00+03:00",
+"end": "2026-10-31T04:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T04:30:00+03:00",
+"end": "2026-10-31T04:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T05:00:00+03:00",
+"end": "2026-10-31T05:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T05:30:00+03:00",
+"end": "2026-10-31T05:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T06:00:00+03:00",
+"end": "2026-10-31T06:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T06:30:00+03:00",
+"end": "2026-10-31T06:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T07:00:00+03:00",
+"end": "2026-10-31T07:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T07:30:00+03:00",
+"end": "2026-10-31T07:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T08:00:00+03:00",
+"end": "2026-10-31T08:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T08:30:00+03:00",
+"end": "2026-10-31T08:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T09:00:00+03:00",
+"end": "2026-10-31T09:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T09:30:00+03:00",
+"end": "2026-10-31T09:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T10:00:00+03:00",
+"end": "2026-10-31T10:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T10:30:00+03:00",
+"end": "2026-10-31T10:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T11:00:00+03:00",
+"end": "2026-10-31T11:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T11:30:00+03:00",
+"end": "2026-10-31T11:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T12:00:00+03:00",
+"end": "2026-10-31T12:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T12:30:00+03:00",
+"end": "2026-10-31T12:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T13:00:00+03:00",
+"end": "2026-10-31T13:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T13:30:00+03:00",
+"end": "2026-10-31T13:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T14:00:00+03:00",
+"end": "2026-10-31T14:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T14:30:00+03:00",
+"end": "2026-10-31T14:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T15:00:00+03:00",
+"end": "2026-10-31T15:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T15:30:00+03:00",
+"end": "2026-10-31T15:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T16:00:00+03:00",
+"end": "2026-10-31T16:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T16:30:00+03:00",
+"end": "2026-10-31T16:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T17:00:00+03:00",
+"end": "2026-10-31T17:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T17:30:00+03:00",
+"end": "2026-10-31T17:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T18:00:00+03:00",
+"end": "2026-10-31T18:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T18:30:00+03:00",
+"end": "2026-10-31T18:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T19:00:00+03:00",
+"end": "2026-10-31T19:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T19:30:00+03:00",
+"end": "2026-10-31T19:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-10-31T20:00:00+03:00",
+"end": "2026-10-31T20:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-10-31T20:30:00+03:00",
+"end": "2026-10-31T20:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-10-31T21:00:00+03:00",
+"end": "2026-10-31T21:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+},
+{
+"start": "2026-10-31T21:30:00+03:00",
+"end": "2026-10-31T21:59:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 2)"
+},
+{
+"start": "2026-10-31T22:00:00+03:00",
+"end": "2026-10-31T22:29:00+03:00",
+"title": "Maiden of Vengeance (Season 1, Episode 6)"
+},
+{
+"start": "2026-10-31T22:30:00+03:00",
+"end": "2026-10-31T22:59:00+03:00",
+"title": "Maiden of Oblivion (Season 1, Episode 7)"
+},
+{
+"start": "2026-10-31T23:00:00+03:00",
+"end": "2026-10-31T23:29:00+03:00",
+"title": "Call of the Night (Season 1, Episode 3)"
+},
+{
+"start": "2026-10-31T23:30:00+03:00",
+"end": "2026-10-31T23:59:00+03:00",
+"title": "Call of the Night (Season 1, Episode 4)"
+},
+{
+"start": "2026-11-01T00:00:00+03:00",
+"end": "2026-11-01T00:29:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 33)"
+},
+{
+"start": "2026-11-01T00:30:00+03:00",
+"end": "2026-11-01T00:59:00+03:00",
+"title": "Ushio & Tora (Season 1, Episode 34)"
+},
+{
+"start": "2026-11-01T01:00:00+03:00",
+"end": "2026-11-01T01:29:00+03:00",
+"title": "Food Wars! Shokugeki no Soma (Season 2, Episode 1)"
+}
+    ]
+  },
+  {
     "id": "citizen-tv",
     "name": "Citizen TV Live",
     "programs": [
