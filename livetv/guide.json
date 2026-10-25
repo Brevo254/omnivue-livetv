@@ -3,298 +3,303 @@
     "id": "citizen-tv",
     "name": "Citizen TV Live",
     "programs": [
-      { "start": "2026-10-11T18:30:00+03:00", "end": "2026-10-11T18:59:00+03:00", "title": "Land and Property Diary" },
-      { "start": "2026-10-11T19:00:00+03:00", "end": "2026-10-11T19:29:00+03:00", "title": "Nipashe Wikendi" },
-      { "start": "2026-10-11T19:30:00+03:00", "end": "2026-10-11T19:59:00+03:00", "title": "Mother in Law" }
+      {
+        "start": "2026-10-25T18:30:00+03:00",
+        "end": "2026-10-25T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-25T19:00:00+03:00",
+        "end": "2026-10-25T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-25T19:30:00+03:00",
+        "end": "2026-10-25T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-26T18:30:00+03:00",
+        "end": "2026-10-26T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-26T19:00:00+03:00",
+        "end": "2026-10-26T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-26T19:30:00+03:00",
+        "end": "2026-10-26T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-27T18:30:00+03:00",
+        "end": "2026-10-27T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-27T19:00:00+03:00",
+        "end": "2026-10-27T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-27T19:30:00+03:00",
+        "end": "2026-10-27T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-28T18:30:00+03:00",
+        "end": "2026-10-28T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-28T19:00:00+03:00",
+        "end": "2026-10-28T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-28T19:30:00+03:00",
+        "end": "2026-10-28T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-29T18:30:00+03:00",
+        "end": "2026-10-29T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-29T19:00:00+03:00",
+        "end": "2026-10-29T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-29T19:30:00+03:00",
+        "end": "2026-10-29T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-30T18:30:00+03:00",
+        "end": "2026-10-30T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-30T19:00:00+03:00",
+        "end": "2026-10-30T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-30T19:30:00+03:00",
+        "end": "2026-10-30T19:59:00+03:00",
+        "title": "Mother in Law"
+      },
+      {
+        "start": "2026-10-31T18:30:00+03:00",
+        "end": "2026-10-31T18:59:00+03:00",
+        "title": "Land and Property Diary"
+      },
+      {
+        "start": "2026-10-31T19:00:00+03:00",
+        "end": "2026-10-31T19:29:00+03:00",
+        "title": "Nipashe Wikendi"
+      },
+      {
+        "start": "2026-10-31T19:30:00+03:00",
+        "end": "2026-10-31T19:59:00+03:00",
+        "title": "Mother in Law"
+      }
     ]
   },
-  
+  {
+    "id": "cartoon-network",
+    "name": "Cartoon Network",
+    "programs": [
+      {
+        "start": "2026-10-25T13:00:00+03:00",
+        "end": "2026-10-25T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-25T14:00:00+03:00",
+        "end": "2026-10-25T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-26T13:00:00+03:00",
+        "end": "2026-10-26T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-26T14:00:00+03:00",
+        "end": "2026-10-26T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-27T13:00:00+03:00",
+        "end": "2026-10-27T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-27T14:00:00+03:00",
+        "end": "2026-10-27T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-28T13:00:00+03:00",
+        "end": "2026-10-28T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-28T14:00:00+03:00",
+        "end": "2026-10-28T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-29T13:00:00+03:00",
+        "end": "2026-10-29T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-29T14:00:00+03:00",
+        "end": "2026-10-29T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-30T13:00:00+03:00",
+        "end": "2026-10-30T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-30T14:00:00+03:00",
+        "end": "2026-10-30T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      },
+      {
+        "start": "2026-10-31T13:00:00+03:00",
+        "end": "2026-10-31T13:59:00+03:00",
+        "title": "Regular Show"
+      },
+      {
+        "start": "2026-10-31T14:00:00+03:00",
+        "end": "2026-10-31T14:59:00+03:00",
+        "title": "The Amazing World of Gumball"
+      }
+    ]
+  },
   {
     "id": "usa-network",
     "name": "USA Network",
-    "programs":[
-      { "start": 1791631800, "end": 1791639000, "title": "Live: Premier League Soccer" },
-      { "start": 1791639000, "end": 1791640800, "title": "Live: Premier League Mornings" },
-      { "start": 1791640800, "end": 1791648000, "title": "Live: Premier League Soccer" },
-      { "start": 1791648000, "end": 1791649800, "title": "Live: Premier League Mornings" },
-      { "start": 1791649800, "end": 1791657000, "title": "Live: Bundesliga Soccer" }
+    "programs": [
+      {
+        "start": "2026-10-25T14:00:00+03:00",
+        "end": "2026-10-25T16:59:00+03:00",
+        "title": "Live Premier League: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-25T17:00:00+03:00",
+        "end": "2026-10-25T19:29:00+03:00",
+        "title": "Live Premier League: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-26T14:00:00+03:00",
+        "end": "2026-10-26T16:59:00+03:00",
+        "title": "Live Premier League: Everton vs. Fulham"
+      },
+      {
+        "start": "2026-10-26T17:00:00+03:00",
+        "end": "2026-10-26T19:29:00+03:00",
+        "title": "Live Premier League: Leicester City vs. Wolves"
+      },
+      {
+        "start": "2026-10-27T14:00:00+03:00",
+        "end": "2026-10-27T16:59:00+03:00",
+        "title": "Live Premier League: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-27T17:00:00+03:00",
+        "end": "2026-10-27T19:29:00+03:00",
+        "title": "Live Premier League: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-28T14:00:00+03:00",
+        "end": "2026-10-28T16:59:00+03:00",
+        "title": "Live Premier League: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-28T17:00:00+03:00",
+        "end": "2026-10-28T19:29:00+03:00",
+        "title": "Live Premier League: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-29T14:00:00+03:00",
+        "end": "2026-10-29T16:59:00+03:00",
+        "title": "Live Premier League: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-29T17:00:00+03:00",
+        "end": "2026-10-29T19:29:00+03:00",
+        "title": "Live Premier League: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-30T14:00:00+03:00",
+        "end": "2026-10-30T16:59:00+03:00",
+        "title": "Live Premier League: Chelsea vs. Tottenham"
+      },
+      {
+        "start": "2026-10-30T17:00:00+03:00",
+        "end": "2026-10-30T19:29:00+03:00",
+        "title": "Live Premier League: Arsenal vs. Aston Villa"
+      },
+      {
+        "start": "2026-10-31T14:00:00+03:00",
+        "end": "2026-10-31T16:59:00+03:00",
+        "title": "Live Premier League: Chelsea vs. Tottenham"
+      },
+      {
+        "start": "2026-10-31T17:00:00+03:00",
+        "end": "2026-10-31T19:29:00+03:00",
+        "title": "Live Premier League: Arsenal vs. Aston Villa"
+      }
     ]
   },
   {
     "id": "sky-sports-football",
     "name": "Sky Sports Football",
     "programs": [
-      { "start": "2026-10-11T00:00:00+03:00", "end": "2026-10-11T02:59:00+03:00", "title": "EFL Championship Match Replay" },
-      { "start": "2026-10-11T03:00:00+03:00", "end": "2026-10-11T05:59:00+03:00","title": "Scottish Premiership Highlights"
-      },
-      { "start": "2026-10-11T06:00:00+03:00",
-        "end": "2026-10-11T08:59:00+03:00",
-        "title": "European Football Review"
+      {
+        "start": "2026-10-25T18:00:00+03:00",
+        "end": "2026-10-25T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-11T09:00:00+03:00",
-        "end": "2026-10-11T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
+        "start": "2026-10-26T18:00:00+03:00",
+        "end": "2026-10-26T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-11T12:00:00+03:00",
-        "end": "2026-10-11T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
+        "start": "2026-10-27T18:00:00+03:00",
+        "end": "2026-10-27T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-11T15:00:00+03:00",
-        "end": "2026-10-11T17:59:00+03:00",
-        "title": "Classic Football Matches"
+        "start": "2026-10-28T18:00:00+03:00",
+        "end": "2026-10-28T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-11T18:00:00+03:00",
-        "end": "2026-10-11T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
+        "start": "2026-10-29T18:00:00+03:00",
+        "end": "2026-10-29T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-11T21:00:00+03:00",
-        "end": "2026-10-11T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
+        "start": "2026-10-30T18:00:00+03:00",
+        "end": "2026-10-30T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       },
       {
-        "start": "2026-10-12T00:00:00+03:00",
-        "end": "2026-10-12T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-12T03:00:00+03:00",
-        "end": "2026-10-12T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-12T06:00:00+03:00",
-        "end": "2026-10-12T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-12T09:00:00+03:00",
-        "end": "2026-10-12T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-12T12:00:00+03:00",
-        "end": "2026-10-12T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-12T15:00:00+03:00",
-        "end": "2026-10-12T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-12T18:00:00+03:00",
-        "end": "2026-10-12T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-12T21:00:00+03:00",
-        "end": "2026-10-12T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
-      },
-      {
-        "start": "2026-10-13T00:00:00+03:00",
-        "end": "2026-10-13T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-13T03:00:00+03:00",
-        "end": "2026-10-13T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-13T06:00:00+03:00",
-        "end": "2026-10-13T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-13T09:00:00+03:00",
-        "end": "2026-10-13T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-13T12:00:00+03:00",
-        "end": "2026-10-13T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-13T15:00:00+03:00",
-        "end": "2026-10-13T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-13T18:00:00+03:00",
-        "end": "2026-10-13T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-13T21:00:00+03:00",
-        "end": "2026-10-13T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
-      },
-      {
-        "start": "2026-10-14T00:00:00+03:00",
-        "end": "2026-10-14T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-14T03:00:00+03:00",
-        "end": "2026-10-14T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-14T06:00:00+03:00",
-        "end": "2026-10-14T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-14T09:00:00+03:00",
-        "end": "2026-10-14T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-14T12:00:00+03:00",
-        "end": "2026-10-14T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-14T15:00:00+03:00",
-        "end": "2026-10-14T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-14T18:00:00+03:00",
-        "end": "2026-10-14T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-14T21:00:00+03:00",
-        "end": "2026-10-14T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
-      },
-      {
-        "start": "2026-10-15T00:00:00+03:00",
-        "end": "2026-10-15T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-15T03:00:00+03:00",
-        "end": "2026-10-15T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-15T06:00:00+03:00",
-        "end": "2026-10-15T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-15T09:00:00+03:00",
-        "end": "2026-10-15T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-15T12:00:00+03:00",
-        "end": "2026-10-15T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-15T15:00:00+03:00",
-        "end": "2026-10-15T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-15T18:00:00+03:00",
-        "end": "2026-10-15T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-15T21:00:00+03:00",
-        "end": "2026-10-15T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
-      },
-      {
-        "start": "2026-10-16T00:00:00+03:00",
-        "end": "2026-10-16T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-16T03:00:00+03:00",
-        "end": "2026-10-16T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-16T06:00:00+03:00",
-        "end": "2026-10-16T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-16T09:00:00+03:00",
-        "end": "2026-10-16T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-16T12:00:00+03:00",
-        "end": "2026-10-16T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-16T15:00:00+03:00",
-        "end": "2026-10-16T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-16T18:00:00+03:00",
-        "end": "2026-10-16T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-16T21:00:00+03:00",
-        "end": "2026-10-16T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
-      },
-      {
-        "start": "2026-10-17T00:00:00+03:00",
-        "end": "2026-10-17T02:59:00+03:00",
-        "title": "EFL Championship Match Replay"
-      },
-      {
-        "start": "2026-10-17T03:00:00+03:00",
-        "end": "2026-10-17T05:59:00+03:00",
-        "title": "Scottish Premiership Highlights"
-      },
-      {
-        "start": "2026-10-17T06:00:00+03:00",
-        "end": "2026-10-17T08:59:00+03:00",
-        "title": "European Football Review"
-      },
-      {
-        "start": "2026-10-17T09:00:00+03:00",
-        "end": "2026-10-17T11:59:00+03:00",
-        "title": "EFL Goals of the Week"
-      },
-      {
-        "start": "2026-10-17T12:00:00+03:00",
-        "end": "2026-10-17T14:59:00+03:00",
-        "title": "Live Round-Up & Football News"
-      },
-      {
-        "start": "2026-10-17T15:00:00+03:00",
-        "end": "2026-10-17T17:59:00+03:00",
-        "title": "Classic Football Matches"
-      },
-      {
-        "start": "2026-10-17T18:00:00+03:00",
-        "end": "2026-10-17T20:59:00+03:00",
-        "title": "Live EFL League One/Two Coverage"
-      },
-      {
-        "start": "2026-10-17T21:00:00+03:00",
-        "end": "2026-10-17T23:59:00+03:00",
-        "title": "Championship Full Match Replay"
+        "start": "2026-10-31T18:00:00+03:00",
+        "end": "2026-10-31T20:59:00+03:00",
+        "title": "Match Replay: Hull City vs. Brentford"
       }
     ]
   },
@@ -303,249 +308,39 @@
     "name": "Sky Sports News",
     "programs": [
       {
-        "start": "2026-10-11T00:00:00+03:00",
-        "end": "2026-10-11T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
+        "start": "2026-10-25T19:00:00+03:00",
+        "end": "2026-10-25T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T06:00:00+03:00",
-        "end": "2026-10-11T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
+        "start": "2026-10-26T19:00:00+03:00",
+        "end": "2026-10-26T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T09:00:00+03:00",
-        "end": "2026-10-11T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
+        "start": "2026-10-27T19:00:00+03:00",
+        "end": "2026-10-27T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T12:00:00+03:00",
-        "end": "2026-10-11T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
+        "start": "2026-10-28T19:00:00+03:00",
+        "end": "2026-10-28T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T17:00:00+03:00",
-        "end": "2026-10-11T18:59:00+03:00",
-        "title": "The Football Show"
+        "start": "2026-10-29T19:00:00+03:00",
+        "end": "2026-10-29T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T19:00:00+03:00",
-        "end": "2026-10-11T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
+        "start": "2026-10-30T19:00:00+03:00",
+        "end": "2026-10-30T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       },
       {
-        "start": "2026-10-11T22:00:00+03:00",
-        "end": "2026-10-11T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-12T00:00:00+03:00",
-        "end": "2026-10-12T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-12T06:00:00+03:00",
-        "end": "2026-10-12T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-12T09:00:00+03:00",
-        "end": "2026-10-12T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-12T12:00:00+03:00",
-        "end": "2026-10-12T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-12T17:00:00+03:00",
-        "end": "2026-10-12T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-12T19:00:00+03:00",
-        "end": "2026-10-12T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-12T22:00:00+03:00",
-        "end": "2026-10-12T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-13T00:00:00+03:00",
-        "end": "2026-10-13T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-13T06:00:00+03:00",
-        "end": "2026-10-13T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-13T09:00:00+03:00",
-        "end": "2026-10-13T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-13T12:00:00+03:00",
-        "end": "2026-10-13T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-13T17:00:00+03:00",
-        "end": "2026-10-13T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-13T19:00:00+03:00",
-        "end": "2026-10-13T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-13T22:00:00+03:00",
-        "end": "2026-10-13T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-14T00:00:00+03:00",
-        "end": "2026-10-14T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-14T06:00:00+03:00",
-        "end": "2026-10-14T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-14T09:00:00+03:00",
-        "end": "2026-10-14T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-14T12:00:00+03:00",
-        "end": "2026-10-14T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-14T17:00:00+03:00",
-        "end": "2026-10-14T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-14T19:00:00+03:00",
-        "end": "2026-10-14T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-14T22:00:00+03:00",
-        "end": "2026-10-14T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-15T00:00:00+03:00",
-        "end": "2026-10-15T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-15T06:00:00+03:00",
-        "end": "2026-10-15T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-15T09:00:00+03:00",
-        "end": "2026-10-15T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-15T12:00:00+03:00",
-        "end": "2026-10-15T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-15T17:00:00+03:00",
-        "end": "2026-10-15T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-15T19:00:00+03:00",
-        "end": "2026-10-15T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-15T22:00:00+03:00",
-        "end": "2026-10-15T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-16T00:00:00+03:00",
-        "end": "2026-10-16T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-16T06:00:00+03:00",
-        "end": "2026-10-16T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-16T09:00:00+03:00",
-        "end": "2026-10-16T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-16T12:00:00+03:00",
-        "end": "2026-10-16T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-16T17:00:00+03:00",
-        "end": "2026-10-16T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-16T19:00:00+03:00",
-        "end": "2026-10-16T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-16T22:00:00+03:00",
-        "end": "2026-10-16T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
-      },
-      {
-        "start": "2026-10-17T00:00:00+03:00",
-        "end": "2026-10-17T05:59:00+03:00",
-        "title": "Sky Sports News at Night"
-      },
-      {
-        "start": "2026-10-17T06:00:00+03:00",
-        "end": "2026-10-17T08:59:00+03:00",
-        "title": "Good Morning Sports Fans"
-      },
-      {
-        "start": "2026-10-17T09:00:00+03:00",
-        "end": "2026-10-17T11:59:00+03:00",
-        "title": "Sky Sports News HQ Morning"
-      },
-      {
-        "start": "2026-10-17T12:00:00+03:00",
-        "end": "2026-10-17T16:59:00+03:00",
-        "title": "Sports Update & Live Breaking News"
-      },
-      {
-        "start": "2026-10-17T17:00:00+03:00",
-        "end": "2026-10-17T18:59:00+03:00",
-        "title": "The Football Show"
-      },
-      {
-        "start": "2026-10-17T19:00:00+03:00",
-        "end": "2026-10-17T21:59:00+03:00",
-        "title": "Evening Update & Transfer Talk"
-      },
-      {
-        "start": "2026-10-17T22:00:00+03:00",
-        "end": "2026-10-17T23:59:00+03:00",
-        "title": "Sportsline & Final Review"
+        "start": "2026-10-31T19:00:00+03:00",
+        "end": "2026-10-31T22:00:00+03:00",
+        "title": "Transfer Window LIVE Updates"
       }
     ]
   },
@@ -554,395 +349,262 @@
     "name": "TV47",
     "programs": [
       {
-        "start": "2026-10-11T00:00:00+03:00",
-        "end": "2026-10-11T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
+        "start": "2026-10-25T19:00:00+03:00",
+        "end": "2026-10-25T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T06:00:00+03:00",
-        "end": "2026-10-11T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
+        "start": "2026-10-26T19:00:00+03:00",
+        "end": "2026-10-26T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T09:00:00+03:00",
-        "end": "2026-10-11T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
+        "start": "2026-10-27T19:00:00+03:00",
+        "end": "2026-10-27T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T11:00:00+03:00",
-        "end": "2026-10-11T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
+        "start": "2026-10-28T19:00:00+03:00",
+        "end": "2026-10-28T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T13:00:00+03:00",
-        "end": "2026-10-11T13:59:00+03:00",
-        "title": "TV47 News @1pm"
+        "start": "2026-10-29T19:00:00+03:00",
+        "end": "2026-10-29T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T14:00:00+03:00",
-        "end": "2026-10-11T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
+        "start": "2026-10-30T19:00:00+03:00",
+        "end": "2026-10-30T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
       },
       {
-        "start": "2026-10-11T16:00:00+03:00",
-        "end": "2026-10-11T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-11T19:00:00+03:00",
-        "end": "2026-10-11T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-11T20:30:00+03:00",
-        "end": "2026-10-11T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-11T22:00:00+03:00",
-        "end": "2026-10-11T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-12T00:00:00+03:00",
-        "end": "2026-10-12T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-12T06:00:00+03:00",
-        "end": "2026-10-12T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-12T09:00:00+03:00",
-        "end": "2026-10-12T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-12T11:00:00+03:00",
-        "end": "2026-10-12T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-12T13:00:00+03:00",
-        "end": "2026-10-12T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-12T14:00:00+03:00",
-        "end": "2026-10-12T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-12T16:00:00+03:00",
-        "end": "2026-10-12T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-12T19:00:00+03:00",
-        "end": "2026-10-12T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-12T20:30:00+03:00",
-        "end": "2026-10-12T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-12T22:00:00+03:00",
-        "end": "2026-10-12T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-13T00:00:00+03:00",
-        "end": "2026-10-13T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-13T06:00:00+03:00",
-        "end": "2026-10-13T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-13T09:00:00+03:00",
-        "end": "2026-10-13T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-13T11:00:00+03:00",
-        "end": "2026-10-13T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-13T13:00:00+03:00",
-        "end": "2026-10-13T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-13T14:00:00+03:00",
-        "end": "2026-10-13T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-13T16:00:00+03:00",
-        "end": "2026-10-13T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-13T19:00:00+03:00",
-        "end": "2026-10-13T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-13T20:30:00+03:00",
-        "end": "2026-10-13T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-13T22:00:00+03:00",
-        "end": "2026-10-13T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-14T00:00:00+03:00",
-        "end": "2026-10-14T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-14T06:00:00+03:00",
-        "end": "2026-10-14T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-14T09:00:00+03:00",
-        "end": "2026-10-14T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-14T11:00:00+03:00",
-        "end": "2026-10-14T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-14T13:00:00+03:00",
-        "end": "2026-10-14T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-14T14:00:00+03:00",
-        "end": "2026-10-14T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-14T16:00:00+03:00",
-        "end": "2026-10-14T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-14T19:00:00+03:00",
-        "end": "2026-10-14T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-14T20:30:00+03:00",
-        "end": "2026-10-14T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-14T22:00:00+03:00",
-        "end": "2026-10-14T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-15T00:00:00+03:00",
-        "end": "2026-10-15T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-15T06:00:00+03:00",
-        "end": "2026-10-15T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-15T09:00:00+03:00",
-        "end": "2026-10-15T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-15T11:00:00+03:00",
-        "end": "2026-10-15T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-15T13:00:00+03:00",
-        "end": "2026-10-15T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-15T14:00:00+03:00",
-        "end": "2026-10-15T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-15T16:00:00+03:00",
-        "end": "2026-10-15T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-15T19:00:00+03:00",
-        "end": "2026-10-15T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-15T20:30:00+03:00",
-        "end": "2026-10-15T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-15T22:00:00+03:00",
-        "end": "2026-10-15T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-16T00:00:00+03:00",
-        "end": "2026-10-16T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-16T06:00:00+03:00",
-        "end": "2026-10-16T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-16T09:00:00+03:00",
-        "end": "2026-10-16T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-16T11:00:00+03:00",
-        "end": "2026-10-16T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-16T13:00:00+03:00",
-        "end": "2026-10-16T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-16T14:00:00+03:00",
-        "end": "2026-10-16T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-16T16:00:00+03:00",
-        "end": "2026-10-16T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-16T19:00:00+03:00",
-        "end": "2026-10-16T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-16T20:30:00+03:00",
-        "end": "2026-10-16T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      {
-        "start": "2026-10-16T22:00:00+03:00",
-        "end": "2026-10-16T23:59:00+03:00",
-        "title": "TV47 Matukio / Night News Wrap-Up"
-      },
-      {
-        "start": "2026-10-17T00:00:00+03:00",
-        "end": "2026-10-17T05:59:00+03:00",
-        "title": "TV47 Overnight News Mix & Music"
-      },
-      {
-        "start": "2026-10-17T06:00:00+03:00",
-        "end": "2026-10-17T08:59:00+03:00",
-        "title": "TV47 Breakfast Show / Morning Cafe"
-      },
-      {
-        "start": "2026-10-17T09:00:00+03:00",
-        "end": "2026-10-17T10:59:00+03:00",
-        "title": "Youth Perspective / Interactive Talk Show"
-      },
-      {
-        "start": "2026-10-17T11:00:00+03:00",
-        "end": "2026-10-17T12:59:00+03:00",
-        "title": "Upeo wa TV47 / Mid-Morning Feature"
-      },
-      {
-        "start": "2026-10-17T13:00:00+03:00",
-        "end": "2026-10-17T13:59:00+03:00",
-        "title": "TV47 News @1pm"
-      },
-      {
-        "start": "2026-10-17T14:00:00+03:00",
-        "end": "2026-10-17T15:59:00+03:00",
-        "title": "The Wabebe Experience / Re-run Hour"
-      },
-      {
-        "start": "2026-10-17T16:00:00+03:00",
-        "end": "2026-10-17T18:59:00+03:00",
-        "title": "TV47 Special Feature & Music Hour"
-      },
-      {
-        "start": "2026-10-17T19:00:00+03:00",
-        "end": "2026-10-17T20:29:00+03:00",
-        "title": "TV47 Prime Weekend / Weekday Edition"
-      },
-      {
-        "start": "2026-10-17T20:30:00+03:00",
-        "end": "2026-10-17T21:59:00+03:00",
-        "title": "Churchill Show / Special Panel Broadcast"
-      },
-      { "start": "2026-10-17T22:00:00+03:00", "end": "2026-10-17T23:59:00+03:00", "title": "TV47 Matukio / Night News Wrap-Up" }
+        "start": "2026-10-31T19:00:00+03:00",
+        "end": "2026-10-31T20:29:00+03:00",
+        "title": "TV47 Prime Weekend Edition"
+      }
     ]
   },
   {
     "id": "sky-sports-premier",
     "name": "Sky Sports Premier League",
-    "programs":[
-      { "start": "2026-10-11T15:00:00+03:00", "end": "2026-10-11T15:59:00+03:00", "title": "Super Sunday Build-Up / Pre-Match" },
-      { "start": "2026-10-11T16:00:00+03:00", "end": "2026-10-11T18:29:00+03:00", "title": "Live: Hull City vs. Everton" },
-      { "start": "2026-10-11T18:30:00+03:00", "end": "2026-10-11T21:00:00+03:00", "title": "Live: Liverpool vs. Manchester City" },
-      { "start": "2026-10-11T21:00:00+03:00", "end": "2026-10-11T22:00:00+03:00", "title": "Super Sunday Post-Match Analysis & Reaction" },
-      { "start": "2026-10-11T22:00:00+03:00", "end": "2026-10-11T23:59:00+03:00", "title": "Game of the Day: Liverpool vs. Manchester City Full Replay" },
-      { "start": "2026-10-12T00:00:00+03:00", "end": "2026-10-12T01:29:00+03:00", "title": "Premier League Match Pack" },
-      { "start": "2026-10-12T01:30:00+03:00", "end": "2026-10-12T02:59:00+03:00", "title": "Premier League Review Show" },
-      { "start": "2026-10-12T03:00:00+03:00", "end": "2026-10-12T04:59:00+03:00", "title": "Premier League Classic Matches" },
-      { "start": "2026-10-12T05:00:00+03:00", "end": "2026-10-12T07:59:00+03:00", "title": "PL 100: Iconic Premier League Legends" },
-      { "start": "2026-10-12T08:00:00+03:00", "end": "2026-10-12T08:29:00+03:00", "title": "Premier League News & Fast Updates" },
-      { "start": "2026-10-12T08:30:00+03:00", "end": "2026-10-12T09:59:00+03:00", "title": "Match Highlights: Liverpool vs. Manchester City" },
-      { "start": "2026-10-12T10:00:00+03:00", "end": "2026-10-12T11:59:00+03:00", "title": "Match Highlights: Hull City vs. Everton & Sunday Review" },
-      { "start": "2026-10-12T12:00:00+03:00", "end": "2026-10-12T13:59:00+03:00", "title": "Premier League Stories & Documentaries" },
-      { "start": "2026-10-12T14:00:00+03:00", "end": "2026-10-12T16:59:00+03:00", "title": "Super Sunday Re-run: Match of the Day Selection" },
-      { "start": "2026-10-12T17:00:00+03:00", "end": "2026-10-12T18:29:00+03:00", "title": "The Premier League Show LIVE" },
-      { "start": "2026-10-12T18:30:00+03:00", "end": "2026-10-12T21:59:00+03:00", "title": "Monday Night Football Pre-Match Build-Up" },
-      { "start": "2026-10-12T22:00:00+03:00", "end": "2026-10-13T00:30:00+03:00", "title": "Live: Coventry City vs. Newcastle United" },
-      { "start": "2026-10-13T00:30:00+03:00", "end": "2026-10-13T01:30:00+03:00", "title": "Monday Night Football Analysis & Post-Match Reaction" }
+    "programs": [
+      {
+        "start": "2026-10-25T14:00:00+03:00",
+        "end": "2026-10-25T16:59:00+03:00",
+        "title": "Live: Manchester United vs. AFC Bournemouth"
+      },
+      {
+        "start": "2026-10-25T17:00:00+03:00",
+        "end": "2026-10-25T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-25T19:30:00+03:00",
+        "end": "2026-10-25T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-26T14:00:00+03:00",
+        "end": "2026-10-26T16:59:00+03:00",
+        "title": "Live: West Ham vs. Ipswich Town"
+      },
+      {
+        "start": "2026-10-26T17:00:00+03:00",
+        "end": "2026-10-26T19:29:00+03:00",
+        "title": "Live: Leicester City vs. Wolves"
+      },
+      {
+        "start": "2026-10-26T19:30:00+03:00",
+        "end": "2026-10-26T22:00:00+03:00",
+        "title": "Live: Coventry vs. Southampton"
+      },
+      {
+        "start": "2026-10-27T14:00:00+03:00",
+        "end": "2026-10-27T16:59:00+03:00",
+        "title": "Live: Manchester United vs. AFC Bournemouth"
+      },
+      {
+        "start": "2026-10-27T17:00:00+03:00",
+        "end": "2026-10-27T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-27T19:30:00+03:00",
+        "end": "2026-10-27T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-28T14:00:00+03:00",
+        "end": "2026-10-28T16:59:00+03:00",
+        "title": "Live: Manchester United vs. AFC Bournemouth"
+      },
+      {
+        "start": "2026-10-28T17:00:00+03:00",
+        "end": "2026-10-28T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-28T19:30:00+03:00",
+        "end": "2026-10-28T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-29T14:00:00+03:00",
+        "end": "2026-10-29T16:59:00+03:00",
+        "title": "Live: Manchester United vs. AFC Bournemouth"
+      },
+      {
+        "start": "2026-10-29T17:00:00+03:00",
+        "end": "2026-10-29T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-29T19:30:00+03:00",
+        "end": "2026-10-29T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-30T14:00:00+03:00",
+        "end": "2026-10-30T16:59:00+03:00",
+        "title": "Live: Manchester City vs. Nottingham Forest"
+      },
+      {
+        "start": "2026-10-30T17:00:00+03:00",
+        "end": "2026-10-30T19:29:00+03:00",
+        "title": "Live: Arsenal vs. Aston Villa"
+      },
+      {
+        "start": "2026-10-30T19:30:00+03:00",
+        "end": "2026-10-30T22:00:00+03:00",
+        "title": "Live: Brentford vs. Crystal Palace"
+      },
+      {
+        "start": "2026-10-31T14:00:00+03:00",
+        "end": "2026-10-31T16:59:00+03:00",
+        "title": "Live: Manchester City vs. Nottingham Forest"
+      },
+      {
+        "start": "2026-10-31T17:00:00+03:00",
+        "end": "2026-10-31T19:29:00+03:00",
+        "title": "Live: Arsenal vs. Aston Villa"
+      },
+      {
+        "start": "2026-10-31T19:30:00+03:00",
+        "end": "2026-10-31T22:00:00+03:00",
+        "title": "Live: Brentford vs. Crystal Palace"
+      }
     ]
   },
   {
     "id": "skysports-main-event",
     "name": "Sky Sports Main Event hd",
-    "programs":[
-      { "start": "2026-10-11T15:00:00+03:00", "end": "2026-10-11T15:59:00+03:00", "title": "Super Sunday Build-Up / Pre-Match" },
-      { "start": "2026-10-11T16:00:00+03:00", "end": "2026-10-11T18:29:00+03:00", "title": "Live: Crystal Palace vs. Nottingham Forest" },
-      { "start": "2026-10-11T18:30:00+03:00", "end": "2026-10-11T21:00:00+03:00", "title": "Live: Liverpool vs. Manchester City" },
-      { "start": "2026-10-11T21:00:00+03:00", "end": "2026-10-11T22:00:00+03:00", "title": "Super Sunday Post-Match Analysis & Reaction" },
-      { "start": "2026-10-11T22:00:00+03:00", "end": "2026-10-11T23:59:00+03:00", "title": "Live Championship / Regional Football Review" },
-      { "start": "2026-10-12T00:00:00+03:00", "end": "2026-10-12T04:59:00+03:00", "title": "Live PGA Tour Golf: The Baycurrent Classic - Day 4 Coverage" },
-      { "start": "2026-10-12T05:00:00+03:00", "end": "2026-10-12T07:59:00+03:00", "title": "Sky Sports News Round-Up" },
-      { "start": "2026-10-12T08:00:00+03:00", "end": "2026-10-12T11:00:00+03:00", "title": "Live Test Cricket: South Africa vs. Australia - Day 3 Morning Session" },
-      { "start": "2026-10-12T11:00:00+03:00", "end": "2026-10-12T13:59:00+03:00", "title": "Total Football / Monday Sports Preview Show" },
-      { "start": "2026-10-12T14:00:00+03:00", "end": "2026-10-12T16:59:00+03:00", "title": "Live ATP Shanghai Masters & WTA Wuhan Open Tennis" },
-      { "start": "2026-10-12T17:00:00+03:00", "end": "2026-10-12T18:29:00+03:00", "title": "Live: Sports Desk News and Updates" },
-      { "start": "2026-10-12T18:30:00+03:00", "end": "2026-10-12T21:59:00+03:00", "title": "Monday Night Football Pre-Match Build-Up" },
-      { "start": "2026-10-12T22:00:00+03:00", "end": "2026-10-13T00:30:00+03:00", "title": "Live: Coventry City vs. Newcastle United" },
-      { "start": "2026-10-13T00:30:00+03:00", "end": "2026-10-13T01:30:00+03:00", "title": "Monday Night Football Analysis & Post-Match Reaction" }
+    "programs": [
+      {
+        "start": "2026-10-25T14:00:00+03:00",
+        "end": "2026-10-25T16:59:00+03:00",
+        "title": "Live: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-25T17:00:00+03:00",
+        "end": "2026-10-25T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-25T19:30:00+03:00",
+        "end": "2026-10-25T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-26T14:00:00+03:00",
+        "end": "2026-10-26T16:59:00+03:00",
+        "title": "Live: Everton vs. Fulham"
+      },
+      {
+        "start": "2026-10-26T17:00:00+03:00",
+        "end": "2026-10-26T19:29:00+03:00",
+        "title": "Live: Leicester City vs. Wolves"
+      },
+      {
+        "start": "2026-10-26T19:30:00+03:00",
+        "end": "2026-10-26T22:00:00+03:00",
+        "title": "Live: Coventry vs. Southampton"
+      },
+      {
+        "start": "2026-10-27T14:00:00+03:00",
+        "end": "2026-10-27T16:59:00+03:00",
+        "title": "Live: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-27T17:00:00+03:00",
+        "end": "2026-10-27T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-27T19:30:00+03:00",
+        "end": "2026-10-27T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-28T14:00:00+03:00",
+        "end": "2026-10-28T16:59:00+03:00",
+        "title": "Live: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-28T17:00:00+03:00",
+        "end": "2026-10-28T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-28T19:30:00+03:00",
+        "end": "2026-10-28T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-29T14:00:00+03:00",
+        "end": "2026-10-29T16:59:00+03:00",
+        "title": "Live: Crystal Palace vs. Newcastle United"
+      },
+      {
+        "start": "2026-10-29T17:00:00+03:00",
+        "end": "2026-10-29T19:29:00+03:00",
+        "title": "Live: Liverpool vs. Brighton & Hove Albion"
+      },
+      {
+        "start": "2026-10-29T19:30:00+03:00",
+        "end": "2026-10-29T22:00:00+03:00",
+        "title": "Live: Sunderland vs. Leeds United"
+      },
+      {
+        "start": "2026-10-30T14:00:00+03:00",
+        "end": "2026-10-30T16:59:00+03:00",
+        "title": "Live: Chelsea vs. Tottenham"
+      },
+      {
+        "start": "2026-10-30T17:00:00+03:00",
+        "end": "2026-10-30T19:29:00+03:00",
+        "title": "Live: Arsenal vs. Aston Villa"
+      },
+      {
+        "start": "2026-10-30T19:30:00+03:00",
+        "end": "2026-10-30T22:00:00+03:00",
+        "title": "Live: Brentford vs. Crystal Palace"
+      },
+      {
+        "start": "2026-10-31T14:00:00+03:00",
+        "end": "2026-10-31T16:59:00+03:00",
+        "title": "Live: Chelsea vs. Tottenham"
+      },
+      {
+        "start": "2026-10-31T17:00:00+03:00",
+        "end": "2026-10-31T19:29:00+03:00",
+        "title": "Live: Arsenal vs. Aston Villa"
+      },
+      {
+        "start": "2026-10-31T19:30:00+03:00",
+        "end": "2026-10-31T22:00:00+03:00",
+        "title": "Live: Brentford vs. Crystal Palace"
+      }
     ]
   }
 ]

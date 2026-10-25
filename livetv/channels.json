@@ -135,7 +135,7 @@
   {
     "id": "boomerang",
     "name": "Boomerang",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQgmx_MZtLindPh6pyJXK3nSprhnt5ytLmxmkWHOI_RIuazUNCXObUAiv&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/boomerang-us.png",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -169,7 +169,7 @@
   {
     "id": "bloomberg-tv",
     "name": "Bloomberg TV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSuYFnyupJFiJF_54HW9kPBPtpGaOuE7efJGUWUmTBkUR_LVeSKf_x8dU&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/bloomberg-television-us.png",
     "category": "business",
     "country": "US",
     "language": "en",
@@ -195,7 +195,7 @@
   {
     "id": "cartoon-network",
     "name": "Cartoon Network",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTY6fOL4jpaUVynQCNcIp-wjr451mykteMyA_3U1BWe6naRlXdOw7AT9k&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/cartoon-network-us.png",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -215,7 +215,7 @@
   {
     "id": "cbs-sports",
     "name": "CBS Sports Network",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJX-X9hVfPZWiO4zeZSjHBlxfD36ujjKgFLaW13aqeUFD0WcRiAi6hmGU&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/cbs-sports-network-us.png",
     "category": "sports",
     "country": "US",
     "language": "en",
@@ -259,7 +259,7 @@
   {
     "id": "cooking-channel",
     "name": "COOKING CHANNEL",
-    "logo": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.462.85.suffix/1475775673528.webp",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/cooking-channel-us.png",
     "category": "food",
     "country": "US",
     "language": "en",
@@ -291,7 +291,7 @@
   {
     "id": "cinemax-tv",
     "name": "Cinemax",
-    "logo": "https://deadline.com/wp-content/uploads/2019/07/cinemax-logo.jpg?w=681&h=383&crop=1",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/cinemax-us.png",
     "category": "movies",
     "country": "US",
     "language": "en",
@@ -311,7 +311,7 @@
   {
     "id": "cnn",
     "name": "CNN",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1rpZ-mcfBOMCIYEkKsy2yd2cYvHT8F7X6Uo4qGtcBrg&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/cnn-us.png",
     "category": "news",
     "country": "US",
     "language": "en",
@@ -369,7 +369,7 @@
     "id": "discovery-family",
     "name": "Discovery Family",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyJ7qnr1R74ds-KTKuPhOA04EEt1lVSQtf_6gXo6ruLg&s=10",
-    "category": "documentary",
+    "category": "kids",
     "country": "US",
     "language": "en",
     "status": "active",
@@ -420,7 +420,7 @@
   {
     "id": "disney-jr",
     "name": "Disney Junior",
-    "logo": "https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/disney-jr-us.png",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -440,7 +440,7 @@
   {
     "id": "disney-xd",
     "name": "Disney XD (720p)",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHVCDEiutXnUyfaRYnmAkPW6uxqg6q9LmpZ6zjzCozw&s=10",
+    "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/disney-xd-us.png",
     "category": "kids",
     "country": "US",
     "language": "en",
@@ -590,20 +590,19 @@
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/9195", "priority": 1 },
-       { "url": "http://lunar.pm:8080/Coman7303/ic5IVr2wLl/56096", "priority": 2 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
     "id": "france-24",
-    "name": "UK| FRANCE 24",
+    "name": "FRANCE 24",
     "logo": "https://banner2.cleanpng.com/20180625/uzh/aaz67sllb.webp",
     "category": "news",
     "country": "UK",
     "language": "en",
     "status": "active",
     "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/149653", "priority": 1 }
+      { "url": "", "priority": 1 }
     ]
   },
   {
@@ -619,30 +618,6 @@
     ]
   },
   {
-    "id": "geo-tv",
-    "name": "UK| GEOTV",
-    "logo": "https://banner2.cleanpng.com/cb3/zlm/kun/ag1g2ives.webp",
-    "category": "documentary",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014312", "priority": 1 }
-    ]
-  },
-  {
-    "id": "god-channel",
-    "name": "UK| GOD CHANNEL",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgP0QefV6KMCOTcYk7Qammm2x8EsCNNtzgGJik8uO9Xw&s",
-    "category": "religion",
-    "country": "UK",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://line.8kultradnscloud.ru:80/24nn6nw3tx/me6z58cu5m/1014311", "priority": 1 }
-    ]
-  },
-  {
     "id": "great-commission-tv-ke",
     "name": "Great Commission TV",
     "logo": "https://yt3.googleusercontent.com/cRQoVYmsrb77W-JzGynnMhNjrJVIWMQVZV2-SXAzVpz0PzsoQC4MxgQ9LkEENU04jOmkawsH=s900-c-k-c0x00ffffff-no-rj",
@@ -652,30 +627,6 @@
     "status": "active",
     "streams": [
       { "url": "https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8", "priority": 1 }
-    ]
-  },
-  {
-    "id": "hbo-tv",
-    "name": "HBO",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvK9-h0Ytkuy1eleK2q6e3r4XsrIx9WaOyhILWQx1Sew&s",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/13434", "priority": 1 }
-    ]
-  },
-  {
-    "id": "hbo-2-tv",
-    "name": "HBO Hits",
-    "logo": "https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_HBO2.png",
-    "category": "movies",
-    "country": "US",
-    "language": "en",
-    "status": "active",
-    "streams": [
-      { "url": "http://bgdc.live:25461/meredithward/3368878/13435", "priority": 1 }
     ]
   },
   {
