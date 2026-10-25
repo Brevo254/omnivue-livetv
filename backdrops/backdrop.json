@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-10-25",
   "categories": [
     {
       "id": "live_tv",
       "title": "Live TV",
-      "tagline": "Broadcast channels, linear schedules & live feeds",
-      "stat_text": "142 CHANNELS • 38 LIVE NOW",
+      "tagline": "Experience real-time broadcasting. Stream local channels, breaking news, live events, and scheduled shows without interruption.",
+      "stat_text": "142 CHANNELS • 38 BROADCASTING NOW",
       "accent_color": "#2196F3",
       "icon_url": "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
       "is_active": true,
@@ -20,15 +20,14 @@
           "https://www.dstv.com/media/g0vdyadj/dstv-kenya-march-26_1920x1080.jpg?width=1200",
           "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
           "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
-
         ]
       }
     },
     {
       "id": "radio",
       "title": "Radio",
-      "tagline": "Live Kenyan radio, music & talk",
-      "stat_text": "40+ STATIONS • LIVE",
+      "tagline": "Tune in to the heart of Kenyan radio. Enjoy live music, interactive talk shows, daily news, and podcast feeds anytime.",
+      "stat_text": "40+ LIVE STATIONS • REGIONAL & NATIONAL",
       "accent_color": "#FF9800",
       "icon_url": "https://logo.com/image-cdn/images/kts928pd/production/83e942d135a7fb19e062411337ce30217c292c60-731x731.jpg?w=1080&q=72&fm=webp",
       "is_active": true,
@@ -49,8 +48,8 @@
     {
       "id": "kids",
       "title": "Kids",
-      "tagline": "Family-friendly movies, cartoons & animated adventures",
-      "stat_text": "450 SHOWS • RATED PG",
+      "tagline": "Safe, entertaining, and educational content curated specially for young minds and family movie nights.",
+      "stat_text": "450+ FAMILY SHOWS • AGE-APPROPRIATE & SAFE",
       "accent_color": "#FFD000",
       "icon_url": "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp",
       "is_active": true,
@@ -70,8 +69,8 @@
     {
       "id": "sports",
       "title": "Sports",
-      "tagline": "Live matches, upcoming fixtures & match highlights",
-      "stat_text": "12 LIVE EVENTS • FIXTURES",
+      "tagline": "Catch every goal, slam dunk, and knockout. Live tournament streaming, match replays, and complete fixture schedules.",
+      "stat_text": "12 LIVE MATCHES • UPCOMING FIXTURES",
       "accent_color": "#0B6623",
       "icon_url": "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
       "is_active": false,
@@ -95,8 +94,8 @@
     {
       "id": "movies",
       "title": "Movies",
-      "tagline": "Blockbusters, indie films & curated collections",
-      "stat_text": "2,410 TITLES • 4K HDR",
+      "tagline": "Dive into an immersive cinematic journey. Stream Hollywood blockbusters, award-winning indie gems, and timeless classics in pristine quality.",
+      "stat_text": "2,400+ BLOCKBUSTERS • 4K ULTRA HD & HDR",
       "accent_color": "#E50914",
       "icon_url": "https://i.pinimg.com/1200x/ba/17/16/ba17168eb93452db47430bdb6a727802.jpg",
       "is_active": true,
@@ -119,8 +118,8 @@
     {
       "id": "anime",
       "title": "Anime",
-      "tagline": "Simulcasts, classic sagas & sub/dub catalogs",
-      "stat_text": "620 TITLES • SIMULCASTS",
+      "tagline": "Step into extraordinary worlds. Stream the latest simulcast episodes straight from Japan alongside full classic series in English Sub & Dub.",
+      "stat_text": "620+ SERIES • SIMULCAST & SUBBED/DUBBED",
       "accent_color": "#9C27B0",
       "icon_url": "https://backiee.com/static/wallpapers/1000x563/464744.webp",
       "is_active": true,
@@ -139,8 +138,8 @@
     {
       "id": "music",
       "title": "Music",
-      "tagline": "Turn up the volume with endless hits, lives & playlists",
-      "stat_text": "24/7 MUSIC STATIONS • TOP CHARTS",
+      "tagline": "Non-stop rhythm for every mood. Explore curated playlists, top charts, live concert feeds, and 24/7 themed music channels.",
+      "stat_text": "24/7 MUSIC STATIONS • TOP REGIONAL & GLOBAL CHARTS",
       "accent_color": "#E91E63",
       "icon_url": "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
       "is_active": false,
@@ -159,9 +158,9 @@
     {
       "id": "help",
       "title": "Help Center",
-      "tagline": "Need help? Get help with Omnivue, subscriptions & playback",
-      "stat_text": "SUPPORT • FAQs • CONTACT US",
-      "accent_color":"#2196F3",
+      "tagline": "Have questions or technical issues? Access quick tutorials, account management tools, and instant customer support anytime.",
+      "stat_text": "24/7 SUPPORT • FAQs & ACCOUNT TROUBLESHOOTING",
+      "accent_color": "#2196F3",
       "icon_url": "https://banner2.cleanpng.com/cb2/gue/jmh/vl9f48mdi.webp",
       "is_active": true,
       "is_beta": false,
