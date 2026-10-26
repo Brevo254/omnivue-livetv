@@ -5,7 +5,7 @@
     {
       "id": "live_tv",
       "title": "Live TV",
-      "tagline": "Experience real-time broadcasting. Stream local channels, breaking news, live events, and scheduled shows without interruption.",
+      "tagline": "The world, happening right now. Catch breaking news, local favorites, live events, and the shows everyone's talking about.",
       "stat_text": "142 CHANNELS • 38 BROADCASTING NOW",
       "accent_color": "#2196F3",
       "icon_url": "https://banner2.cleanpng.com/20180601/hio/avoh9o691.webp",
@@ -18,15 +18,14 @@
           "https://www.dstv.com/media/a0ifrcki/1920x1080_new-dstv-packs_sports.png?width=300",
           "https://i.pinimg.com/1200x/7e/09/9c/7e099cea60e5c36e812c43d2f1efe402.jpg",
           "https://www.dstv.com/media/g0vdyadj/dstv-kenya-march-26_1920x1080.jpg?width=1200",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     },
     {
       "id": "radio",
       "title": "Radio",
-      "tagline": "Tune in to the heart of Kenyan radio. Enjoy live music, interactive talk shows, daily news, and podcast feeds anytime.",
+      "tagline": "Your favorite voices, your kind of vibe. Tune in to Kenyan hits, lively talk shows, daily news, and podcasts whenever the mood strikes",
       "stat_text": "40+ LIVE STATIONS • REGIONAL & NATIONAL",
       "accent_color": "#FF9800",
       "icon_url": "https://logo.com/image-cdn/images/kts928pd/production/83e942d135a7fb19e062411337ce30217c292c60-731x731.jpg?w=1080&q=72&fm=webp",
@@ -40,22 +39,21 @@
           "https://i.pinimg.com/736x/f0/d4/db/f0d4db7afa68f178397ec047ac709aaf.jpg",
           "https://i.pinimg.com/736x/48/a8/a5/48a8a519a19f5cb3fa11dadd577dd839.jpg",
           "https://i.pinimg.com/736x/ce/d2/ac/ced2ac747eb66ad9b0a14a6119dc044a.jpg",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     },
     {
       "id": "kids",
       "title": "Kids",
-      "tagline": "Safe, entertaining, and educational content curated specially for young minds and family movie nights.",
-      "stat_text": "450+ FAMILY SHOWS • AGE-APPROPRIATE & SAFE",
+      "tagline": "Little eyes, big adventures! Discover fun cartoons, exciting stories, and family-friendly favorites made for little imaginations.",
+      "stat_text": "450+ SHOWS • BIG FUN FOR LITTLE MINDS",
       "accent_color": "#FFD000",
       "icon_url": "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
-        "display_mode": "RIGHT_SIDE_BANNER",
+        "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
         "urls": [
           "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp",
@@ -69,8 +67,8 @@
     {
       "id": "sports",
       "title": "Sports",
-      "tagline": "Catch every goal, slam dunk, and knockout. Live tournament streaming, match replays, and complete fixture schedules.",
-      "stat_text": "12 LIVE MATCHES • UPCOMING FIXTURES",
+      "tagline": "Every goal. Every big moment. Every reason to cheer. Get closer to the action with live matches, replays, and upcoming fixtures.",
+      "stat_text": "LIVE MATCHES • FIXTURES • BIG MOMENTS",
       "accent_color": "#0B6623",
       "icon_url": "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
       "is_active": false,
@@ -86,47 +84,45 @@
           "https://www.gotvafrica.com/media/525haxft/laliga-article-500-280.jpg",
           "https://damitv.st/img/laliga.jpeg",
           "https://damitv.st/img/fight-arena-bg.webp",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     },
     {
       "id": "movies",
       "title": "Movies",
-      "tagline": "Dive into an immersive cinematic journey. Stream Hollywood blockbusters, award-winning indie gems, and timeless classics in pristine quality.",
-      "stat_text": "2,400+ BLOCKBUSTERS • 4K ULTRA HD & HDR",
+      "tagline": "Big-screen thrills, right from your couch. Dive into action, comedy, drama, Nollywood favorites, and stories that stay with you long after the credits roll.",
+      "stat_text": "MOVIES FOR EVERY MOOD • STORIES THAT STAY",
       "accent_color": "#E50914",
       "icon_url": "https://i.pinimg.com/1200x/ba/17/16/ba17168eb93452db47430bdb6a727802.jpg",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
-        "cycle_interval_ms": 10000,
+        "cycle_interval_ms": 5000,
         "urls": [
           "https://i.pinimg.com/736x/92/00/6b/92006b0d1bf43b14e7b9fb28debc726f.jpg",
           "https://plus.unsplash.com/premium_photo-1710961232986-36cead00da3c?q=80&w=484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "https://i.pinimg.com/1200x/ba/17/16/ba17168eb93452db47430bdb6a727802.jpg",
           "https://plus.unsplash.com/premium_photo-1683133290577-f1b47c4b8c05?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "https://i.pinimg.com/1200x/3b/88/8a/3b888ae33caddd009ea0262a6dace304.jpg",
-          "https://images.unsplash.com/photo-1663847709955-a2f171c7b54b?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/67/25/eb/6725eb78b1ae7b363f203e30c0ea6771.jpg",
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     },
     {
       "id": "anime",
       "title": "Anime",
-      "tagline": "Step into extraordinary worlds. Stream the latest simulcast episodes straight from Japan alongside full classic series in English Sub & Dub.",
-      "stat_text": "620+ SERIES • SIMULCAST & SUBBED/DUBBED",
+      "tagline": "Epic battles. Unforgettable adventures. Worlds beyond imagination. Discover your next favorite, pick up where you left off, and enjoy available English dub or sub.",
+      "stat_text": "620+ SERIES • DUB & SUB • ENDLESS ADVENTURES",
       "accent_color": "#9C27B0",
       "icon_url": "https://backiee.com/static/wallpapers/1000x563/464744.webp",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
-        "cycle_interval_ms": 8000,
+        "cycle_interval_ms": 5000,
         "urls": [
           "https://backiee.com/static/wallpapers/1000x563/464744.webp",
           "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -138,20 +134,19 @@
     {
       "id": "music",
       "title": "Music",
-      "tagline": "Non-stop rhythm for every mood. Explore curated playlists, top charts, live concert feeds, and 24/7 themed music channels.",
-      "stat_text": "24/7 MUSIC STATIONS • TOP REGIONAL & GLOBAL CHARTS",
+      "tagline": "Set the mood. Feel the rhythm. From laid-back vibes to high-energy hits, find the sounds that move you.",
+      "stat_text": "YOUR MOOD • YOUR MUSIC • YOUR VIBE",
       "accent_color": "#E91E63",
       "icon_url": "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
       "is_active": false,
       "is_beta": false,
       "backdrop": {
         "display_mode": "FULL_SCREEN",
-        "cycle_interval_ms": 8000,
+        "cycle_interval_ms": 5000,
         "urls": [
           "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
           "https://banner2.cleanpng.com/cb3/bqs/xlw/vz5y9ysyo.webp",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     },
@@ -159,7 +154,7 @@
       "id": "help",
       "title": "Help Center",
       "tagline": "Have questions or technical issues? Access quick tutorials, account management tools, and instant customer support anytime.",
-      "stat_text": "24/7 SUPPORT • FAQs & ACCOUNT TROUBLESHOOTING",
+      "stat_text": "24/7 SUPPORT • FAQs & ACCOUNT TROUBLESHOOTING • QUICK GUIDES • ANSWERS ",
       "accent_color": "#2196F3",
       "icon_url": "https://banner2.cleanpng.com/cb2/gue/jmh/vl9f48mdi.webp",
       "is_active": true,
@@ -170,8 +165,7 @@
         "urls": [
           "https://banner2.cleanpng.com/cb2/gue/jmh/vl9f48mdi.webp",
           "https://banner2.cleanpng.com/20180330/xhw/kisspng-lytle-isd-lytle-junior-high-school-northern-illino-contact-5abf0790a39a40.9625649515224687526701.jpg",
-          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg",
-          "https://i.pinimg.com/736x/e4/e6/74/e4e674266f2cc2f05c3cc99c782088fb.jpg"
+          "https://i.pinimg.com/1200x/6d/ce/1c/6dce1c0e12a16f805ea0849d5a67782d.jpg"
         ]
       }
     }

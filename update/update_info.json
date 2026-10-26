@@ -1,16 +1,18 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
+  "versionCode": 10,
+  "versionName": "1.0.9",
   "changelog": [
-    "🚀 OMNIVUE 1.0.8 IS HERE — YOUR ALL-IN-ONE ENTERTAINMENT HUB!",
+    "🔥 OMNIVUE 1.0.9 — THE ANIME ERA HAS ARRIVED!",
     "--------------------------------------------------",
-    "📻 Live Radio & Podcasts: Tune in to world news, local hits, and top podcasts.",
-    "🎬 Smooth Movie Streaming: Resolved crash bugs so you can enjoy uninterrupted movies.",
-    "⚽ Enhanced Sports Center: Fixed response lag for high-demand live matches.",
-    "📺 Family TV & EPG: More live channels with live program schedules.",
-    "🧸 Dedicated Kids Hub: A safe space for children's entertainment.",
+    "🎌 Your Anime, Your Way: Discover great anime titles across Shonen, Isekai, Action, and many more genres.",
+    "▶️ Continue Watching: Pick up where you left off and easily select episodes.",
+    "🌐 Multiple Streaming Servers: Switch between servers, with your preferred server remembered for a smoother experience.",
+    "⚡ Faster Loading: Get into your favorite anime faster.",
+    "🎙️ English Dub & Sub: Enjoy anime your way with dubbed and subtitled options.",
+    "✨ Great Titles, All in One Place: Discover familiar favorites and more anime worth watching.",
+    "📅 More to Come: New titles and updates every week. The anime journey is just getting started!",
     "--------------------------------------------------",
-    "💡 Help us build something big: Share Omnivue with a friend today! Got friends needing setup help? Full installation is just KSh 500."
+    "💡 Help us build something big: Share Omnivue with a fellow anime fan today!"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false
