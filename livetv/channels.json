@@ -1276,9 +1276,23 @@
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "inactive",
+    "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      {
+      "url": "https://cdn.wideiptv.top/tntsports2/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "tntsports2",
+        "seed": "dG50c3BvcnRzMnxub19jaGVja19pcHwxNzkzMzk3NDUw.72fe3ee6373646f967e2b84fbbe1ba1deb52d4ef7c3e1e7618e16984adbd22a5"
+      }
+    }
     ]
   },
   {
@@ -1288,9 +1302,23 @@
     "category": "sports",
     "country": "UK",
     "language": "en",
-    "status": "inactive",
+    "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      {
+      "url": "https://cdn.wideiptv.top/tntsports3/index.m3u8",
+      "priority": 1,
+      "headers": {
+        "Origin": "https://wideiptv.top",
+        "Referer": "https://wideiptv.top/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      },
+      "token": {
+        "type": "refresh",
+        "endpoint": "https://wideiptv.top/api/refresh_token.php",
+        "channel": "tntsports3",
+        "seed": "dG50c3BvcnRzM3xub19jaGVja19pcHwxNzkzMzk3OTQx.ed67f1cf402fed854bfdd96876ae6ff211c51d98096e8a049774ee6cf09d7f19"
+      }
+    }
     ]
   },
   {
