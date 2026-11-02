@@ -8,7 +8,7 @@
       "tagline": "The world, happening right now. Catch breaking news, local favorites, live events, and the shows everyone's talking about.",
       "stat_text": "142 CHANNELS • 38 BROADCASTING NOW",
       "accent_color": "#2196F3",
-      "icon_url": "https://i.pinimg.com/1200x/28/46/df/2846df3c32b5beddd6273d10b9845271.jpg",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/live-tv.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -28,7 +28,7 @@
       "tagline": "Your favorite voices, your kind of vibe. Tune in to Kenyan hits, lively talk shows, daily news, and podcasts whenever the mood strikes",
       "stat_text": "40+ LIVE STATIONS • REGIONAL & NATIONAL",
       "accent_color": "#FF9800",
-      "icon_url": "https://logo.com/image-cdn/images/kts928pd/production/83e942d135a7fb19e062411337ce30217c292c60-731x731.jpg?w=1080&q=72&fm=webp",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/radio.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -49,7 +49,7 @@
       "tagline": "Little eyes, big adventures! Discover fun cartoons, exciting stories, and family-friendly favorites made for little imaginations.",
       "stat_text": "450+ SHOWS • BIG FUN FOR LITTLE MINDS",
       "accent_color": "#FFD000",
-      "icon_url": "https://banner2.cleanpng.com/cb4/ocy/rro/vf2uqmd27.webp",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/kids.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -70,7 +70,7 @@
       "tagline": "Every goal. Every big moment. Every reason to cheer. Get closer to the action with live matches, replays, and upcoming fixtures.",
       "stat_text": "LIVE MATCHES • FIXTURES • BIG MOMENTS",
       "accent_color": "#0B6623",
-      "icon_url": "https://i.pinimg.com/736x/c8/e3/d4/c8e3d40068d90e84517dea8369dd158d.jpg",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/sports.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -94,7 +94,7 @@
       "tagline": "Big-screen thrills, right from your couch. Dive into action, comedy, drama, Nollywood favorites, and stories that stay with you long after the credits roll.",
       "stat_text": "MOVIES FOR EVERY MOOD • STORIES THAT STAY",
       "accent_color": "#E50914",
-      "icon_url": "https://i.pinimg.com/1200x/ba/17/16/ba17168eb93452db47430bdb6a727802.jpg",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/movies.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -117,7 +117,7 @@
       "tagline": "Epic battles. Unforgettable adventures. Worlds beyond imagination. Discover your next favorite, pick up where you left off, and enjoy available English dub or sub.",
       "stat_text": "620+ SERIES • DUB & SUB • ENDLESS ADVENTURES",
       "accent_color": "#9C27B0",
-      "icon_url": "https://backiee.com/static/wallpapers/1000x563/464744.webp",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/anime.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
@@ -137,7 +137,7 @@
       "tagline": "Set the mood. Feel the rhythm. From laid-back vibes to high-energy hits, find the sounds that move you.",
       "stat_text": "YOUR MOOD • YOUR MUSIC • YOUR VIBE",
       "accent_color": "#E91E63",
-      "icon_url": "https://banner2.cleanpng.com/cb3/qtd/zln/vz5b54hxe.webp",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/music.png",
       "is_active": false,
       "is_beta": false,
       "backdrop": {
@@ -156,7 +156,7 @@
       "tagline": "Have questions or technical issues? Access quick tutorials, account management tools, and instant customer support anytime.",
       "stat_text": "24/7 SUPPORT • FAQs & ACCOUNT TROUBLESHOOTING • QUICK GUIDES • ANSWERS ",
       "accent_color": "#2196F3",
-      "icon_url": "https://banner2.cleanpng.com/cb2/gue/jmh/vl9f48mdi.webp",
+      "icon_url": "https://raw.githubusercontent.com/Brevo254/omnivue-livetv/main/icons/help.png",
       "is_active": true,
       "is_beta": false,
       "backdrop": {
