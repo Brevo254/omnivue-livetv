@@ -1,17 +1,15 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.1.0",
   "changelog": [
-    "🔥 OMNIVUE 1.0.9 — THE ANIME ERA HAS ARRIVED!",
+    "OMNIVUE 1.1.0 — SPORTS, REIMAGINED!",
     "--------------------------------------------------",
-    "🎌 Your Anime, Your Way: Discover great anime titles across Shonen, Isekai, Action, and many more genres.",
-    "▶️ Continue Watching",
-    "🌐 Multiple Streaming Servers",
-    "⚡ Faster Loading",
-    "🎙️ English Dub & Sub",
-    "📅 More to Come",
+    "⚽ A refreshed Sports experience with a redesigned interface.",
+    "🎨 Improved visuals and content presentation.",
+    "🎮 Smoother navigation across the Sports section.",
+    "⚡ General performance improvements and refinements.",
     "--------------------------------------------------",
-    "💡 Help us build something big: Share Omnivue with a fellow anime fan today!"
+    "Thank you for being part of Omnivue!"
   ],
   "downloadUrl": "https://pub-0911f6daf8fe4782bc74c6c1018c489c.r2.dev/omnivue.apk",
   "mandatory": false
