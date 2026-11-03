@@ -57,6 +57,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
+        "video_url":"https://v1.pinimg.com/videos/iht/hls/8e/a8/6f/8ea86f6f524a800605de2838d741d17c.m3u8",
         "urls": [
           "https://i.pinimg.com/736x/ca/25/cc/ca25cc29679bcdbdade38925d5aac0d8.jpg",
           "https://i.pinimg.com/736x/4d/fe/26/4dfe26531a1556da54f3e183da5fd2e4.jpg",
@@ -79,6 +80,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
+        "video_url":"https://v1.pinimg.com/videos/iht/hls/e5/82/fc/e582fc492b4e8e3540d80c39fe9eba04_240w.m3u8",
         "urls": [
           "https://www.dstv.com/media/41ihomtr/sporty-tv-1920-1080.png?width=1200",
           "https://damitv.st/img/football-hero-bg.png",
@@ -103,7 +105,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
-        "video_url": "",
+        "video_url": "https://v1.pinimg.com/videos/iht/hls/00/a0/b7/00a0b7b0d05249f6934f69765a80fd82.m3u8",
         "urls": [
           "https://i.pinimg.com/736x/61/f7/bd/61f7bd0ffb330c8fb03ada8dbe9499c0.jpg",
           "https://i.pinimg.com/1200x/64/98/a7/6498a7bf5f00b6bfe6d757a10e052ff4.jpg",
@@ -126,7 +128,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
-        "video_url":"https://v1.pinimg.com/videos/iht/hls/f5/db/d9/f5dbd9fc22fa74ec517c4b982aad5f99.m3u8",
+        "video_url":"https://v1.pinimg.com/videos/mc/expMp4/92/e6/0f/92e60f0b442860324b155fe025b2d1eb_t1.mp4",
         "urls": [
           "https://i.pinimg.com/736x/af/2c/2b/af2c2b201b01946a104f6090ae4dd2b5.jpg",
           "https://backiee.com/static/wallpapers/1000x563/464744.webp",
