@@ -103,6 +103,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
+        "video_url": "",
         "urls": [
           "https://i.pinimg.com/736x/61/f7/bd/61f7bd0ffb330c8fb03ada8dbe9499c0.jpg",
           "https://i.pinimg.com/1200x/64/98/a7/6498a7bf5f00b6bfe6d757a10e052ff4.jpg",
@@ -125,11 +126,10 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
+        "video_url":"https://v1.pinimg.com/videos/iht/hls/f5/db/d9/f5dbd9fc22fa74ec517c4b982aad5f99.m3u8",
         "urls": [
-          "https://i.pinimg.com/736x/26/3a/a0/263aa0fcacdafd6ec38ba4ae6ee2f006.jpg",
           "https://i.pinimg.com/736x/af/2c/2b/af2c2b201b01946a104f6090ae4dd2b5.jpg",
           "https://backiee.com/static/wallpapers/1000x563/464744.webp",
-          "https://i.pinimg.com/1200x/49/40/62/49406215bf484ec234fea6275b0605fe.jpg",
           "https://i.pinimg.com/736x/b8/ad/36/b8ad363e4a42dde0271db0c3aed2f948.jpg",
           "https://i.pinimg.com/1200x/8b/fa/05/8bfa05b965c539f2ccd65347ca293b06.jpg",
           "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
