@@ -788,9 +788,19 @@
     "category": "sports",
     "country": "US",
     "language": "en",
-    "status": "inactive",
+    "status": "active",
     "streams": [
-      { "url": "", "priority": 1 }
+      { "url": "https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8", "priority": 1 },
+      {
+      "url": "https://cache0.wonvt.st/live/0urww831mcu7290iaifzl/master.m3u8",
+      "priority": 2,
+      "headers": {
+        "Origin": "https://tvnow.st",
+        "Referer": "https://tvnow.st/",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+      }
+    }
+
     ]
   },
   {
@@ -1620,7 +1630,20 @@
     "streams": [
       { "url": "https://tvsen6.aynaott.com/skynature/index.m3u8", "priority": 1 }
     ]
-  }, 
+  },
+  {
+    "id": "uefa-champions-league",
+    "name": "UEFA Champions League",
+    "logo": "https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      {"url": "https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8", "priority": 1 },
+      { "url": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8", "priority": 2 }
+    ]
+  },
   {
     "id": "unidentified",
     "name": "UFO tv (Unidentified)",
