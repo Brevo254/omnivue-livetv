@@ -105,7 +105,7 @@
       "backdrop": {
         "display_mode": "FULL_SCREEN",
         "cycle_interval_ms": 5000,
-        "video_url": "https://v1.pinimg.com/videos/iht/hls/00/a0/b7/00a0b7b0d05249f6934f69765a80fd82.m3u8",
+        "video_url": "https://v1.pinimg.com/videos/mc/hls/94/bf/c7/94bfc7b6637d91a532327ffe52fb1171_640w.m3u8",
         "urls": [
           "https://i.pinimg.com/736x/61/f7/bd/61f7bd0ffb330c8fb03ada8dbe9499c0.jpg",
           "https://i.pinimg.com/1200x/64/98/a7/6498a7bf5f00b6bfe6d757a10e052ff4.jpg",
