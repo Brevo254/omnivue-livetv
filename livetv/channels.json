@@ -1110,7 +1110,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds169.bluetier.top/skysportsmainevent/index.m3u8",
+      "url": "https://cdn.hdm1.net/skysportsmainevent/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1121,7 +1121,7 @@
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
         "channel": "skysportsmainevent",
-        "seed": "c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3OTAxOTE3MjM=.9db26d5bf0e1a8b50c710fa0d933b877c5ea274fc0bd6ba336899ee22b0e880a"
+        "seed": "c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3OTQ1MjI2MDA=.97f53772b4b60b33834b5aa18702af627847c80b480584d1c7697a1fd42c2014"
       }
     }
   ]
@@ -1148,7 +1148,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds169.bluetier.top/skysportsnews/index.m3u8",
+      "url": "https://cdn.hdm1.net/skysportsnews/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1174,7 +1174,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds169.bluetier.top/SkySportsFootballUK/index.m3u8",
+      "url": "https://cdn.hdm1.net/SkySportsFootballUK/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1185,7 +1185,7 @@
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
         "channel": "SkySportsFootballUK",
-        "seed": "U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzkwMTkwNzcx.bd48a73517c05b5bcd26e0c9aff048bcd87085e951d4c9b4f1cec32819fb319f"
+        "seed": "U2t5U3BvcnRzRm9vdGJhbGxVS3xub19jaGVja19pcHwxNzk0NTIyNDE4.7a10b7c4534fbd12db27527768711a2ae71e13327d052f05fe63dcd841091a09"
       }
     }
   ]
@@ -1200,7 +1200,7 @@
   "status": "active",
   "streams": [
     {
-      "url": "https://ds169.bluetier.top/skysportspremierleague/index.m3u8",
+      "url": "https://cdn.hdm1.net/skysportspremierleague/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1211,7 +1211,7 @@
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
         "channel": "skysportspremierleague",
-        "seed": "c2t5c3BvcnRzcHJlbWllcmxlYWd1ZXxub19jaGVja19pcHwxNzkwMTE2Mzc4.36615e5bd8a7ecd650a9b7855d655ab0abd3fde04e1d3b2e857072b2e98cc73f"
+        "seed": "c2t5c3BvcnRzcHJlbWllcmxlYWd1ZXxub19jaGVja19pcHwxNzk0NTIyMTU0.75e26d2096a067d5e31c0068f6b2d7623a446aff0e0042a46c28b03949fb87b6"
       }
     }
   ]
@@ -1287,7 +1287,7 @@
     "status": "active",
     "streams": [
       {
-      "url": "https://ds169.bluetier.top/TNT1UK/index.m3u8",
+      "url": "https://cdn.hdm1.net/TNT1UK/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1298,7 +1298,7 @@
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
         "channel": "TNT1UK",
-        "seed": "VE5UMVVLfG5vX2NoZWNrX2lwfDE3OTE4NDIzNzU=.f5d95aa369f3b917d4169f16e6d3867441e63b213ab23663d27a308a1c685a51"
+        "seed": "VE5UMVVLfG5vX2NoZWNrX2lwfDE3OTQ1MjI5ODc=.2fe4859d80831090b159ca352f126d2f59661db1b722364668e43c52f3905ec0"
       }
     }
     ]
@@ -1313,7 +1313,7 @@
     "status": "active",
     "streams": [
       {
-      "url": "https://cdn.wideiptv.top/tntsports2/index.m3u8",
+      "url": "https://cdn.hdm1.net/tntsports2/index.m3u8",
       "priority": 1,
       "headers": {
         "Origin": "https://wideiptv.top",
@@ -1324,7 +1324,7 @@
         "type": "refresh",
         "endpoint": "https://wideiptv.top/api/refresh_token.php",
         "channel": "tntsports2",
-        "seed": "dG50c3BvcnRzMnxub19jaGVja19pcHwxNzkzMzk3NDUw.72fe3ee6373646f967e2b84fbbe1ba1deb52d4ef7c3e1e7618e16984adbd22a5"
+        "seed": "dG50c3BvcnRzMnxub19jaGVja19pcHwxNzk0NTIzMjEy.817cb1a37e79b9f627d5fb5a803e3baa82f9cbbfd743335837d8172ddd629d35"
       }
     }
     ]
