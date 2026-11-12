@@ -133,6 +133,30 @@
     ]
   },
   {
+    "id": "bein-sports-usa",
+    "name": "beIN Sports USA (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8", "priority": 1}
+    ]
+  },
+  {
+    "id": "bein-sports-xtra",
+    "name": "beIN SPORTS XTRA (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+    "category": "sports",
+    "country": "US",
+    "language": "en",
+    "status": "active",
+    "streams": [
+      { "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8", "priority": 1}
+    ]
+  },
+  {
     "id": "boomerang",
     "name": "Boomerang",
     "logo": "https://raw.githubusercontent.com/Brevo254/tv-logos/main/countries/united-states/boomerang-us.png",
