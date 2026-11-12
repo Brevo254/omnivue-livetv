@@ -1,16 +1,16 @@
 [
   {
-    "id": "global_welcome_2026_10_26",
-    "date": "2026-10-26",
-    "title": "Our Football Fans",
-    "message": "We owe you a quick update! You might have noticed some turbulence over the past week, particularly in the sports Section. While we've been working hard behind the scenes to upgrade and expand Omnivue, maintaining active features alongside heavy system upgrades proved a bit tricky for our small team.\n\nThe sports section will be temporarily removed and we are extrememly sorry for that. \n\nIf you ever bump into a broken link or a section playing hide-and-seek, please let us know via the Help Center! Reaching out directly helps us spot and fix issues much faster. Thank you for your patience and for sticking with us as we build a bigger, better Omnivue!",
+    "id": "global_welcome_2026_11_13",
+    "date": "2026-11-13",
+    "title": "An Update for Our Football Fans",
+    "message": "We've heard you, and we know how much the Sports section means to many of you.\n\nOver the past few weeks, we've been working hard to improve and expand the Omnivue experience. However, the Sports section hasn't been delivering the level of reliability we'd like you to experience.\n\nRather than continue offering an inconsistent experience, we've made the decision to temporarily take down the Sports section as we work towards making it better and more dependable.\n\nWe know this may be disappointing, especially for those who rely on Omnivue to follow their favourite games. We're genuinely sorry for the inconvenience. This isn't goodbye to sports on Omnivue; it's a step towards bringing it back in a better state.\n\nIf you encounter broken links, playback issues or anything that doesn't seem right in other sections, please reach out through our Help Center. Your feedback helps us identify issues and improve your experience.\n\nThank you for your patience, understanding and continued support as we build a better Omnivue!",
     "category": null
   },
   {
-    "id": "live_tv_2026_09_26",
-    "date": "2026-09-26",
-    "title": "New Sports Channels & Upgraded TV Experience",
-    "message": "Live TV is better than ever! We've added premier sports channels—including Sky Sports News, Main Event, Premier League, and Football—delivering smooth, stutter-free streams so you never miss trending football action. Explore our sleek new layout with organized categories (Local, Entertainment, Sports), Watch History for quick channel switching, and a live TV EPG to track your favorite broadcasts.",
+    "id": "live_tv_2026_11_13",
+    "date": "2026-11-13",
+    "title": "A Fresh New Look for Live TV",
+    "message": "Live TV is getting a fresh new look! We've redesigned the interface to make browsing and navigating your favourite channels simpler and more enjoyable.\n\nExplore the updated layout, featuring neatly organized categories such as Local, Entertainment and Sports, alongside Watch History for quicker access to previously watched channels and an improved EPG to help you keep track of your favourite broadcasts.\n\nEnjoy the refreshed Live TV experience!",
     "category": "livetv"
   }
 ]
